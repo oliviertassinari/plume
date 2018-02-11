@@ -1,0 +1,24 @@
+
+                            Pre Annotation Report Log
+                            -------------------------
+
+                         07:02 PM Sunday, March 30, 2014
+                Job Name: U:\2014\PLUME\PCB\EMETTEUR\PCB\PCB.pcb
+
+ --- Initializing iCDB database. ---
+ --- Populating maps with iCDB data. ---
+ --- Comparing symbol and pin information. ---
+ --- Comparing nets information. ---
+
+ *** AnnotPreview completed. ***
+                            Pre Annotation Report Log
+                            -------------------------
+
+                         07:02 PM Sunday, March 30, 2014
+                Job Name: U:\2014\PLUME\PCB\EMETTEUR\PCB\PCB.pcb
+
+ --- Initializing iCDB database. ---
+ --- Populating maps with iCDB data. ---
+ --- Comparing symbol and pin information. ---
+
+ *** AnnotPreview completed. ***

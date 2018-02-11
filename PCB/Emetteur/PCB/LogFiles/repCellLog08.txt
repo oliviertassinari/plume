@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.543.380
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  E:\ROSE\plume\PCB\Plume_Emetteur\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog08.txt
+
+Thu Mar 27 18:09:35 2014
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Thu Mar 27 18:09:35 2014  ---------------
+
+
+
+
+---------------    Thu Mar 27 18:09:35 2014  ---------------
+
+

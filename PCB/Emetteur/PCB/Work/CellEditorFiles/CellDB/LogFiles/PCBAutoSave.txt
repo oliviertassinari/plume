@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         06:48 PM Sunday, March 30, 2014
+Job Name: U:\2014\PLUME\PCB\EMETTEUR\PCB\WORK\CELLEDITORFILES\CELLDB\TQFP048_050_0920_0920_160.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         06:49 PM Sunday, March 30, 2014
+Job Name: U:\2014\PLUME\PCB\EMETTEUR\PCB\WORK\CELLEDITORFILES\CELLDB\TQFP048_050_0920_0920_160.pcb
+

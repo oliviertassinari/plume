@@ -1,0 +1,453 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[english,francais]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{hyperref}
+%\usepackage[squaren, Gray, cdot]{SIunits}
+\author{PLUME}
+\title{Etude}
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Physical background}
+
+(p431-pirkl.pdf)
+
+A transmitter generates
+an oscillating magnetic field with a well defined narrow
+frequency. The field excites a receiver which is essentially
+an oscillating circuit precisely tuned to the respective frequency.
+The strength of the excitation (=induced voltage)
+depends on the location of the receiver in the transmitter
+field, which is the basic effect that we use for positioning.
+
+\subsection{The Good News}
+
+From the point of view of indoor localization this has a number
+of advantages:
+\begin{itemize}
+\item Since nothing propagates, there are also no problems with
+multi path propagation which is a major issue in RF (and
+ultrasonic) systems, in particular (but not only) in time of
+flight measurement based approaches
+\item As no waves are generated, wave phenomena such as interference
+and refraction do not occur. In RF systems such
+phenomena are responsible for so called ”fading” which
+means that signal intensity displays complex spatial variations
+that are much stronger than the distance dependent
+signal strength change used for position computation.
+\item Magnetic field is much more difficult to ”block” than electromagnetic
+waves (at least within the spectrum range usable
+for positioning systems). In particular, water, which
+is the main component of the human body, has no relevant
+influence. Thus, presence of people which is a major
+factor in for exampleWiFi positioning, has no negative effect
+on a resonant magnetic system. In essence only massive
+metallic objects, in particular strongly ferromagnetic
+ones, have a significant effect on the signal.
+\item Even massive metal objects do not block the signal but
+have mostly local influence. While the influence of ferromagnetic
+objects on the field can be complex, on an abstract
+level it can be described as bending the field lines
+running within the object. To match the bending inside
+the object the field lines outside are also deformed but to
+a lesser degree and mostly in the proximity of the object.
+Thus we only see an effect if the object is close to the receiver
+or (to a lesser extent) to the transmitter. Unlike with
+RF systems the mere presence of the object in the vicinity
+has virtually no effect. This means that there is no need
+for finger printing to account for the specific configuration
+of furniture, walls etc.
+\item The magnetic field of a typical coil is elongated along the
+coil axis so that the field strength depends not only on the
+distance but also on where around the coil the receiver is
+placed. As will be discussed in section Position Estimation
+this means that using three perpendicular transmitter
+coils placed at a single location allows the receiver position
+to be restricted to a few points given by the symmetry
+of the magnetic field. Exact 3D positioning is possible
+with two beacon nodes. This is a major difference to other
+beacon based technologies where at least three beacons
+placed at different locations are needed for an accurate
+estimate and a single beacon only allows to narrow down
+the position to a circle rather than a small set of points.
+\item The strength of the signal induced in the receiver coil depends
+not only on the position within the field of the transmitter,
+but also on the angle between the receiver coil and
+the field lines. This means that the signal contains not
+only position, but also orientation information.
+\end{itemize}
+
+In summary, because of the underlying physical principle,
+magnetic resonant coupling technology is much less sensitive
+to disturbance typically found in indoor environments.
+Because of the structure of the field a single beacon only
+is needed for a basic position estimate and the signal even
+contains information about receiver orientation.
+
+\subsection{The Bad News}
+
+The physical principle of resonant magnetic coupling also
+creates some problems that need to be addressed by the positioning
+system design:
+\begin{itemize}
+\item The energy transmitted in the field decreases with 1=r6
+which means that the system is inherently short range.
+The range depends on the size of the coil, the number of
+windings and the voltage of the transmitter. Given that
+the transmitters are stationary (which means that size is
+not that critical) and are operated from the mains (which
+means large voltages are feasible) we have been able to
+achieve a range of approx. 4m (covers a diameter of 8m)
+so that a single transmitter can in principle cover an area of
+approx. 50 m2 (single large room). However this comes
+at the price of having to deal with a large dynamic range
+which complicates the design of the receiver.
+\item The receiver has a very narrow resonant range which is
+good in terms of being insensitive to noise from other
+sources of magnetic field. On the other hand it means
+that any variations in the transmission frequency or the
+resonant frequency have a critical impact on the measured
+signal. Such variations are common due to component
+manufacturing tolerances of the electronic components as
+well as from temperature effects and ways must be found
+to deal with them.
+\item The complex structure of the magnetic field means that
+translation from the signal strength to position is not trivial
+and involves detailed modeling of the field.
+\item Because of the orientation dependence of the signal not
+only the transmitter, but also the receiver needs to have
+three perpendicular coils and we need to measure the signal
+from each transmitter coil on each receiver coil. To do
+this we need time synchronization between the receivers
+and the transmitters. Such synchronization must allow
+for multiple transmitters to be operating in the same area,
+overlapping in their fields.
+\end{itemize}
+
+\subsection{Health and Safety Considerations}
+Health and safety considerations are an important aspect of
+any practical system. In our case the obvious concern are
+the generated magnetic field strengths.
+The WHO guidance for safe field
+strengths of low frequency magnetic fields are bellow 100 $\mu T$ .
+Hair dryers emit between 1.5 mT and 2 mT at a distance of 3cm (which is how they
+are used).
+
+Source : WHO chapter 12 \url{http://www.who.int/peh-emf/publications/elf_ehc/en/}
+
+\section{Physique}
+
+\subsection{Loi de Faraday}
+
+$ e = - \frac{d\Phi}{dt} $
+
+Flux magnétique $ {\textrm  {d}}\Phi ={\vec  {B}}\cdot {\vec  {{\textrm  {d}}S}}=\|{\vec  B}\|\cdot \|{\vec  {{\textrm  {d}}S}}\|\cdot \cos \theta  $
+
+\subsection{Effet de peau}
+
+$ \delta = \frac {1} {\sqrt{\sigma\cdot\mu\cdot\pi\cdot f}} $
+
+Pour le cuivre à 20 kHz $ \delta = 0.46 mm $
+
+\subsection{Fil de cuivre}
+
+Résitance $ R=\rho {\frac  {L}{S}} $
+
+Puissance dissipé par effet Joule $ P=\rho {\frac  {L}{S}}I^{{2}} $ 
+
+Résistivité du cuivre a 300K $ \rho = 17 * 10^{-9} $
+
+\subsection{Bobine}
+
+$ B(\phi, r) = \frac{\mu_0 INS}{4\pi r^4}\sqrt{1 + 3sin\phi^2} $
+
+$ \mu_0 = 4\pi*10^{-7} $
+
+La loi de Biot et Savart est valide pour un courant variable tant qu'on peut négliger le temps mis par la lumière pour aller d'un point quelconque de la bobine au point d'observation devant la période du courant.
+
+Temps mis par la lumière pour parcourir 5m : 1.66782048e-8 s.
+Il faut 1.66782048e-8 << T.
+Donc la fréquence limite de validité de la formule est f << 60 MHz.
+
+\subsection{Noise}
+
+\url{http://cds.linear.com/docs/en/datasheet/1028fb.pdf}
+\url{http://www.ti.com/lit/ml/sloa082/sloa082.pdf}
+
+\subsection{Fourier}
+
+\url{http://perso.telecom-paristech.fr/~prado/recherche/fourier/tr_fourier.pdf}
+
+\section{Calcul de la position}
+
+\subsection{Modélisation du problème et notations}
+
+Repères :
+\begin{itemize}
+\item cartésien fixe de l'emetteur : $R = (O,e_x,e_y,e_z)$
+\item sphérique fixe de l'emetteur : $R = (O,e_r,e_\theta,e_\phi)$
+\item mobile du recepteur : $R' = (M,e_{x'},e_{y'},e_{z'})$
+\end{itemize}
+
+L'emetteur est constitué de trois bobines centrées en O et alignées selon les axes $(O,e_x)$,$(O,e_y)$ et $(O,e_z)$
+
+Les champs magnétiques produits par ces bobines sont notés en coordonnées sphériques et dans le repère du recepteur :
+
+$\vec{B^{(x)}}
+=
+\left(
+  \begin{array}{ c }
+    B^{(x)}_{r} \\
+    B^{(x)}_{\theta} \\
+    B^{(x)}_{\phi}
+  \end{array} \right)
+=
+\left(
+  \begin{array}{ c }
+    B^{(x)}_{x'} \\
+    B^{(x)}_{y'} \\
+    B^{(x)}_{z'}
+  \end{array} \right)$
+
+$\vec{B^{(y)}}
+=
+\left(
+  \begin{array}{ c }
+    B^{(y)}_{r} \\
+    B^{(y)}_{\theta} \\
+    B^{(y)}_{\phi}
+  \end{array} \right)
+=
+\left(
+  \begin{array}{ c }
+    B^{(y)}_{x'} \\
+    B^{(y)}_{y'} \\
+    B^{(y)}_{z'}
+  \end{array} \right)$ 
+
+$\vec{B^{(z)}}
+=
+\left(
+  \begin{array}{ c }
+    B^{(z)}_{r} \\
+    B^{(z)}_{\theta} \\
+    B^{(z)}_{\phi}
+  \end{array} \right)
+=
+\left(
+  \begin{array}{ c }
+    B^{(z)}_{x'} \\
+    B^{(z)}_{y'} \\
+    B^{(z)}_{z'}
+  \end{array} \right)$
+
+Ils sont obtenus à partir des tensions resultant de l'induction dans les bobines orthogonales de vecteur surface $\vec(S_{x'}) = S_{x'}\cdot \vec{e_{x'}}$ :
+\[\vec{V^{(i)}}
+=
+\left(
+  \begin{array}{ c }
+    V^{(i)}_{x'} \\
+    V^{(i)}_{y'} \\
+    V^{(i)}_{z'}
+  \end{array} 
+\right)
+=
+\left(
+  \begin{array}{ c }
+    \frac{\partial\vec{B^{(i)}}}{\partial t} \cdot \vec{S_{x'}} \\
+    \frac{\partial\vec{B^{(i)}}}{\partial t} \cdot \vec{S_{y'}} \\
+    \frac{\partial\vec{B^{(i)}}}{\partial t} \cdot \vec{S_{z'}} 
+  \end{array} 
+\right)
+=
+\left(
+  \begin{array}{ c }
+    \vec{S_{x'}} \\
+    \vec{S_{y'}} \\
+    \vec{S_{z'}} 
+  \end{array} 
+\right)
+\cdot
+\frac{\partial\vec{B^{(i)}}}{\partial t}
+=
+\left(
+  \begin{array}{ c }
+    \vec{S_{x'}} \\
+    \vec{S_{y'}} \\
+    \vec{S_{z'}} 
+  \end{array} 
+\right)
+\cdot
+j \omega^{(i)} \vec{B^{(i)}}
+\]
+
+Si la bobine alignée sur l'axe $(O,\vec{e_i})$ est parcourue par un courant alternatif sinusoïdal de période $\omega^{(i)}$.
+
+\subsection{Calcul de la position}
+
+Les bobines du récepteurs étant orthogonales, on peut calculer les vecteurs $\vec{B^{(i)}}$ entièrement.
+
+On obtient notamment leurs normes au point M : 
+\begin{align}
+  \left|B^{(i)}\right|^2 &= \left| \vec{B^{(i)}}\cdot \vec{e_{x'}}\right|^2 + 
+                           \left| \vec{B^{(i)}}\cdot \vec{e_{y'}}\right|^2 + 
+                           \left| \vec{B^{(i)}}\cdot \vec{e_{z'}}\right|^2\\
+                        &= \left| \frac{V^{(i)}_{x'}}{S_{x'}\omega^{(i)}}\right|^2 + 
+                           \left| \frac{V^{(i)}_{y'}}{S_{y'}\omega^{(i)}}\right|^2 + 
+                           \left| \frac{V^{(i)}_{z'}}{S_{z'}\omega^{(i)}}\right|^2
+\end{align}
+
+Or on sait que le champ en le point M vaut en coordonnées sphériques :
+\[
+\vec{B^{(z)}}
+=
+\left(
+  \begin{array}{ c }
+    B^{(z)}_{r} \\
+    B^{(z)}_{\theta} \\
+    B^{(z)}_{\phi}
+  \end{array} \right)
+=
+\left(
+  \begin{array}{ c }
+    \frac{\mu_0}{4\pi}\frac{2M^{(z)} cos(\theta)}{r^3} \\
+    \frac{\mu_0}{4\pi}\frac{M^{(z)} sin(\theta)}{r^3} \\
+    0
+  \end{array} \right)
+=
+\left(
+  \begin{array}{ c }
+    \frac{2G^{(z)} cos(\theta)}{r^3} \\
+    \frac{G^{(z)} sin(\theta)}{r^3} \\
+    0
+  \end{array} \right)
+\]
+
+En notant $G^{(i)}$ le gain $\frac{\mu_0}{4\pi}M^{(i)}$ de la bobine émettrice orientée selon l'axe $(O,\vec{e_i})$.
+
+Ainsi :
+\begin{align}
+\left|B^{(i)}\right|^2 &= \left(G^{(i)}\right)^2\frac{1}{r^6}\left(sin(\theta)^2 + 4 cos(\theta)^2\right) \\
+&= \left(G^{(i)}\right)^2\frac{1}{r^6}\left(1 + 3 cos(\theta)^2\right) \\
+&= \left(G^{(i)}\right)^2\frac{1}{r^6}\left(1 + 3 \left(\frac{\vec{OM}\cdot\vec{e_i}}{|\vec{OM}|}\right)^2\right)
+\end{align}
+
+Soit :
+
+\[
+\left|B^{(x)}\right|^2 = \left(G^{(x)}\right)^2\frac{1}{r^6}\left(1 + 3 \frac{x^2}{r^2}\right)
+\]
+\[
+\left|B^{(y)}\right|^2 = \left(G^{(y)}\right)^2\frac{1}{r^6}\left(1 + 3 \frac{y^2}{r^2}\right)
+\]
+\[
+\left|B^{(z)}\right|^2 = \left(G^{(z)}\right)^2\frac{1}{r^6}\left(1 + 3 \frac{z^2}{r^2}\right)
+\]
+
+On a donc : 
+
+\begin{align}
+\frac{\left|B^{(x)}\right|^2}{\left(G^{(x)}\right)^2} + 
+\frac{\left|B^{(y)}\right|^2}{\left(G^{(y)}\right)^2} + 
+\frac{\left|B^{(z)}\right|^2}{\left(G^{(z)}\right)^2} &= \frac{1}{r^6}\left(3 + 3 \frac{r^2}{r^2}\right)\\
+&= \frac{6}{r^6}
+\end{align}
+
+D'où
+\[
+r = \sqrt[6]{
+  \frac{6}{
+    \frac{\left|B^{(x)}\right|^2}{\left(G^{(x)}\right)^2} + 
+    \frac{\left|B^{(y)}\right|^2}{\left(G^{(y)}\right)^2} + 
+    \frac{\left|B^{(z)}\right|^2}{\left(G^{(z)}\right)^2}
+  }
+} 
+\]
+\begingroup
+\tiny
+\[  
+= \sqrt[6]{
+  \frac{6}{
+    \left| \frac{V^{(x)}_{x'}}{S_{x'}\omega^{(x)} G^{(x)}}\right|^2 + 
+    \left| \frac{V^{(x)}_{y'}}{S_{y'}\omega^{(x)} G^{(x)}}\right|^2 + 
+    \left| \frac{V^{(x)}_{z'}}{S_{z'}\omega^{(x)} G^{(x)}}\right|^2
+    +
+    \left| \frac{V^{(y)}_{x'}}{S_{x'}\omega^{(y)} G^{(y)}}\right|^2 + 
+    \left| \frac{V^{(y)}_{y'}}{S_{y'}\omega^{(y)} G^{(y)}}\right|^2 + 
+    \left| \frac{V^{(y)}_{z'}}{S_{z'}\omega^{(y)} G^{(y)}}\right|^2
+    +
+    \left| \frac{V^{(z)}_{x'}}{S_{x'}\omega^{(z)} G^{(z)}}\right|^2 + 
+    \left| \frac{V^{(z)}_{y'}}{S_{y'}\omega^{(z)} G^{(z)}}\right|^2 + 
+    \left| \frac{V^{(z)}_{z'}}{S_{z'}\omega^{(z)} G^{(z)}}\right|^2
+  }
+}
+\]
+\[
+= \sqrt[6]{
+  \frac{6}{
+    \left|\left|
+        \left(
+          \begin{array}{l c r}
+            G^{(x)} & 0 & 0 \\
+            0 & G^{(y)}& 0 \\
+            0 & 0 & G^{(z)}
+          \end{array} 
+        \right)^{-1}
+        \cdot
+        \left(
+          \begin{array}{l c r}
+            \omega^{(x)} & 0 & 0 \\
+            0 & \omega^{(y)}& 0 \\
+            0 & 0 & \omega^{(z)}
+          \end{array} 
+        \right)^{-1}
+        \cdot
+        \left(
+          \begin{array}{l c r}
+            V^{(x)}_{x'} & V^{(y)}_{x'} & V^{(z)}_{x'} \\
+            V^{(x)}_{y'} & V^{(y)}_{y'} & V^{(z)}_{y'} \\
+            V^{(x)}_{z'} & V^{(y)}_{z'} & V^{(z)}_{z'} 
+          \end{array} 
+        \right)
+        \cdot
+        \left(
+          \begin{array}{l c r}
+            S_{x'} & 0 & 0 \\
+            0 & S_{y'} & 0 \\
+            0 & 0 & S_{z'}
+          \end{array}
+        \right)^{-1}
+      \right|\right|^2
+  }
+}
+\]
+\endgroup
+\[
+= \sqrt[6]{
+  \frac{6}{
+    \left|\left|
+        \mathbf{G}
+        \cdot
+        \mathbf{\Omega}
+        \cdot
+        \mathbf{V}
+        \cdot
+        \mathbf{S}
+      \right|\right|^2
+  }
+} 
+\]
+
+Cette formule correspond à un cas idéal, cependant si l'on doit considérer des interférences ou des inductions mutuelles entre les bobines d'émission ou entre les bobines de reception, il suffira de modifier les matrices $\mathbf{G}$ et $\mathbf{S}$ pour ajouter des termes non nuls en dehors de leur diagonale. Cela permettra d'obtenir des champs magnétiques normalisés $\frac{\Vec{B^{(i)}}}{G^{(i)}}$à partir des valeurs de tension mesurées.
+
+On pourra de plus s'astreindre de la multiplication par $\mathbf{\Omega}$ en utilisant un circuit intégrateur.
+\newpage
+
+\section{Dimensionnement des bobines}
+
+cf MATLAB
+
+\end{document}

@@ -1,0 +1,23 @@
+[2014.03.28 01:07:04] [0160m.20s.477ms] [1] SC[947]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [947] host [Olivier-PC] user [Olivier] process ID [1720]
+[2014.03.28 01:07:04] [0160m.20s.783ms] [1] SC[947]: UnRegistered sub-client [Expedition PCB_74611031] with ID [1] for session ID [947] host [Olivier-PC] user [Olivier] process ID [1720]
+[2014.03.28 01:07:04] [0160m.20s.809ms] [1] CMT: Removed client [947]
+[2014.03.28 01:07:04] [0160m.20s.809ms] [1] CMT: There are [1] clients now: 946
+[2014.03.28 01:09:36] [0162m.53s.246ms] [1] SC[946]: UnRegistered sub-client [DCDV] with ID [1] for session ID [946] host [Olivier-PC] user [Olivier] process ID [7284]
+[2014.03.28 01:09:36] [0162m.53s.366ms] [1] CMT: Removed client [946]
+[2014.03.28 01:09:36] [0162m.53s.366ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.03.28 01:09:38] [0162m.54s.471ms] [0] CMT: Starting server auto-close
+[2014.03.28 01:09:38] [0162m.54s.505ms] [0] S: Closing server
+[2014.03.28 01:09:38] [0162m.54s.581ms] [0] iCDB Server PI: Closing plugins
+[2014.03.28 01:09:38] [0162m.54s.581ms] [0] iCDB Server PI: Plugins closed
+[2014.03.28 01:09:38] [0162m.54s.581ms] [0] iCDB Server PI: Unloading database
+[2014.03.28 01:09:38] [0162m.54s.581ms] [0] iCDB Server PI: Saving storage
+[2014.03.28 01:09:38] [0162m.54s.581ms] [0] iCDB Server PI: Closing database
+[2014.03.28 01:09:38] [0162m.54s.633ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[0%] data[97%]
+[2014.03.28 01:09:38] [0162m.54s.633ms] [1] iCDB Server PI: Stats: Database file size [123384 (120.5 kB)]
+[2014.03.28 01:09:38] [0162m.54s.674ms] [0] iCDB Server PI: Database closed
+[2014.03.28 01:09:38] [0162m.54s.674ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [60504] ticks
+[2014.03.28 01:09:38] [0162m.54s.674ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [34498] microseconds
+[2014.03.28 01:09:38] [0162m.54s.674ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [506]
+[2014.03.28 01:09:38] [0162m.54s.674ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [14667] commands per second
+[2014.03.28 01:09:38] [0162m.54s.679ms] [0] Single file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb\icdb.dat] closed with size [123384 (120.5 kB)]
+[2014.03.28 01:09:38] [0162m.54s.812ms] [0] S: STOP

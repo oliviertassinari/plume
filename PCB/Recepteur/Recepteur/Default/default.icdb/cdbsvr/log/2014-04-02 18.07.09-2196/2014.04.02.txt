@@ -1,0 +1,147 @@
+[2014.04.02 18:07:09] [0000m.00s.450ms] [0] WELCOME
+[2014.04.02 18:07:09] [0000m.00s.450ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.04.02 18:07:09] [0000m.00s.450ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.04.02 18:07:09] [0000m.00s.450ms] [1] Base flow version [7.9.4]
+[2014.04.02 18:07:09] [0000m.00s.450ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.04.02 18:07:09] [0000m.00s.450ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] Machine [AOPUNI]  User [Gu3nol]  PID [2196]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7600)]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] Current working dir [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] SDD_PLATFORM [win32]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] WDIR [C:\MentorGraphics\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [1] S: Config file name [ServerWG.cfg]
+[2014.04.02 18:07:09] [0000m.00s.463ms] [2] S: Loading config files
+[2014.04.02 18:07:09] [0000m.00s.491ms] [1] Config file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2014.04.02 18:07:09] [0000m.00s.491ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2014.04.02 18:07:09] [0000m.00s.491ms] [3] S: Config loaded
+[2014.04.02 18:07:09] [0000m.00s.586ms] [0] S: Project path [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2014.04.02 18:07:09] [0000m.00s.586ms] [0] S: Project global path [\\vboxsrv\Google_Drive\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb] on file system [UNKNOWN]
+[2014.04.02 18:07:09] [0000m.00s.586ms] [1] S: WARNING: No project file (.prj) path specified
+[2014.04.02 18:07:09] [0000m.00s.586ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.04.02 18:07:09] [0000m.00s.586ms] [0] S: Multi-user mode (config)
+[2014.04.02 18:07:09] [0000m.00s.586ms] [0] S: Event polling mode autodetection
+[2014.04.02 18:07:09] [0000m.00s.600ms] [0] S: Started up automatically by iCDB Client: AOPUNI:Gu3nol:2744
+[2014.04.02 18:07:09] [0000m.00s.600ms] [0] S: Auto close mode
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] S: Database ID [b9bd-5064-005c-00ab-da53-c332-b53c-3350-5acd-5d3d-cc9c-e5f5]
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: BEGIN dumping
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: Local -> global path prefix list
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: [C:\Users] -> [\\AOPUNI\Users]
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\Google_Drive\]
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: [F:\] -> [\\VBOXSVR\Mentor_lib\]
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: Global -> local path prefix list
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: [\\vboxsrv\Google_Drive\] -> [E:\]
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: [\\VBOXSVR\Mentor_lib\] -> [F:\]
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: [\\AOPUNI\Users] -> [C:\Users]
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] PathTranslator: END dumping
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] S: START
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] S: Server startup lock file created
+[2014.04.02 18:07:09] [0000m.00s.614ms] [0] S: Listening for client connections on port [10000]
+[2014.04.02 18:07:09] [0000m.00s.627ms] [0] S: Server network ID [Aopuni:10.0.2.15,Aopuni:10000]
+[2014.04.02 18:07:09] [0000m.00s.627ms] [0] S: Server GUID [410f-fce5-a180-bb6e-da53-c332-b53c-3350-5aad-5d3d-cc9c-e5f5]
+[2014.04.02 18:07:09] [0000m.00s.627ms] [0] S: Project GUID [b9bd-5064-005c-00ab-da53-c332-b53c-3350-5acd-5d3d-cc9c-e5f5]
+[2014.04.02 18:07:09] [0000m.00s.627ms] [0] S: Wrote data to server address file
+[2014.04.02 18:07:09] [0000m.00s.627ms] [0] S: Server startup lock file removed
+[2014.04.02 18:07:09] [0000m.00s.641ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.04.02 18:07:10] [0000m.00s.818ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.04.02 18:07:10] [0000m.00s.818ms] [0] S: Local disc access time: 38 us
+[2014.04.02 18:07:10] [0000m.00s.818ms] [0] S: File server access time: 792 us
+[2014.04.02 18:07:10] [0000m.00s.818ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2014.04.02 18:07:10] [0000m.00s.845ms] [0] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] size [186704 (182.3 kB)]
+[2014.04.02 18:07:10] [0000m.00s.845ms] [1] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] opened in read-write mode
+[2014.04.02 18:07:10] [0000m.00s.845ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.04.02 18:07:10] [0000m.00s.845ms] [0] Database GUARD OK: [186704]
+[2014.04.02 18:07:10] [0000m.00s.859ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.04.02 18:07:10] [0000m.00s.859ms] [0] Database GUARD OK: [186704]
+[2014.04.02 18:07:10] [0000m.00s.859ms] [0] SingleFile: [dede-71d3-8225-39e1] SFI version check [1009] [1009]
+[2014.04.02 18:07:10] [0000m.00s.914ms] [0] SingleFile: [dede-71d3-8225-39e1] Database SFI header has been read in [66ms 173us]
+[2014.04.02 18:07:10] [0000m.00s.927ms] [0] iCDB Server PI: Server & plugin session [1565]
+[2014.04.02 18:07:10] [0000m.00s.927ms] [0] iCDB Server PI: Opening database [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb]
+[2014.04.02 18:07:10] [0000m.00s.927ms] [0] iCDB Server PI: Database [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb] opened
+[2014.04.02 18:07:10] [0000m.00s.996ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.04.02 18:07:10] [0000m.00s.996ms] [0] iCDB Database: Checking constraint definitions version
+[2014.04.02 18:07:10] [0000m.01s.064ms] [0] iCDB Database: Creating database content backup before upgrade
+[2014.04.02 18:07:10] [0000m.01s.064ms] [1] iCDB Storage Server: Database backup: ProjectPath[E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb]
+[2014.04.02 18:07:10] [0000m.01s.105ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbback\2014-04-02 18.07.10-2196.zip]
+[2014.04.02 18:07:10] [0000m.01s.132ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbback\2014-04-02 18.07.10-2196.zip]
+[2014.04.02 18:07:10] [0000m.01s.146ms] [0] iCDB Database: Database content backed up to [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbback\2014-04-02 18.07.10-2196.zip] of size [270 770 bytes (264.4 kB)]  in [95ms 393us]
+[2014.04.02 18:07:10] [0000m.01s.159ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=9901-97c8-1d6a-9bb1-78ba-5e0c-8ba5-e050-646d-295b-7cec-59f5]
+[2014.04.02 18:07:10] [0000m.01s.173ms] [0] iCDB Database: Loading snapshot [1:DCDV] version [2709]
+[2014.04.02 18:07:10] [0000m.01s.187ms] [0] iCDB Database: Snapshot [1:DCDV] loaded in [27ms 723us]
+[2014.04.02 18:07:10] [0000m.01s.200ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DCDV]
+[2014.04.02 18:07:10] [0000m.01s.200ms] [0] iCDB Database: Constraint definitions for snapshot [1:DCDV] upgraded in [4ms 323us]
+[2014.04.02 18:07:10] [0000m.01s.200ms] [0] iCDB Database: Saving snapshot [1:DCDV]
+[2014.04.02 18:07:10] [0000m.01s.200ms] [0] iCDB Database: Snapshot [1:DCDV] saved in [792us]
+[2014.04.02 18:07:10] [0000m.01s.200ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2014.04.02 18:07:10] [0000m.01s.214ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2014.04.02 18:07:10] [0000m.01s.214ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2014.04.02 18:07:10] [0000m.01s.255ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2014.04.02 18:07:10] [0000m.01s.268ms] [0] iCDB Database: Loading snapshot [2:PCB_Layout_Temp] version [2709]
+[2014.04.02 18:07:10] [0000m.01s.282ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] loaded in [12ms 310us]
+[2014.04.02 18:07:10] [0000m.01s.282ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:PCB_Layout_Temp]
+[2014.04.02 18:07:10] [0000m.01s.282ms] [0] iCDB Database: Constraint definitions for snapshot [2:PCB_Layout_Temp] upgraded in [4ms 264us]
+[2014.04.02 18:07:10] [0000m.01s.282ms] [0] iCDB Database: Saving snapshot [2:PCB_Layout_Temp]
+[2014.04.02 18:07:10] [0000m.01s.282ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] saved in [86us]
+[2014.04.02 18:07:10] [0000m.01s.323ms] [0] iCDB Database: Loading snapshot [3:PCB] version [2709]
+[2014.04.02 18:07:10] [0000m.01s.337ms] [0] iCDB Database: Snapshot [3:PCB] loaded in [10ms 486us]
+[2014.04.02 18:07:10] [0000m.01s.337ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:PCB]
+[2014.04.02 18:07:10] [0000m.01s.350ms] [0] iCDB Database: Constraint definitions for snapshot [3:PCB] upgraded in [4ms 429us]
+[2014.04.02 18:07:10] [0000m.01s.350ms] [0] iCDB Database: Saving snapshot [3:PCB]
+[2014.04.02 18:07:10] [0000m.01s.350ms] [0] iCDB Database: Snapshot [3:PCB] saved in [80us]
+[2014.04.02 18:07:10] [0000m.01s.391ms] [0] iCDB Database: Loading snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] version [2709]
+[2014.04.02 18:07:10] [0000m.01s.391ms] [0] iCDB Database: Snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] loaded in [3ms 709us]
+[2014.04.02 18:07:10] [0000m.01s.391ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2014.04.02 18:07:10] [0000m.01s.405ms] [0] iCDB Database: Constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded in [5ms 370us]
+[2014.04.02 18:07:10] [0000m.01s.405ms] [0] iCDB Database: Saving snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2014.04.02 18:07:10] [0000m.01s.405ms] [0] iCDB Database: Snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] saved in [54us]
+[2014.04.02 18:07:10] [0000m.01s.419ms] [0] iCDB Database: Loading snapshot [5:RefSync] version [2709]
+[2014.04.02 18:07:10] [0000m.01s.432ms] [0] iCDB Database: Snapshot [5:RefSync] loaded in [12ms 327us]
+[2014.04.02 18:07:10] [0000m.01s.432ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [5:RefSync]
+[2014.04.02 18:07:10] [0000m.01s.432ms] [0] iCDB Database: Constraint definitions for snapshot [5:RefSync] upgraded in [4ms 369us]
+[2014.04.02 18:07:10] [0000m.01s.432ms] [0] iCDB Database: Saving snapshot [5:RefSync]
+[2014.04.02 18:07:10] [0000m.01s.432ms] [0] iCDB Database: Snapshot [5:RefSync] saved in [84us]
+[2014.04.02 18:07:10] [0000m.01s.446ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2014.04.02 18:07:10] [0000m.01s.446ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2014.04.02 18:07:10] [0000m.01s.446ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2014.04.02 18:07:10] [0000m.01s.487ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\s5\cdbcatlg\catlgatl.v] - auto-saving it
+[2014.04.02 18:07:10] [0000m.01s.500ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.24;user.cns=2b03-8c01-a6d9-c84c-6e6c-913b-e6c9-1350-9dad-5d3d-cc9c-e5f5]
+[2014.04.02 18:07:10] [0000m.01s.528ms] [0] iCDB Server PI: Initializing plugins
+[2014.04.02 18:07:10] [0000m.01s.541ms] [0] iCDB Server PI: Plugins initialized
+[2014.04.02 18:07:10] [0000m.01s.541ms] [0] S: iCDB database loaded
+[2014.04.02 18:07:10] [0000m.01s.555ms] [0] S: Starting threads
+[2014.04.02 18:07:10] [0000m.01s.555ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.04.02 18:07:10] [0000m.01s.555ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.04.02 18:07:10] [0000m.01s.555ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2014.04.02 18:07:10] [0000m.01s.569ms] [0] IT: Session [1566] for host [Aopuni] user [Gu3nol] with process ID [2744] created
+[2014.04.02 18:07:10] [0000m.01s.569ms] [1] SC[1566]: Registered sub-client [DCDV] with ID [1] for session ID [1566] host [Aopuni] user [Gu3nol] process ID [2744]
+[2014.04.02 18:07:10] [0000m.01s.569ms] [1] SC[1566]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1566] host [Aopuni] user [Gu3nol] process ID [2744]
+[2014.04.02 18:07:10] [0000m.01s.651ms] [1] CMT: There are [1] clients now: 1566
+[2014.04.02 18:07:10] [0000m.01s.651ms] [1] CMT: Removed client [1566]
+[2014.04.02 18:07:10] [0000m.01s.651ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.04.02 18:07:11] [0000m.02s.087ms] [0] IT: Session [1567] for host [Aopuni] user [Gu3nol] with process ID [2744] created
+[2014.04.02 18:07:11] [0000m.02s.087ms] [1] SC[1567]: Registered sub-client [DCDV] with ID [1] for session ID [1567] host [Aopuni] user [Gu3nol] process ID [2744]
+[2014.04.02 18:07:11] [0000m.02s.087ms] [1] SC[1567]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1567] host [Aopuni] user [Gu3nol] process ID [2744]
+[2014.04.02 18:07:11] [0000m.02s.128ms] [1] CMT: Removed client [1567]
+[2014.04.02 18:07:11] [0000m.02s.128ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.04.02 18:07:13] [0000m.03s.847ms] [0] CMT: Starting server auto-close
+[2014.04.02 18:07:13] [0000m.03s.888ms] [0] S: Closing server
+[2014.04.02 18:07:13] [0000m.03s.902ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2014.04.02 18:07:13] [0000m.03s.984ms] [0] iCDB Server PI: Closing plugins
+[2014.04.02 18:07:13] [0000m.03s.984ms] [0] iCDB Server PI: Plugins closed
+[2014.04.02 18:07:13] [0000m.03s.984ms] [0] iCDB Server PI: Unloading database
+[2014.04.02 18:07:13] [0000m.03s.997ms] [0] iCDB Server PI: Saving storage
+[2014.04.02 18:07:13] [0000m.03s.997ms] [0] iCDB Server PI: Closing database
+[2014.04.02 18:07:13] [0000m.03s.997ms] [1] Hole: zero line at 186668 of size 16 bytes.
+[2014.04.02 18:07:13] [0000m.03s.997ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[10%] data[95%]
+[2014.04.02 18:07:13] [0000m.03s.997ms] [1] iCDB Server PI: Stats: Database file size [186704 (182.3 kB)]
+[2014.04.02 18:07:13] [0000m.03s.997ms] [1] Hole: zero line at 186668 of size 16 bytes.
+[2014.04.02 18:07:13] [0000m.04s.011ms] [0] iCDB Server PI: Database closed
+[2014.04.02 18:07:13] [0000m.04s.011ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [140] ticks
+[2014.04.02 18:07:13] [0000m.04s.011ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [56] microseconds
+[2014.04.02 18:07:13] [0000m.04s.011ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2014.04.02 18:07:13] [0000m.04s.011ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [35208] commands per second
+[2014.04.02 18:07:13] [0000m.04s.011ms] [0] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] closed with size [186704 (182.3 kB)]
+[2014.04.02 18:07:13] [0000m.04s.025ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.04.02 18:07:13] [0000m.04s.134ms] [0] S: STOP

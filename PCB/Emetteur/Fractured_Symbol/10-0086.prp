@@ -1,0 +1,11 @@
+$symbol CAP_NP
+  Part Name	""
+  Part Label	""
+  Value	""
+  Ref Designator	"C"
+    $pin
+       PIN_NO   "1"
+       PIN_NAME    "1"
+    $pin
+       PIN_NO   "2"
+       PIN_NAME    "2"

@@ -1,0 +1,30 @@
+[2014.04.01 19:47:54] [0000m.04s.480ms] [0] WELCOME
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] iCDB Database ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] Base flow version [7.9.4]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] Machine [AOPUNI]  User [Gu3nol]  PID [1348]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7600)]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] Current working dir [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] SDD_PLATFORM [win32]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] WDIR [C:\MentorGraphics\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [3] WARNING: Database [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] was manually copied
+[2014.04.01 19:47:54] [0000m.04s.480ms] [3] File change time:        [2014-04-01 19.47.15]
+[2014.04.01 19:47:54] [0000m.04s.480ms] [3] File modification time:  [2014-04-01 19.47.15]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Last change time:        [2014-04-01 19.36.51]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Last database open information:
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Time:             [2014-04-01 18.15.55]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Location:         [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Machine:          [BI-WIN7]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] User:             [Alexis]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] PID:              [200664]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Application:      [iCDB Server]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] WARNING: Regenerating database GUID
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Previous database GUID [f40f-ad6d-7839-c435-fc0b-a334-d0ba-3350-e88a-595b-7cec-59f5]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [3] Current database GUID  [ad27-2013-db90-ca6e-acbf-a33f-cbfa-3350-1e9d-5d3d-cc9c-e5f5]
+[2014.04.01 19:47:54] [0000m.04s.497ms] [0] .

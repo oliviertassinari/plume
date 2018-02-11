@@ -1,0 +1,8 @@
+var a01248 =
+[
+    [ "DEVICE_MANAGER_APP_CONTEXT_SIZE", "a01248.html#ga41b0052b920fa65df5fc3f5a7bc107a7", null ],
+    [ "DEVICE_MANAGER_MAX_APPLICATIONS", "a01248.html#ga5ea7a97b43f6c8855486953ae52e4406", null ],
+    [ "DEVICE_MANAGER_MAX_BONDS", "a01248.html#ga971b8a047b76cf0d323378a7e95c62bd", null ],
+    [ "DEVICE_MANAGER_MAX_CONNECTIONS", "a01248.html#gad33a4b411828bff7b824eb70d32b20cf", null ],
+    [ "DM_GATT_CCCD_COUNT", "a01248.html#gaef0b7c2e584f107f1d2f9b262cde269a", null ]
+];

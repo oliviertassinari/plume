@@ -1,0 +1,10 @@
+{
+  "name": "plume",
+  "description": "A package using naive versioning",
+  "author": "DaPlumz",
+  "dependencies": {
+    "noble": "*",
+    "amqp": "*"
+  },
+  "engine": "node 0.10.15"
+}

@@ -1,0 +1,119 @@
+[2014.03.30 16:24:27] [0000m.01s.015ms] [0] WELCOME
+[2014.03.30 16:24:27] [0000m.01s.015ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] Base flow version [7.9.4]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] Machine [LUTIN2]  User [Alexis]  PID [2416]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] Current working dir [U:\2014\PLUME\PCB\EMETTEUR]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseGit\bin;]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] SDD_PLATFORM [win32]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] WDIR [C:\Users\Alexis\Documents\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.03.30 16:24:27] [0000m.01s.031ms] [1] Local iCDB working dir [C:\Users\Alexis\Documents\WDIR\iCDB] on file system [NTFS]
+[2014.03.30 16:24:27] [0000m.01s.046ms] [1] S: Config file name [ServerWG.cfg]
+[2014.03.30 16:24:27] [0000m.01s.046ms] [2] S: Loading config files
+[2014.03.30 16:24:27] [0000m.01s.046ms] [1] Config file [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2014.03.30 16:24:27] [0000m.01s.062ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2014.03.30 16:24:27] [0000m.01s.062ms] [3] S: Config loaded
+[2014.03.30 16:24:28] [0000m.01s.625ms] [0] S: Project path [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2014.03.30 16:24:28] [0000m.01s.625ms] [0] S: Project global path [\\vboxsrv\elecinf344\2014\PLUME\PCB\EMETTEUR\Default\default.icdb] on file system [UNKNOWN]
+[2014.03.30 16:24:28] [0000m.01s.625ms] [1] S: WARNING: No project file (.prj) path specified
+[2014.03.30 16:24:28] [0000m.01s.640ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.03.30 16:24:28] [0000m.01s.640ms] [0] S: Multi-user mode (config)
+[2014.03.30 16:24:28] [0000m.01s.640ms] [0] S: Event polling mode autodetection
+[2014.03.30 16:24:28] [0000m.01s.656ms] [0] S: Started up automatically by iCDB Client: LUTIN2:Alexis:2744
+[2014.03.30 16:24:28] [0000m.01s.656ms] [0] S: Auto close mode
+[2014.03.30 16:24:28] [0000m.01s.656ms] [0] S: Database ID [71a3-cad5-b1b8-0abd-7192-833c-1928-3350-ea25-a372-e2af-69d8]
+[2014.03.30 16:24:28] [0000m.01s.656ms] [0] PathTranslator: BEGIN dumping
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: Local -> global path prefix list
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: [C:\Users] -> [\\LUTIN2\Users]
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: [E:\] -> [\\VBOXSVR\elecinf344\]
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: [F:\] -> [\\vboxsrv\mentor\]
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: [U:\] -> [\\vboxsrv\elecinf344\]
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: Global -> local path prefix list
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: [\\VBOXSVR\elecinf344\] -> [E:\]
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: [\\vboxsrv\elecinf344\] -> [U:\]
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [F:\]
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: [\\LUTIN2\Users] -> [C:\Users]
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] PathTranslator: END dumping
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] S: START
+[2014.03.30 16:24:28] [0000m.01s.671ms] [0] S: Server startup lock file created
+[2014.03.30 16:24:28] [0000m.01s.687ms] [0] S: Listening for client connections on port [10000]
+[2014.03.30 16:24:28] [0000m.01s.687ms] [0] S: Server network ID [lutin2:10.0.2.15,192.168.56.101,lutin2:10000]
+[2014.03.30 16:24:28] [0000m.01s.687ms] [0] S: Server GUID [412d-0e7e-f715-c389-c192-8331-2928-3350-6015-a372-e2af-69d8]
+[2014.03.30 16:24:28] [0000m.01s.687ms] [0] S: Project GUID [71a3-cad5-b1b8-0abd-7192-833c-1928-3350-ea25-a372-e2af-69d8]
+[2014.03.30 16:24:28] [0000m.01s.718ms] [0] S: Wrote data to server address file
+[2014.03.30 16:24:28] [0000m.01s.718ms] [0] S: Server startup lock file removed
+[2014.03.30 16:24:28] [0000m.01s.734ms] [1] S: WARNING: The last server session [2014-03-30 15.31.20-2808] with GUID [0055-0e31-6396-c581-9ac1-833e-ac18-3350-2fa4-a372-e2af-69d8] on this machine with WDIR [C:\Users\Alexis\Documents\WDIR] shutdown unexpectedly.
+[2014.03.30 16:24:28] [0000m.01s.734ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.03.30 16:24:28] [0000m.02s.234ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.03.30 16:24:28] [0000m.02s.234ms] [0] S: Local disc access time: 41 us
+[2014.03.30 16:24:28] [0000m.02s.234ms] [0] S: File server access time: 1037 us
+[2014.03.30 16:24:28] [0000m.02s.234ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2014.03.30 16:24:28] [0000m.02s.250ms] [0] S: WARNING: The last iCDB Server session [lutin2 (2014-03-30 15.31.20-2808)] with GUID [0055-0e31-6396-c581-9ac1-833e-ac18-3350-2fa4-a372-e2af-69d8] shutdown unexpectedly. Database integrity check forced.
+[2014.03.30 16:24:28] [0000m.02s.250ms] [0] Single file [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb\icdb.dat] size [204400 (199.6 kB)]
+[2014.03.30 16:24:28] [0000m.02s.265ms] [1] Single file [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb\icdb.dat] opened in read-write mode
+[2014.03.30 16:24:28] [0000m.02s.265ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.30 16:24:28] [0000m.02s.265ms] [0] Database GUARD MISMATCH: [131896] against [204400]
+[2014.03.30 16:24:28] [0000m.02s.265ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.30 16:24:28] [0000m.02s.265ms] [0] Database GUARD MISMATCH: [131896] against [204400]
+[2014.03.30 16:24:28] [0000m.02s.265ms] [0] SingleFile: [cd5b-e184-bd70-b6e6] SFI version check [1009] [1009]
+[2014.03.30 16:24:29] [0000m.02s.500ms] [0] SingleFile: [cd5b-e184-bd70-b6e6] Reset holes information - force defragmentation
+[2014.03.30 16:24:29] [0000m.02s.515ms] [0] SingleFile: [cd5b-e184-bd70-b6e6] Database SFI header has been read in [240ms 418us]
+[2014.03.30 16:24:29] [0000m.02s.515ms] [0] iCDB Server PI: Server & plugin session [1193]
+[2014.03.30 16:24:29] [0000m.02s.515ms] [0] iCDB Server PI: Opening database [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb]
+[2014.03.30 16:24:29] [0000m.02s.515ms] [0] iCDB Server PI: Database [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb] opened
+[2014.03.30 16:24:29] [0000m.02s.578ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.03.30 16:24:29] [0000m.02s.593ms] [0] iCDB Database: Checking constraint definitions version
+[2014.03.30 16:24:29] [0000m.02s.671ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=75a7-9983-305b-ad8c-6b13-75da-b137-5d40-22b8-f675-73dc-0aa8] up to date
+[2014.03.30 16:24:29] [0000m.02s.859ms] [1] iCDB Server PI: Checking database integrity
+[2014.03.30 16:24:30] [0000m.03s.500ms] [1] iCDB Server PI: Database integrity check PASSED
+[2014.03.30 16:24:30] [0000m.03s.500ms] [0] iCDB Server PI: Initializing plugins
+[2014.03.30 16:24:30] [0000m.03s.500ms] [0] iCDB Server PI: Plugins initialized
+[2014.03.30 16:24:30] [0000m.03s.500ms] [0] S: iCDB database loaded
+[2014.03.30 16:24:30] [0000m.03s.515ms] [0] S: Starting threads
+[2014.03.30 16:24:30] [0000m.03s.531ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.03.30 16:24:30] [0000m.03s.531ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.03.30 16:24:30] [0000m.03s.546ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2014.03.30 16:24:30] [0000m.03s.562ms] [0] IT: Session [1194] for host [lutin2] user [Alexis] with process ID [2744] created
+[2014.03.30 16:24:30] [0000m.03s.578ms] [1] SC[1194]: Registered sub-client [DCDV] with ID [1] for session ID [1194] host [lutin2] user [Alexis] process ID [2744]
+[2014.03.30 16:24:30] [0000m.03s.593ms] [1] SC[1194]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1194] host [lutin2] user [Alexis] process ID [2744]
+[2014.03.30 16:24:30] [0000m.03s.656ms] [1] CMT: There are [1] clients now: 1194
+[2014.03.30 16:24:30] [0000m.03s.656ms] [1] CMT: Removed client [1194]
+[2014.03.30 16:24:30] [0000m.03s.656ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.03.30 16:24:31] [0000m.04s.296ms] [0] IT: Session [1195] for host [lutin2] user [Alexis] with process ID [2744] created
+[2014.03.30 16:24:31] [0000m.04s.296ms] [1] SC[1195]: Registered sub-client [DCDV] with ID [1] for session ID [1195] host [lutin2] user [Alexis] process ID [2744]
+[2014.03.30 16:24:31] [0000m.04s.312ms] [1] SC[1195]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1195] host [lutin2] user [Alexis] process ID [2744]
+[2014.03.30 16:24:31] [0000m.04s.421ms] [1] CMT: Removed client [1195]
+[2014.03.30 16:24:31] [0000m.04s.421ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.03.30 16:24:33] [0000m.06s.390ms] [0] CMT: Starting server auto-close
+[2014.03.30 16:24:33] [0000m.06s.453ms] [0] S: Closing server
+[2014.03.30 16:24:33] [0000m.06s.468ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2014.03.30 16:24:33] [0000m.06s.546ms] [0] iCDB Server PI: Closing plugins
+[2014.03.30 16:24:33] [0000m.06s.546ms] [0] iCDB Server PI: Plugins closed
+[2014.03.30 16:24:33] [0000m.06s.546ms] [0] iCDB Server PI: Unloading database
+[2014.03.30 16:24:33] [0000m.06s.765ms] [0] iCDB Server PI: Saving storage
+[2014.03.30 16:24:33] [0000m.06s.765ms] [0] iCDB Server PI: Closing database
+[2014.03.30 16:24:33] [0000m.06s.828ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[0%] data[90%]
+[2014.03.30 16:24:33] [0000m.06s.828ms] [1] iCDB Server PI: Stats: Database file size [204804 (200.0 kB)]
+[2014.03.30 16:24:33] [0000m.06s.875ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2014.03.30 16:24:33] [0000m.06s.921ms] [0] iCDB Server PI: Database closed
+[2014.03.30 16:24:33] [0000m.06s.921ms] [0] iCDB Server PI: Defragmenting database
+[2014.03.30 16:24:33] [0000m.06s.921ms] [0] iCDB Server PI: Creating database [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb] backup to file [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb\cdbback\2014-03-30 16.24.33-2416-d.zip]
+[2014.03.30 16:24:37] [0000m.11s.015ms] [0] iCDB Server PI: Database backup: DONE
+[2014.03.30 16:24:37] [0000m.11s.078ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.30 16:24:37] [0000m.11s.078ms] [0] Database GUARD OK: [204804]
+[2014.03.30 16:24:37] [0000m.11s.078ms] [0] SingleFile: [cd5b-e184-bd70-b6e6] SFI version check [1009] [1009]
+[2014.03.30 16:24:37] [0000m.11s.265ms] [0] SingleFile: [cd5b-e184-bd70-b6e6] Database SFI header has been read in [181ms 608us]
+[2014.03.30 16:24:38] [0000m.12s.093ms] [1] iCDB Server PI: Stats: Database file sizes: before[204804 (200.0 kB)], after[141552 (138.2 kB)], gain[63252 (61.8 kB)]
+[2014.03.30 16:24:38] [0000m.12s.156ms] [0] Single file [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb\icdb.dat] closed with size [141552 (138.2 kB)]
+[2014.03.30 16:24:38] [0000m.12s.156ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2014.03.30 16:24:38] [0000m.12s.156ms] [1] BackupTransaction: Removing database backup [U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb\cdbback\2014-03-30 16.24.33-2416-d.zip]
+[2014.03.30 16:24:38] [0000m.12s.156ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [383] ticks
+[2014.03.30 16:24:38] [0000m.12s.156ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [155] microseconds
+[2014.03.30 16:24:38] [0000m.12s.156ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2014.03.30 16:24:38] [0000m.12s.156ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [12831] commands per second
+[2014.03.30 16:24:38] [0000m.12s.203ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.03.30 16:24:39] [0000m.12s.406ms] [0] S: STOP

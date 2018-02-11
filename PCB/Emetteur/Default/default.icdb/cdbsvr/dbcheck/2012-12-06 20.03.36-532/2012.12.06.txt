@@ -1,0 +1,74 @@
+[2012.12.06 20:03:36] [0000m.30s.734ms] [0] WELCOME
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] iCDB Diagnostic ver.1.094, xrkHMDMV+MGcQyomTkO/8A, build:525925 created 2012-10-30 14:46:11, sources stamp:xrkHMDMV+MGcQyomTkO/8A
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] Base flow version [7.9.4]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] GBS Install Id [26419], Flow Id [EE 7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] UPDATE Install Info, GBS Install Id [27817], UPDATE Name [Expedition Enterprise Flow - Update 4 for EE7.9.4]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] Machine [MURUROA]  User [Gu3nol]  PID [532]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] Current working dir [C:\Windows\system32]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] PATH [C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] SDD_HOME [C:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] SDD_PLATFORM [win32]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] WDIR [C:\MentorGraphics;C:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [1] Local iCDB working dir [C:\MentorGraphics\iCDB] on file system [NTFS]
+[2012.12.06 20:03:36] [0000m.30s.750ms] [2] Diagnostic: Snapshot: DCDV
+[2012.12.06 20:03:36] [0000m.30s.750ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: Block: Schematic1
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesConstraint
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesPin
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesFromTo
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesPhysicalNet
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesPinPair
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesElectricalNet
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesDiffPair
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesComponent
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesPartPin
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesPartPinPair
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesPart
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesDesign
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesLayerClearRule
+[2012.12.06 20:03:36] [0000m.30s.765ms] [2] Diagnostic: CesConfigCheck: CesSchemeClearRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesViaAssign
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesLayerRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesSchemeNetClassRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesScheme
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesLayer
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesNetClass
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesClearRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesConstraintClass
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesViaSpan
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesGenClear
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesPartTech
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesConstVar
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesC2CClearRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesPkgTypeClearRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesP2PClearRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesParRuleSection
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesParRuleDef
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesNoiseRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesGenObj
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesGenCompObj
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesGenObjType
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesVia
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesZAxisLayerRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: CesConfigCheck: CesZAxisClearRule
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2012.12.06 20:03:36] [0000m.30s.781ms] [2] Diagnostic: Snapshot: DCDV check finished.
+[2012.12.06 20:03:36] [0000m.30s.781ms] [0] Diagnostic: FINISH
+[2012.12.06 20:03:36] [0000m.30s.781ms] [0] .

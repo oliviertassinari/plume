@@ -1,0 +1,11 @@
+
+                                   IDF Export
+                                   ----------
+
+                         01:59 PM Sunday, April 06, 2014
+Job Name: E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\PCB.pcb
+
+    Creating IDF 3.0 file.    
+    ----------------------    
+        
+    Successfully created IDF file with no warnings.

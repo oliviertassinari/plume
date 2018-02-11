@@ -1,0 +1,148 @@
+                                              ********************************************************************************
+					      *	Détail de l'architecture logicielle des différentes entités du système Plume *
+                                              ********************************************************************************
+Préambule :
+-----------
+
+Nous détaillons ici l'architecture logicielle des trois entités de notre système, à savoir : l'émetteur, le récepteur et le calculateur.
+
+
+I. Fonctionnement général
+=========================
+
+Notations:
+----------
+
+  * Te : temps d'émission, c'est le temps pendant lequel une bobine de l'émetteur est activée à chaque cycle.
+Le cycle complet d'émission est : |  Aucune bobine  | Bobine A | Bobine B | Bobine C |
+   	 	 	    	  |<-------Te------>|<---Te--->|<---Te--->|<---Te--->|
+ Ainsi, si l'on veut 200 échantillons par seconde, on a 4*Te = 1/200 => Te = 1.25 ms
+
+  * Les bobines d'émissions seront notées Bobines A, B et C
+  * Les bobines de réception seront notées Bobines 1, 2 et 3
+  * BLE.ON et BLE.OFF sont des requêtes Bluetooth Low Energy envoyées depuis le terminal de l'utilisateur (smartphone ou ordinateur)
+
+Statechart émetteur :
+---------------------
+
+Voir Statechart_emetteur.png
+Vue la faible complexité de ce statechart, des explications ne me semblent pas nécessaires.
+
+Fonctionnement général du récepteur :
+------------------------------------
+
+La première étape est de se synchroniser sur l'émetteur. On peut synchroniser les horloges en effectuant une transformée de Fourier pour calculer la fréquence fs du signal capté. En se basant sur cette fréquence par la suite, on devrait pouvoir calculer la phase avec précision. On peut également utiliser la fréquence mesurée pour déterminer le temps Te, par exemple, Te = 100/fs.
+
+Il faut ensuite se synchroniser sur le cycle d'émission de l'émetteur. Pour ce faire, on met l'amplification au maximum sur toutes les bobines, puis on attends de ne plus capter de signal sur aucune d'entre elles, cela signifie que l'émetteur n'émet rien, on attend ensuite de capter un signal sur au moins une d'entre elles, on sait alors que l'on est au début de l'émission de la bobine A.
+
+Si on sait dans quel octan de l'espace le récepteur est à la première mesure, on peut déterminer la phase de l'emetteur et se baser sur elle pour la suite.
+
+On base notre fonctionnement sur la répartition du temps suivante :
+Émission : |               Aucune bobine               |                 Bobine A                  |                  Bobine B                  |                  Bobine C                   |
+           |<--------------------Te------------------->|<-------------------Te-------------------->|<--------------------Te-------------------->|<--------------------Te--------------------->|
+Réception: |Mise en forme Mesures et envoi au nR| Sync |Transi|cfg Ampli|  Bobine 1,2 et 3    | Transit° |cfg Ampli|   Bobine 1,2 et 3    | Transit° |cfg Ampli|  Bobine 1,2 et 3    |Transit°|
+	   |<---------------7Te/8-------------->|<Te/8>|<Te/8>|<--Te/8->|<------5Te/8-------->|<--Te/4-->|<--Te/8->|<-------5Te/8-------->|<--Te/4-->|<--Te/8->|<------5Te/8-------->|<-Te/8->|
+
+Les trois bobines de réception sont lues en parallèle
+Autour de chaque transition entre les bobines d'émission, on attend un cours instant pour que le signal se stabilise.
+Au début de l'émission 
+
+On profite de la période d'attente sans activation des bobines d'émission au début (ou à la fin) de chaque cycle pour envoyer les valeurs mesurées. On dispose d'un temps Te, ce qui peut être tout juste ce qu'il faut pour une émission BLE.
+
+
+II. Architecture des logiciels et threads :
+===========================================
+
+Émetteur :
+----------
+
+/!\ Le logiciel de l'emetteur étant codé, certaines modifications ont été faites par rapport à cette architecture
+
+Il sera basé sur ChibiOS pour le HAL et la gestion des interruptions
+
+Le logiciel de l'émetteur sera composé de 4 parties :
+
+   * main.c : gestion de la machine à état
+   * hbridge.c/hbridge.h : gestion de la PWM et des enables des ponts en H
+         	Fonction publique   : -> void emit(int i) : si i = 0, désactivation des ponts en H et de la PWM
+			 	       	    	     	    si i =1,2,3  activation de la PWM et du pont en H de la i-ème bobine
+							    si i = 4, desacitvation des ponts en H, mais maintien de la PWM
+   * calibration.c/calibration.h : enregistrement et restitution des données de calibration, commandé par la liaison USB
+     		Fonctions publiques : -> void setCalib(int* calib) : enregistre le tableau calib de longueur 9 (matrice 3x3) en flash
+			  	      -> int* getCalib(void) : renvoie un tableau de calibration de longueur 9
+   * usb_slave.c/usb_slave.h : initialisation de la communication USB (profil, services, etc.)
+     		Fonction publique   : -> void initUSB(void): initialise le contrôleur et les interruptions du contrôleur
+   * led.c/led.h : contrôle des leds via le contrôleur de led
+
+
+Récepteur :
+-----------
+
+=>Logiciel STM32 :
+  ----------------
+
+Basé sur ChibiOS pour le HAL et la gestion des interruptions
+
+Le logiciel du récepteur sera composé de 5 parties :
+
+   * main.c : gestion de la machine à état et de la synchronisation, gère également quelle bobine d'émission est en cours. Récupère toutes les valeurs, effectue la calibration et envoie les valeurs par BLE
+   * I2S.c/I2S.h : configuration de I2S2 et I2S3 en esclave avec récupération des valeurs en DMA
+   * SAI.c/SAI.h : configuration du SAI1 en esclave avec récupération des valeurs en DMA
+
+   * measure.c/measure.h : contient 3 buffers de N int pour stocker les échantillons valides (après stabilisation du champ) de chaque bobine. Une fois ces buffers remplis, lance une convolution grâce à la  bibliothèque fourier et déclenche un évènement. (voir liste des évènements)
+ 
+   * calibration.c/calibration.h : enregistrement et restitution des données de calibration, commandé par la liaison Bluetooth
+     		Fonctions publiques : -> void setCalib(int* calib) : enregistre le tableau calib de longueur 10 (matrice 3x3 + rapport entre avec ou sans LNA) en flash
+			  	      -> int* getCalib(void) : renvoie un tableau de calibration de longueur 10 (pas obligatoire)
+
+Il sera basé, a priori, sur cinq threads (hors OS) : le thread principal gérant la machine à états, le thread permettant de gérer la communication BLE, et les threads gérant les 3 bobines, leur mesure et la convolution/transformée de Fourier.
+   
+Évènements utilisés : 
+	   	    -> inCoil1 : arrivée d'une valeur sur SAI1
+		    -> inCoil2 : arrivée d'une valeur sur I²S2
+		    -> inCoil3 : arrivée d'une valeur sur I²S3
+		    -> outCoil1 : mesure de la bobine 1 faite
+		    -> outCoil2 : mesure de la bobine 2 faite
+		    -> outCoil3 : mesure de la bobine 3 faite
+
+=>Logiciel nRF :
+  --------------
+
+   * main.c : initialisation de la communication bluetooth (profil, services, etc.) via l'API fournie et fonctions d'envoi des données
+     		Fonction publique   : -> void initBLE(void): initialise la communication, les profils, services, et active les interruptions logicielles
+			 	      -> void sendValue(int* measures): envoie les mesures à l'aide du profil configuré (rangées dans un tableau de 10 éléments : les 9 mesures et l'amplification utilisée )
+   * uart.c/uart.h : gestion de la communication UART avec le STM32
+
+
+Calculateur :
+-------------
+Sur linux, en C++.
+
+Le logiciel du calculateur doit répondre à l'API ci-dessous :
+
+   * API : permet l'initialisation de l'émetteur et des récepteurs, contient les fonctions d'accès aux positions et orientations
+     	   	Fonctions publiques : -> plumeReceiver*[] initPlume(void) : initialise la connexion BLE,
+			  	      	 		  		    cherche un émetteur, récupère ses données de calibration si il ne les a pas déjà, et le démarre (via BLE)
+			  	      	 	  		    	    cherche les récepteurs disponibles et retourne un tableau de leurs pointeurs
+			  	      -> void startPlume(plumeReceiver* receiver) : démarre (via BLE) le récepteur receiver et lance un thread récupérant ses mesures dans un buffer
+				      -> void get6DOFPlume(plumeReceiver* receiver, gsl_matrix* position, gsl_matrix* orientation) : retourne la dernière mesure calculée
+		(sont présentées ici les fonctions de base nous permettant de réaliser nos tests, d'autres pourront être ajoutées, un système de callback à chaque nouvelle mesure par exemple...)
+
+Le logiciel du calculateur est donc composé des trois classes suivantes
+
+   * core : juste derrière l'API, cette classe répertorie les plumeEmitter et plumeReceiver, pilote la connexion BLE, et commande les calculs elle possède les fonctions publiques que décrit l'API
+
+   * plumeEmitter : classe contenant l'identifiant et les données de calibration d'un émetteur et les fonctions pour y accéder
+     		Méthodes publiques  : -> void plumeEmitter(string identifiant_BLE, gsl_matrix* calib) : constructeur
+			  	      -> void getCalib(gsl_matrix* calib) : retourne les données de calibration de l'émetteur
+
+   * plumeReceiver : classe contenant l'identifiant (BLE ?) et les données de calibration d'un récepteur et les fonctions pour y accéder
+     		Attributs : Buffer circulaire de gsl_matrix position : taille 128 (pour prévoir et éliminer les symétries de position)
+			    Buffer circulaire de gsl_matrix orientation : taille 128 (pour prévoir et éliminer les symétries d'orientation)
+     		Méthodes publiques  : -> void plumeReceiver(string identifiant_BLE, gsl_matrix* calib, plumeEmitter* emitter) : constructeur
+     	      			      -> void get6DOF(gsl_matrix* position, gsl_matrix* orientation) : retourne les dernières 6DOF des buffers circulaires
+				      -> void treatVoltage(gsl_matrix* voltage_src) : calcule les 6DOF et les rentre dans les buffers circulaires
+
+   * BLE : gestion de la communication BLE et récupération des mesures et des données de calibration
+
+Il est basé sur un thread BLE, et un thread par récepteur.

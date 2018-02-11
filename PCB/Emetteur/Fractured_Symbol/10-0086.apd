@@ -1,0 +1,10 @@
+//Header
+Symbol_name="10-0086"
+Symbol_shape=""
+Symbol_text="Capacitor Ceramic X7R / 680pF / 16V / ±20% / case 0603"
+Body_glyph=
+
+//Number,Name,Label,Type,Direction,Polarity,Pin_Graphic,Position,Gate,Slot,PinSwapId
+//
+1,1,,undefined,undefined,undefined,,top,,,
+2,2,,undefined,undefined,undefined,,bottom,,,

@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.543.380
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog13.txt
+
+Mon Mar 31 16:55:16 2014
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Mon Mar 31 16:55:16 2014  ---------------
+
+
+
+
+---------------    Mon Mar 31 16:55:16 2014  ---------------
+
+

@@ -1,0 +1,112 @@
+[2014.03.29 11:47:50] [0000m.00s.034ms] [0] WELCOME
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] Base flow version [7.9.4]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] Machine [OLIVIER-PC]  User [Olivier]  PID [7152]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] Current working dir [E:\ROSE\plume\PCB\Plume_Emetteur]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\EasyPHP-DevServer-13.1VC9\binaries\php\php_runningversion;C:\Program Files\Python;E:\Django-1.5.1\django\bin;C:\Program Files (x86)\Git\cmd;C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;C:\Program Files (x86)\Druide\Antidote 8\Programmes64\;C:\Program Files (x86)\Druide\Antidote 8\Programmes32\;C:\Program Files\nodejs\;C:\Program Files\Python\Scripts\;C:\Program Files\MATLAB\R2013a\runtime\win64;C:\Program Files\MATLAB\R2013a\bin;C:\Program Files (x86)\modelsim_dlx_6.5e\win32pe;c:\program files (x86)\Modeltech_pe_edu_10.2c\win32pe_edu;C:\Users\Olivier\AppData\Roaming\npm;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] SDD_PLATFORM [win32]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] WDIR [C:\MentorGraphics\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2014.03.29 11:47:50] [0000m.00s.035ms] [1] S: Config file name [ServerWG.cfg]
+[2014.03.29 11:47:50] [0000m.00s.036ms] [2] S: Loading config files
+[2014.03.29 11:47:50] [0000m.00s.041ms] [1] Config file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2014.03.29 11:47:50] [0000m.00s.041ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2014.03.29 11:47:50] [0000m.00s.043ms] [3] S: Config loaded
+[2014.03.29 11:47:50] [0000m.00s.081ms] [0] S: Project path [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb] on file system [NTFS]
+[2014.03.29 11:47:50] [0000m.00s.081ms] [1] S: WARNING: No project file (.prj) path specified
+[2014.03.29 11:47:50] [0000m.00s.081ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.03.29 11:47:50] [0000m.00s.081ms] [0] S: Multi-user mode (config)
+[2014.03.29 11:47:50] [0000m.00s.081ms] [0] S: Event polling mode autodetection
+[2014.03.29 11:47:50] [0000m.00s.086ms] [0] S: Started up automatically by iCDB Client: OLIVIER-PC:Olivier:4092
+[2014.03.29 11:47:50] [0000m.00s.086ms] [0] S: Auto close mode
+[2014.03.29 11:47:50] [0000m.00s.086ms] [0] S: Database ID [c59b-6d18-54b4-1f3b-62cd-133b-2cd1-3350-7265-6040-30df-6d98]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: BEGIN dumping
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: Local -> global path prefix list
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [C:\Users\Olivier\Downloads] -> [\\OLIVIER-PC\Downloads]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [C:\Users\Olivier\Pictures] -> [\\OLIVIER-PC\SFR_MediaCenter_2_Pictures]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [C:\Users\Olivier\Videos] -> [\\OLIVIER-PC\SFR_MediaCenter_3_Videos]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [C:\Users\Olivier\Music] -> [\\OLIVIER-PC\SFR_MediaCenter_1_Music]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [C:\Users] -> [\\OLIVIER-PC\Users]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [E:\Films] -> [\\OLIVIER-PC\SFR_MediaCenter_4_Films]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: Global -> local path prefix list
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [\\OLIVIER-PC\SFR_MediaCenter_2_Pictures] -> [C:\Users\Olivier\Pictures]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [\\OLIVIER-PC\SFR_MediaCenter_3_Videos] -> [C:\Users\Olivier\Videos]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [\\OLIVIER-PC\SFR_MediaCenter_1_Music] -> [C:\Users\Olivier\Music]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [\\OLIVIER-PC\SFR_MediaCenter_4_Films] -> [E:\Films]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [\\OLIVIER-PC\Downloads] -> [C:\Users\Olivier\Downloads]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: [\\OLIVIER-PC\Users] -> [C:\Users]
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] PathTranslator: END dumping
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] S: START
+[2014.03.29 11:47:50] [0000m.00s.087ms] [0] S: Server startup lock file created
+[2014.03.29 11:47:50] [0000m.00s.088ms] [0] S: Listening for client connections on port [10000]
+[2014.03.29 11:47:50] [0000m.00s.089ms] [0] S: Server network ID [Olivier-PC:137.194.11.180,Olivier-PC:10000]
+[2014.03.29 11:47:50] [0000m.00s.089ms] [0] S: Server GUID [160c-4691-1cce-1088-6d4a-633b-d4a6-3350-f8f5-6040-30df-6d98]
+[2014.03.29 11:47:50] [0000m.00s.089ms] [0] S: Project GUID [c59b-6d18-54b4-1f3b-62cd-133b-2cd1-3350-7265-6040-30df-6d98]
+[2014.03.29 11:47:50] [0000m.00s.092ms] [0] S: Wrote data to server address file
+[2014.03.29 11:47:50] [0000m.00s.092ms] [0] S: Server startup lock file removed
+[2014.03.29 11:47:50] [0000m.00s.092ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.03.29 11:47:50] [0000m.00s.121ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.03.29 11:47:50] [0000m.00s.121ms] [0] S: Local disc access time: 32 us
+[2014.03.29 11:47:50] [0000m.00s.121ms] [0] S: File server access time: 37 us
+[2014.03.29 11:47:50] [0000m.00s.122ms] [0] Single file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb\icdb.dat] size [125176 (122.2 kB)]
+[2014.03.29 11:47:50] [0000m.00s.122ms] [1] Single file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb\icdb.dat] opened in read-write mode
+[2014.03.29 11:47:50] [0000m.00s.122ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.29 11:47:50] [0000m.00s.122ms] [0] Database GUARD OK: [125176]
+[2014.03.29 11:47:50] [0000m.00s.123ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.29 11:47:50] [0000m.00s.123ms] [0] Database GUARD OK: [125176]
+[2014.03.29 11:47:50] [0000m.00s.123ms] [0] SingleFile: [9abe-e093-b066-bf24] SFI version check [1009] [1009]
+[2014.03.29 11:47:50] [0000m.00s.126ms] [0] SingleFile: [9abe-e093-b066-bf24] Database SFI header has been read in [3ms 201us]
+[2014.03.29 11:47:50] [0000m.00s.131ms] [0] iCDB Server PI: Server & plugin session [1072]
+[2014.03.29 11:47:50] [0000m.00s.131ms] [0] iCDB Server PI: Opening database [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb]
+[2014.03.29 11:47:50] [0000m.00s.131ms] [0] iCDB Server PI: Database [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb] opened
+[2014.03.29 11:47:50] [0000m.00s.148ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.03.29 11:47:50] [0000m.00s.148ms] [0] iCDB Database: Checking constraint definitions version
+[2014.03.29 11:47:50] [0000m.00s.205ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=78d0-f8fb-b134-08c5-3063-0338-0630-3350-4536-60c0-30dc-6d98] up to date
+[2014.03.29 11:47:51] [0000m.00s.574ms] [0] iCDB Server PI: Initializing plugins
+[2014.03.29 11:47:51] [0000m.00s.574ms] [0] iCDB Server PI: Plugins initialized
+[2014.03.29 11:47:51] [0000m.00s.574ms] [0] S: iCDB database loaded
+[2014.03.29 11:47:51] [0000m.00s.575ms] [0] S: Starting threads
+[2014.03.29 11:47:51] [0000m.00s.575ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.03.29 11:47:51] [0000m.00s.575ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2014.03.29 11:47:51] [0000m.00s.575ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.03.29 11:47:51] [0000m.00s.577ms] [0] IT: Session [1073] for host [Olivier-PC] user [Olivier] with process ID [4092] created
+[2014.03.29 11:47:51] [0000m.00s.577ms] [1] SC[1073]: Registered sub-client [DCDV] with ID [1] for session ID [1073] host [Olivier-PC] user [Olivier] process ID [4092]
+[2014.03.29 11:47:51] [0000m.00s.676ms] [1] CMT: There are [1] clients now: 1073
+[2014.03.29 11:48:12] [0000m.21s.340ms] [0] DFAMT: File server access time: 57 us
+[2014.03.29 11:50:32] [0002m.41s.352ms] [0] IT: Session [1074] for host [Olivier-PC] user [Olivier] with process ID [6272] created
+[2014.03.29 11:50:32] [0002m.41s.353ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[Olivier-PC] # ClientUserName[Olivier] # ClientProcessID[6272] # SessionID[1074]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [E:\ROSE\plume\PCB\Plume_Emetteur\Plume_Emetteur.prj], global path [E:\ROSE\plume\PCB\Plume_Emetteur\Plume_Emetteur.prj]
+[2014.03.29 11:50:32] [0002m.41s.384ms] [1] CMT: There are [2] clients now: 1073, 1074
+[2014.03.29 11:50:32] [0002m.41s.616ms] [1] SC[1074]: Registered sub-client [Expedition PCB_92167906] with ID [1] for session ID [1074] host [Olivier-PC] user [Olivier] process ID [6272]
+[2014.03.29 11:50:32] [0002m.41s.651ms] [1] SC[1074]: Registered sub-client [EEVM] with ID [2] for session ID [1074] host [Olivier-PC] user [Olivier] process ID [6272]
+[2014.03.29 11:50:32] [0002m.41s.714ms] [1] SC[1074]: UnRegistered sub-client [EEVM] with ID [2] for session ID [1074] host [Olivier-PC] user [Olivier] process ID [6272]
+[2014.03.29 11:50:35] [0002m.44s.377ms] [1] SC[1074]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1074] host [Olivier-PC] user [Olivier] process ID [6272]
+[2014.03.29 11:50:37] [0002m.46s.247ms] [1] SC[1074]: Registered sub-client [JobPrefsDBPI_92172890] with ID [4] for session ID [1074] host [Olivier-PC] user [Olivier] process ID [6272]
+[2014.03.29 11:50:37] [0002m.46s.250ms] [1] SC[1074]: UnRegistered sub-client [JobPrefsDBPI_92172890] with ID [4] for session ID [1074] host [Olivier-PC] user [Olivier] process ID [6272]
+[2014.03.29 11:51:06] [0003m.15s.506ms] [1] SC[1074]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1074] host [Olivier-PC] user [Olivier] process ID [6272]
+[2014.03.29 11:51:06] [0003m.15s.660ms] [1] SC[1074]: UnRegistered sub-client [Expedition PCB_92167906] with ID [1] for session ID [1074] host [Olivier-PC] user [Olivier] process ID [6272]
+[2014.03.29 11:51:06] [0003m.15s.681ms] [1] CMT: Removed client [1074]
+[2014.03.29 11:51:06] [0003m.15s.681ms] [1] CMT: There are [1] clients now: 1073
+[2014.03.29 11:51:08] [0003m.17s.210ms] [1] SC[1073]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1073] host [Olivier-PC] user [Olivier] process ID [4092]
+[2014.03.29 11:51:08] [0003m.17s.287ms] [1] CMT: Removed client [1073]
+[2014.03.29 11:51:08] [0003m.17s.288ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.03.29 11:51:10] [0003m.19s.301ms] [0] CMT: Starting server auto-close
+[2014.03.29 11:51:10] [0003m.19s.381ms] [0] S: Closing server
+[2014.03.29 11:51:10] [0003m.19s.417ms] [0] iCDB Server PI: Closing plugins
+[2014.03.29 11:51:10] [0003m.19s.417ms] [0] iCDB Server PI: Plugins closed
+[2014.03.29 11:51:10] [0003m.19s.417ms] [0] iCDB Server PI: Unloading database
+[2014.03.29 11:51:10] [0003m.19s.417ms] [0] iCDB Server PI: Saving storage
+[2014.03.29 11:51:10] [0003m.19s.417ms] [0] iCDB Server PI: Closing database
+[2014.03.29 11:51:10] [0003m.19s.593ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[97%]
+[2014.03.29 11:51:10] [0003m.19s.593ms] [1] iCDB Server PI: Stats: Database file size [125504 (122.6 kB)]
+[2014.03.29 11:51:10] [0003m.19s.673ms] [0] iCDB Server PI: Database closed
+[2014.03.29 11:51:10] [0003m.19s.673ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [2134] ticks
+[2014.03.29 11:51:10] [0003m.19s.673ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1216] microseconds
+[2014.03.29 11:51:10] [0003m.19s.673ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [13]
+[2014.03.29 11:51:10] [0003m.19s.673ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [10684] commands per second
+[2014.03.29 11:51:10] [0003m.19s.676ms] [0] Single file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb\icdb.dat] closed with size [125504 (122.6 kB)]
+[2014.03.29 11:51:10] [0003m.19s.879ms] [0] S: STOP

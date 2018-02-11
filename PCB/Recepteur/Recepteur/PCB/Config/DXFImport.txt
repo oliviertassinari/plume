@@ -1,0 +1,14 @@
+.FILETYPE DXF_IMPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "04/01/2014 18:17:38"
+
+!  This file contains settings for the most recent DXF import session
+
+.DXF_INPUT_FILE "U:\\2014\\Plume\\logo\\plume.dxf"
+.UNITS mm
+
+.SCALE 0.01
+
+.DXF_STYLE "STANDARD"
+ ..USER_FONT ""
+

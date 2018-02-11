@@ -1,0 +1,15 @@
+Expedition PCB - Pinnacle Version: 2013.0.543.380
+
+
+
+Environment Variables:
+----------------------
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\Gu3nol"
+LM_LICENSE_FILE = "@flexlm.comelec.enst.fr"
+MGC_HOME = "C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;"
+SDD_HOME = "C:\MentorGraphics\7.9.5EE\SDD_HOME"
+TEMP = "C:\Users\Gu3nol\AppData\Local\Temp"
+TMP = "C:\Users\Gu3nol\AppData\Local\Temp"

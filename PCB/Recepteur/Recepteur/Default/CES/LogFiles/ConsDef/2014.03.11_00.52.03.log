@@ -1,0 +1,37 @@
+Tue Mar 11 00:52:03 2014
+
+Project path: C:\t\PROJET_VIDE\PROJET_VIDE\Default\default.icdb
+
+Constraints definition "CONS_DEF_LOADER" added.
+Loaded cns info: C:\MentorGraphics\7.9.5EE\SDD_HOME\standard\ce_ee.cns=7.10.24;C:\Users\Alexis\Documents\WDIR\user.cns=75a7-9983-305b-ad8c-6b13-75da-b137-5d40-22b8-f675-73dc-0aa8
+Before global upgrade from version: 7.10.6 to version: 7.10.24
+
+Constraints definition "TOPO_PATTERN_NAME" added.
+Constraints definition "DSN_DESIGN_CENTER" added.
+Constraints definition "POWERNET_PINCOUNT_TYPE" added (default value: FALSE).
+Constraints definition "POWERNET_MANUAL_TYPE" added (default value: FALSE).
+Constraints definition "DIFF_IMPEDANCE" added.
+Constraints definition "POUR_DRAW_STYLE" added (default value: Hatched).
+Constraints definition "THERMAL_COND" added.
+BeforeGlobalUpgrade took 16ms, 0s
+
+Upgrade snapshot DCDV
+UpgradeSnapshot took 31ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 15ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 15ms, 0s
+
+Upgrade snapshot DCDV_INST_PROP_TEMPORARY_STORAGE
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot RefSync
+UpgradeSnapshot took 16ms, 0s
+
+After global upgrade
+Constraints definition "DSN_DISCRETES" default value set to: CAPACITOR=C,#_C;CONNECTOR=P,J;DIODE=D,CR;INDUCTOR=L,#_L;RESISTOR=R,#_R.
+Constraints definition "TOPO_PIN_GROUP" deleted.
+AfterGlobalUpgrade took 0ms, 0s
+

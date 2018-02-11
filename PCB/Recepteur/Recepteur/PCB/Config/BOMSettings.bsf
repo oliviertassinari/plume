@@ -1,0 +1,95 @@
+.FILETYPE BOM_SETTINGS
+.VERSION "EE2007.1"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Wednesday, April 02, 2014 04:23 PM"
+
+.BOMFileName "U:\\2014\\PLUME\\PCB\\RECEPTEUR\\RECEPTEUR\\PCB\\Output\\BOM\\PCB.bom"
+
+.EPComponents No
+
+.PartNumber No
+..ItemNumber "ITEM_NUMBER" 
+...Selected Yes
+..PartName "COMPANY PART NO" 
+...Selected Yes
+..Geometry "GEOMETRY" 
+...Selected Yes
+..Count "COUNT" 
+...Selected Yes
+..Description "DESCRIPTION" 
+...Selected Yes
+..ReferenceName "REFERENCE NAME" 
+...Selected Yes
+..Comment "COMMENT" 
+...Selected Yes
+
+.ReferenceDesignator Yes
+..ItemNumber "ITEM_NUMBER" 
+...Selected Yes
+..PartName "COMPANY PART NO" 
+...Selected Yes
+..Geometry "GEOMETRY" 
+...Selected Yes
+..Description "DESCRIPTION" 
+...Selected Yes
+..ReferenceName "REFERENCE NAME" 
+...Selected Yes
+..Comment "COMMENT" 
+...Selected Yes
+
+.Properties 21
+..Prop "ALLOWED_MOUNT_SIDE" 
+...Selected No
+..Prop "Cell Name" 
+...Selected Yes
+..Prop "Code Fournisseur" 
+...Selected Yes
+..Prop "Component_InstanceModification" 
+...Selected No
+..Prop "Cout HT" 
+...Selected No
+..Prop "DCDV_COMP_INDEX" 
+...Selected No
+..Prop "DCDV_COMP_INSTANCE" 
+...Selected No
+..Prop "DCDV_COMP_PAGE" 
+...Selected No
+..Prop "DCDV_COMP_PUH" 
+...Selected No
+..Prop "Description" 
+...Selected Yes
+..Prop "Dielectric" 
+...Selected No
+..Prop "Part Label" 
+...Selected Yes
+..Prop "Part Name" 
+...Selected Yes
+..Prop "Part Number" 
+...Selected No
+..Prop "Power Dissipation" 
+...Selected No
+..Prop "Sous Techno" 
+...Selected No
+..Prop "Tolerance" 
+...Selected No
+..Prop "Type" 
+...Selected No
+..Prop "Value" 
+...Selected Yes
+..Prop "Vf" 
+...Selected No
+..Prop "Voltage" 
+...Selected No
+
+.AllComponents Yes
+.CommonComponents No
+.SelectVariant ""
+
+.AppendSuffix No
+
+.MechanicalCells Yes
+
+.UserProperties Yes
+
+.SCHEMELOCATION "Local"
+.SCHEME "BOMSettings"

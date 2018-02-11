@@ -1,0 +1,27 @@
+Fri Jan 04 17:28:03 2013
+
+Project path: E:\Electronique\DepotGIT\Kubz\Kubz\Default\default.icdb
+
+Loaded cns info: C:\MentorGraphics\7.9.4EE\SDD_HOME\standard\ce_ee.cns=7.10.24;C:\MentorGraphics\user.cns=f0e7-34da-bbe1-dbe9-bc9e-0c00-d9e0-c050-50cd-7d3d-0dfc-fbf5
+Before global upgrade from version: 7.10.24 to version: 7.10.24
+
+BeforeGlobalUpgrade took 14ms, 0s
+
+Upgrade snapshot DCDV
+UpgradeSnapshot took 13ms, 0s
+
+Upgrade snapshot DCDV_INST_PROP_TEMPORARY_STORAGE
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot RefSync
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

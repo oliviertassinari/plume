@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\Layout\MVO_Rules.txt'

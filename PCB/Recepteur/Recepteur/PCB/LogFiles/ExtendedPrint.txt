@@ -1,0 +1,15 @@
+ ----------------------------
+|       EzPDF Output Log     |
+|          Started           |
+|  Wed Apr 02 16:25:44 2014  |
+ ----------------------------
+
+
+    Processing document ......
+    Processing sheet AssemblyTop......
+    Processing sheet AssemblyBottom......
+ ---------------------------
+|       EzPDF Output Log     |
+|          Finished          |
+|  Wed Apr 02 16:25:46 2014  |
+ ----------------------------

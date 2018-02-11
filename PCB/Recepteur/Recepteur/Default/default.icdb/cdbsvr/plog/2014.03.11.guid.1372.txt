@@ -1,0 +1,30 @@
+[2014.03.11 00:51:59] [0000m.23s.437ms] [0] WELCOME
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] iCDB Database ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] Base flow version [7.9.4]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] Machine [LUTIN2]  User [Alexis]  PID [1372]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] Current working dir [C:\t\PROJET_VIDE\PROJET_VIDE]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseGit\bin;]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] SDD_PLATFORM [win32]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] WDIR [C:\Users\Alexis\Documents\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [1] Local iCDB working dir [C:\Users\Alexis\Documents\WDIR\iCDB] on file system [NTFS]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] WARNING: Database [C:\t\PROJET_VIDE\PROJET_VIDE\Default\default.icdb\icdb.dat] was manually copied
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] File change time:        [2014-03-11 00.51.03]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] File modification time:  [2011-03-23 01.14.50]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Last change time:        [2011-03-23 01.14.50]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Last database open information:
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Time:             [2011-03-23 01.11.28]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Location:         [C:\Documents and Settings\Alexis\Mes documents\Enseignement\ELEC344\2011\PROJET_VIDE\Default\default.icdb\icdb.dat]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Machine:          [lutin2]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] User:             [Alexis]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] PID:              [9936]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Application:      [iCDB Server]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Operating system: [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] WARNING: Regenerating database GUID
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Previous database GUID [edd4-bd19-b3ed-75c5-8183-98dc-1839-8d40-2ca9-f675-73dc-0aa8]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [3] Current database GUID  [77b6-2f0f-cdc2-c060-f105-e134-205e-1350-a2b4-a372-e2af-69d8]
+[2014.03.11 00:51:59] [0000m.23s.437ms] [0] .

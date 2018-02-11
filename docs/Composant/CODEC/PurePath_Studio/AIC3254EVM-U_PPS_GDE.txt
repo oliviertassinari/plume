@@ -1,0 +1,129 @@
+
+###############################################
+# Power Down Sequence
+###############################################
+#
+# Select Page 1
+w 30 00 01
+#
+# Power Down HP/LO Amps
+w 30 09 00
+#
+# Select Page 1
+w 30 00 00
+#
+# Power Down DACs
+w 30 3F 14
+w 30 40 0C
+#
+# Power Down ADCs
+w 30 51 00
+#
+###############################################
+
+
+###############################################
+# Configure Power Supplies
+###############################################
+#
+# Select Page 1
+w 30 00 01
+#
+# Power up AVDD LDO
+w 30 02 A9
+#
+# Disable weak AVDD in presence of external
+# AVDD supply
+w 30 01 08
+#
+# Enable Master Analog Power Control
+# Power up AVDD LDO
+w 30 02 A1
+#
+# Set the input power-up time to 3.1ms (for ADC)
+w 30 47 32
+#
+# Set the REF charging time to 40ms
+w 30 7b 01
+#
+###############################################
+
+
+###############################################
+# Configure ADC Channel
+###############################################
+#
+# Select Page 1
+w 30 00 01
+#
+# Route IN2L to LEFT_P with 10K input impedance
+w 30 34 10
+#
+# Route CM1L to LEFT_M with 10K input impedance
+w 30 36 40
+#
+# Route IN2R to RIGHT_P with 10K input impedance
+w 30 37 10
+#
+# Route CM1R to RIGHT_M with 10K input impedance
+w 30 39 40
+#
+# Unmute Left MICPGA, Gain selection of 0dB to
+# make channel gain 0dB, since 10K input
+# impedance is used single ended
+w 30 3b 00
+#
+# Unmute Right MICPGA, Gain selection of 0dB to
+# make channel gain 0dB, since 10K input
+# impedance is used single ended
+w 30 3c 00
+#
+# Select Page 0
+w 30 00 00
+#
+# Power up LADC/RADC
+w 30 51 c0
+#
+# Unmute LADC/RADC
+w 30 52 00
+#
+###############################################
+
+###############################################
+# Playback Setup
+###############################################
+#
+# Select Page 1
+w 30 00 01
+#
+# De-pop: 16 time constants, 6k resistance
+w 30 14 35
+#
+# Route LDAC/RDAC to HPL/HPR
+w 30 0c 08 08
+#
+# Route LDAC/RDAC to LOL/LOR
+w 30 0e 08 08
+#
+# Power up HPL/HPR and LOL/LOR drivers
+w 30 09 3C
+#
+# Unmute HPL/HPR driver, 0dB Gain
+w 30 10 00 00
+#
+# Unmute LOL/LOR driver, 0dB Gain
+w 30 12 00 00
+#
+# Select Page 0
+w 30 00 00
+#
+# DAC => 0dB
+w 30 41 00 00
+#
+# Power up LDAC/RDAC
+w 30 3f d6
+#
+# Unmute LDAC/RDAC
+w 30 40 00
+#
+###############################################

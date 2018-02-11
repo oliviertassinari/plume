@@ -1,0 +1,266 @@
+[2014.03.29 15:54:33] [0000m.00s.015ms] [0] WELCOME
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] Base flow version [7.9.4]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] Machine [BI-WIN7]  User [ROSE]  PID [2740]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] Current working dir [G:\plume\PCB\Recepteur\Recepteur]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseGit\bin;]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] SDD_PLATFORM [win32]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] WDIR [C:\Users\Dauphin\Documents\PCB_designs;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] Local iCDB working dir [C:\Users\Dauphin\Documents\PCB_designs\iCDB] on file system [NTFS]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] S: Config file name [ServerWG.cfg]
+[2014.03.29 15:54:33] [0000m.00s.015ms] [2] S: Loading config files
+[2014.03.29 15:54:33] [0000m.00s.015ms] [1] Config file [C:\Users\Dauphin\Documents\PCB_designs\iCDB\Server\ServerWG.cfg] not found - creating default one
+[2014.03.29 15:54:33] [0000m.00s.015ms] [0] Config: ERROR: Could not open config file [C:\Users\Dauphin\Documents\PCB_designs\iCDB\Server\ServerWG.cfg]
+[2014.03.29 15:54:33] [0000m.00s.030ms] [0] Config: ERROR: Could not open config file for writing [C:\Users\Dauphin\Documents\PCB_designs\iCDB\Server\ServerWG.cfg]
+[2014.03.29 15:54:33] [0000m.00s.030ms] [1] Config file [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2014.03.29 15:54:33] [0000m.00s.030ms] [3] S: Config loaded
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: Project path [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: Project global path [\\vboxsrv\local\plume\PCB\Recepteur\Recepteur\Default\default.icdb] on file system [UNKNOWN]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [1] S: WARNING: No project file (.prj) path specified
+[2014.03.29 15:54:33] [0000m.00s.046ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: Single-user mode (auto)
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: Event polling mode autodetection
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: Started up automatically by iCDB Client: BI-WIN7:ROSE:2920
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: Auto close mode
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: Database ID [94ac-701b-e935-315b-207b-6337-07b6-3350-ac7d-295b-7cec-59f5]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: BEGIN dumping
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: Local -> global path prefix list
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\home\]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: [F:\] -> [\\vboxsrv\libs\]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\local\]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: Global -> local path prefix list
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: [\\vboxsrv\local\] -> [G:\]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: [\\vboxsrv\home\] -> [E:\]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: [\\vboxsrv\libs\] -> [F:\]
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] PathTranslator: END dumping
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: START
+[2014.03.29 15:54:33] [0000m.00s.046ms] [0] S: Server startup lock file created
+[2014.03.29 15:54:33] [0000m.00s.061ms] [0] S: Listening for client connections on port [10000]
+[2014.03.29 15:54:33] [0000m.00s.061ms] [0] S: Server network ID [bi-Win7:10.0.2.15,bi-Win7:10000]
+[2014.03.29 15:54:33] [0000m.00s.061ms] [0] S: Server GUID [849f-f592-3091-6729-9aed-633e-aed6-3350-246d-295b-7cec-59f5]
+[2014.03.29 15:54:33] [0000m.00s.061ms] [0] S: Project GUID [94ac-701b-e935-315b-207b-6337-07b6-3350-ac7d-295b-7cec-59f5]
+[2014.03.29 15:54:33] [0000m.00s.061ms] [0] S: Wrote data to server address file
+[2014.03.29 15:54:33] [0000m.00s.061ms] [0] S: Server startup lock file removed
+[2014.03.29 15:54:33] [0000m.00s.061ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] S: Local disc access time: 23 us
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] S: File server access time: 547 us
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] Single file [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] size [128632 (125.6 kB)]
+[2014.03.29 15:54:33] [0000m.00s.092ms] [1] Single file [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] opened in read-write mode
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] Database GUARD OK: [128632]
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] Database GUARD OK: [128632]
+[2014.03.29 15:54:33] [0000m.00s.092ms] [0] SingleFile: [5195-1d9d-6dd8-cd91] SFI version check [1009] [1009]
+[2014.03.29 15:54:33] [0000m.00s.123ms] [0] SingleFile: [5195-1d9d-6dd8-cd91] Database SFI header has been read in [30ms 880us]
+[2014.03.29 15:54:33] [0000m.00s.139ms] [0] iCDB Server PI: Server & plugin session [1252]
+[2014.03.29 15:54:33] [0000m.00s.139ms] [0] iCDB Server PI: Opening database [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb]
+[2014.03.29 15:54:33] [0000m.00s.139ms] [0] iCDB Server PI: Database [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb] opened
+[2014.03.29 15:54:33] [0000m.00s.139ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.03.29 15:54:33] [0000m.00s.139ms] [0] iCDB Database: Checking constraint definitions version
+[2014.03.29 15:54:34] [0000m.00s.170ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24] up to date
+[2014.03.29 15:54:34] [0000m.00s.433ms] [0] iCDB Server PI: Initializing plugins
+[2014.03.29 15:54:34] [0000m.00s.433ms] [0] iCDB Server PI: Plugins initialized
+[2014.03.29 15:54:34] [0000m.00s.433ms] [0] S: iCDB database loaded
+[2014.03.29 15:54:34] [0000m.00s.433ms] [0] S: Starting threads
+[2014.03.29 15:54:34] [0000m.00s.433ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2014.03.29 15:54:34] [0000m.00s.433ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.03.29 15:54:34] [0000m.00s.433ms] [0] IT: Session [1253] for host [bi-Win7] user [ROSE] with process ID [2920] created
+[2014.03.29 15:54:34] [0000m.00s.433ms] [1] CMT: There are [1] clients now: 1253
+[2014.03.29 15:54:34] [0000m.00s.587ms] [1] SC[1253]: Registered sub-client [DCDV] with ID [1] for session ID [1253] host [bi-Win7] user [ROSE] process ID [2920]
+[2014.03.29 15:54:39] [0000m.05s.873ms] [0] IT: Session [1254] for host [bi-Win7] user [ROSE] with process ID [2936] created
+[2014.03.29 15:54:39] [0000m.05s.873ms] [1] SC[1254]: Registered sub-client [ICDBC] with ID [1] for session ID [1254] host [bi-Win7] user [ROSE] process ID [2936]
+[2014.03.29 15:54:39] [0000m.05s.958ms] [1] CMT: There are [2] clients now: 1253, 1254
+[2014.03.29 15:54:39] [0000m.06s.026ms] [1] SC[1254]: Registered sub-client [ConsReuseSubClient] with ID [2] for session ID [1254] host [bi-Win7] user [ROSE] process ID [2936]
+[2014.03.29 15:54:43] [0000m.09s.582ms] [1] SC[1254]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [1254] host [bi-Win7] user [ROSE] process ID [2936]
+[2014.03.29 15:54:43] [0000m.09s.599ms] [1] SC[1254]: UnRegistered sub-client [ConsReuseSubClient] with ID [2] for session ID [1254] host [bi-Win7] user [ROSE] process ID [2936]
+[2014.03.29 15:54:43] [0000m.09s.650ms] [1] CMT: Removed client [1254]
+[2014.03.29 15:54:43] [0000m.09s.650ms] [1] CMT: There are [1] clients now: 1253
+[2014.03.29 15:54:45] [0000m.11s.522ms] [0] IT: Session [1255] for host [bi-Win7] user [ROSE] with process ID [2072] created
+[2014.03.29 15:54:45] [0000m.11s.522ms] [1] SC[1255]: Registered sub-client [Packager_11469406] with ID [1] for session ID [1255] host [bi-Win7] user [ROSE] process ID [2072]
+[2014.03.29 15:54:45] [0000m.11s.573ms] [1] CMT: There are [2] clients now: 1253, 1255
+[2014.03.29 15:54:49] [0000m.15s.939ms] [1] SC[1255]: UnRegistered sub-client [Packager_11469406] with ID [1] for session ID [1255] host [bi-Win7] user [ROSE] process ID [2072]
+[2014.03.29 15:54:49] [0000m.16s.033ms] [1] CMT: Removed client [1255]
+[2014.03.29 15:54:49] [0000m.16s.033ms] [1] CMT: There are [1] clients now: 1253
+[2014.03.29 15:54:57] [0000m.23s.939ms] [0] IT: Session [1256] for host [bi-Win7] user [ROSE] with process ID [1200] created
+[2014.03.29 15:54:57] [0000m.23s.939ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[bi-Win7] # ClientUserName[ROSE] # ClientProcessID[1200] # SessionID[1256]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Recepteur.prj], global path [\\vboxsrv\local\PLUME\PCB\RECEPTEUR\RECEPTEUR\Recepteur.prj]
+[2014.03.29 15:54:57] [0000m.24s.001ms] [1] SC[1256]: Registered sub-client [Expedition PCB_11481734] with ID [1] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:54:57] [0000m.24s.033ms] [1] CMT: There are [2] clients now: 1253, 1256
+[2014.03.29 15:54:57] [0000m.24s.048ms] [1] SC[1256]: Registered sub-client [EEVM] with ID [2] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:54:58] [0000m.24s.329ms] [1] SC[1256]: UnRegistered sub-client [EEVM] with ID [2] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:54:59] [0000m.25s.798ms] [1] SC[1256]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:00] [0000m.27s.033ms] [1] SC[1256]: Registered sub-client [JobPrefsDBPI_11484843] with ID [4] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:00] [0000m.27s.048ms] [1] SC[1256]: UnRegistered sub-client [JobPrefsDBPI_11484843] with ID [4] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:06] [0000m.32s.283ms] [0] DFAMT: File server access time: 712 us
+[2014.03.29 15:55:26] [0000m.52s.392ms] [1] SC[1256]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:26] [0000m.52s.423ms] [1] SC[1256]: Registered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:26] [0000m.52s.423ms] [1] SC[1256]: UnRegistered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:26] [0000m.52s.564ms] [1] SC[1256]: Registered sub-client [JobPrefsDBPI_11510375] with ID [6] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:26] [0000m.52s.579ms] [1] SC[1256]: UnRegistered sub-client [JobPrefsDBPI_11510375] with ID [6] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:27] [0000m.53s.807ms] [1] SC[1256]: Registered sub-client [JobPrefsDBPI_11511625] with ID [7] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:27] [0000m.53s.838ms] [1] SC[1256]: UnRegistered sub-client [JobPrefsDBPI_11511625] with ID [7] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:27] [0000m.54s.104ms] [0] IT: Session [1257] for host [bi-Win7] user [ROSE] with process ID [872] created
+[2014.03.29 15:55:27] [0000m.54s.104ms] [1] SC[1257]: Registered sub-client [Packager_11511890] with ID [1] for session ID [1257] host [bi-Win7] user [ROSE] process ID [872]
+[2014.03.29 15:55:28] [0000m.54s.213ms] [1] CMT: There are [3] clients now: 1253, 1256, 1257
+[2014.03.29 15:55:28] [0000m.54s.557ms] [1] SC[1257]: UnRegistered sub-client [Packager_11511890] with ID [1] for session ID [1257] host [bi-Win7] user [ROSE] process ID [872]
+[2014.03.29 15:55:28] [0000m.54s.651ms] [1] CMT: Removed client [1257]
+[2014.03.29 15:55:28] [0000m.54s.651ms] [1] CMT: There are [2] clients now: 1253, 1256
+[2014.03.29 15:55:28] [0000m.55s.104ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2014.03.29 15:55:29] [0000m.55s.666ms] [0] IT: Session [1258] for host [bi-Win7] user [ROSE] with process ID [2248] created
+[2014.03.29 15:55:29] [0000m.55s.666ms] [1] SC[1258]: Registered sub-client [Expedition_11513453] with ID [1] for session ID [1258] host [bi-Win7] user [ROSE] process ID [2248]
+[2014.03.29 15:55:29] [0000m.55s.744ms] [1] CMT: There are [3] clients now: 1253, 1256, 1258
+[2014.03.29 15:55:29] [0000m.55s.744ms] [1] SC[1258]: UnRegistered sub-client [Expedition_11513453] with ID [1] for session ID [1258] host [bi-Win7] user [ROSE] process ID [2248]
+[2014.03.29 15:55:29] [0000m.55s.854ms] [1] CMT: Removed client [1258]
+[2014.03.29 15:55:29] [0000m.55s.854ms] [1] CMT: There are [2] clients now: 1253, 1256
+[2014.03.29 15:55:30] [0000m.56s.526ms] [0] IT: Session [1259] for host [bi-Win7] user [ROSE] with process ID [2248] created
+[2014.03.29 15:55:30] [0000m.56s.526ms] [1] SC[1259]: Registered sub-client [JobPrefsDBPI_11514312] with ID [1] for session ID [1259] host [bi-Win7] user [ROSE] process ID [2248]
+[2014.03.29 15:55:30] [0000m.56s.573ms] [1] SC[1259]: UnRegistered sub-client [JobPrefsDBPI_11514312] with ID [1] for session ID [1259] host [bi-Win7] user [ROSE] process ID [2248]
+[2014.03.29 15:55:30] [0000m.56s.682ms] [1] CMT: There are [3] clients now: 1253, 1256, 1259
+[2014.03.29 15:55:30] [0000m.56s.682ms] [1] CMT: Removed client [1259]
+[2014.03.29 15:55:30] [0000m.56s.682ms] [1] CMT: There are [2] clients now: 1253, 1256
+[2014.03.29 15:55:31] [0000m.57s.401ms] [0] IT: Session [1260] for host [bi-Win7] user [ROSE] with process ID [2248] created
+[2014.03.29 15:55:31] [0000m.57s.401ms] [1] SC[1260]: Registered sub-client [JobPrefsDBPI_11515187] with ID [1] for session ID [1260] host [bi-Win7] user [ROSE] process ID [2248]
+[2014.03.29 15:55:31] [0000m.57s.448ms] [1] CMT: There are [3] clients now: 1253, 1256, 1260
+[2014.03.29 15:55:31] [0000m.57s.651ms] [1] SC[1260]: UnRegistered sub-client [JobPrefsDBPI_11515187] with ID [1] for session ID [1260] host [bi-Win7] user [ROSE] process ID [2248]
+[2014.03.29 15:55:31] [0000m.57s.729ms] [1] CMT: Removed client [1260]
+[2014.03.29 15:55:31] [0000m.57s.729ms] [1] CMT: There are [2] clients now: 1253, 1256
+[2014.03.29 15:55:32] [0000m.58s.651ms] [0] IT: Session [1261] for host [bi-Win7] user [ROSE] with process ID [2644] created
+[2014.03.29 15:55:32] [0000m.58s.651ms] [1] SC[1261]: Registered sub-client [JobPrefsDBPI_11516437] with ID [1] for session ID [1261] host [bi-Win7] user [ROSE] process ID [2644]
+[2014.03.29 15:55:32] [0000m.58s.713ms] [1] CMT: There are [3] clients now: 1253, 1256, 1261
+[2014.03.29 15:55:32] [0000m.58s.713ms] [1] SC[1261]: Registered sub-client [Expedition_11516531] with ID [2] for session ID [1261] host [bi-Win7] user [ROSE] process ID [2644]
+[2014.03.29 15:55:32] [0000m.58s.760ms] [1] SC[1261]: UnRegistered sub-client [JobPrefsDBPI_11516437] with ID [1] for session ID [1261] host [bi-Win7] user [ROSE] process ID [2644]
+[2014.03.29 15:55:32] [0000m.58s.854ms] [1] SC[1261]: UnRegistered sub-client [Expedition_11516531] with ID [2] for session ID [1261] host [bi-Win7] user [ROSE] process ID [2644]
+[2014.03.29 15:55:32] [0000m.59s.041ms] [1] CMT: Removed client [1261]
+[2014.03.29 15:55:32] [0000m.59s.041ms] [1] CMT: There are [2] clients now: 1253, 1256
+[2014.03.29 15:55:33] [0000m.59s.494ms] [1] SC[1256]: Registered sub-client [EEVM_EEVM_133629780] with ID [8] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:33] [0000m.59s.510ms] [1] SC[1256]: UnRegistered sub-client [EEVM_EEVM_133629780] with ID [8] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:33] [0000m.59s.510ms] [1] SC[1256]: Registered sub-client [EEVM_EEVM_133629780] with ID [9] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:33] [0000m.59s.510ms] [1] SC[1256]: UnRegistered sub-client [EEVM_EEVM_133629780] with ID [9] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:33] [0000m.59s.526ms] [1] SC[1256]: Registered sub-client [EEVM_EEVM_133629780] with ID [10] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:33] [0000m.59s.541ms] [1] SC[1256]: UnRegistered sub-client [EEVM_EEVM_133629780] with ID [10] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:33] [0000m.59s.666ms] [1] SC[1256]: UnRegistered sub-client [Expedition PCB_11481734] with ID [1] for session ID [1256] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:33] [0000m.59s.760ms] [1] CMT: Removed client [1256]
+[2014.03.29 15:55:33] [0000m.59s.760ms] [1] CMT: There are [1] clients now: 1253
+[2014.03.29 15:55:34] [0001m.00s.260ms] [0] IT: Session [1262] for host [bi-Win7] user [ROSE] with process ID [1200] created
+[2014.03.29 15:55:34] [0001m.00s.260ms] [1] SC[1262]: Registered sub-client [Expedition PCB_11518046] with ID [1] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:34] [0001m.00s.307ms] [1] CMT: There are [2] clients now: 1253, 1262
+[2014.03.29 15:55:35] [0001m.01s.166ms] [1] SC[1262]: Registered sub-client [JobPrefsDBPI_11518984] with ID [2] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:35] [0001m.01s.166ms] [1] SC[1262]: UnRegistered sub-client [JobPrefsDBPI_11518984] with ID [2] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:36] [0001m.02s.603ms] [1] SC[1262]: Registered sub-client [JobPrefsDBPI_11520421] with ID [3] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:36] [0001m.02s.634ms] [1] SC[1262]: UnRegistered sub-client [JobPrefsDBPI_11520421] with ID [3] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 15:55:36] [0001m.02s.650ms] [1] SC[1262]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:38] [0043m.05s.096ms] [0] IT: Session [1263] for host [bi-Win7] user [ROSE] with process ID [928] created
+[2014.03.29 16:37:38] [0043m.05s.096ms] [1] SC[1263]: Registered sub-client [ICDBC] with ID [1] for session ID [1263] host [bi-Win7] user [ROSE] process ID [928]
+[2014.03.29 16:37:38] [0043m.05s.112ms] [1] SC[1263]: Registered sub-client [ConsReuseSubClient] with ID [2] for session ID [1263] host [bi-Win7] user [ROSE] process ID [928]
+[2014.03.29 16:37:39] [0043m.05s.159ms] [1] CMT: There are [3] clients now: 1253, 1262, 1263
+[2014.03.29 16:37:41] [0043m.07s.534ms] [1] SC[1263]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [1263] host [bi-Win7] user [ROSE] process ID [928]
+[2014.03.29 16:37:41] [0043m.07s.549ms] [1] SC[1263]: UnRegistered sub-client [ConsReuseSubClient] with ID [2] for session ID [1263] host [bi-Win7] user [ROSE] process ID [928]
+[2014.03.29 16:37:41] [0043m.07s.596ms] [1] CMT: Removed client [1263]
+[2014.03.29 16:37:41] [0043m.07s.596ms] [1] CMT: There are [2] clients now: 1253, 1262
+[2014.03.29 16:37:41] [0043m.08s.018ms] [0] IT: Session [1264] for host [bi-Win7] user [ROSE] with process ID [1108] created
+[2014.03.29 16:37:41] [0043m.08s.018ms] [1] SC[1264]: Registered sub-client [Packager_14045812] with ID [1] for session ID [1264] host [bi-Win7] user [ROSE] process ID [1108]
+[2014.03.29 16:37:41] [0043m.08s.034ms] [1] CMT: There are [3] clients now: 1253, 1262, 1264
+[2014.03.29 16:37:42] [0043m.08s.284ms] [1] SC[1264]: UnRegistered sub-client [Packager_14045812] with ID [1] for session ID [1264] host [bi-Win7] user [ROSE] process ID [1108]
+[2014.03.29 16:37:42] [0043m.08s.377ms] [1] CMT: Removed client [1264]
+[2014.03.29 16:37:42] [0043m.08s.377ms] [1] CMT: There are [2] clients now: 1253, 1262
+[2014.03.29 16:37:50] [0043m.16s.768ms] [1] SC[1262]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:50] [0043m.16s.799ms] [1] SC[1262]: Registered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:50] [0043m.16s.799ms] [1] SC[1262]: UnRegistered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:52] [0043m.18s.252ms] [1] SC[1262]: Registered sub-client [JobPrefsDBPI_14056078] with ID [6] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:52] [0043m.18s.284ms] [1] SC[1262]: UnRegistered sub-client [JobPrefsDBPI_14056078] with ID [6] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:53] [0043m.19s.449ms] [1] SC[1262]: Registered sub-client [JobPrefsDBPI_14057265] with ID [7] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:53] [0043m.19s.480ms] [1] SC[1262]: UnRegistered sub-client [JobPrefsDBPI_14057265] with ID [7] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:53] [0043m.19s.730ms] [0] IT: Session [1265] for host [bi-Win7] user [ROSE] with process ID [1944] created
+[2014.03.29 16:37:53] [0043m.19s.730ms] [1] SC[1265]: Registered sub-client [Packager_14057515] with ID [1] for session ID [1265] host [bi-Win7] user [ROSE] process ID [1944]
+[2014.03.29 16:37:53] [0043m.19s.824ms] [1] CMT: There are [3] clients now: 1253, 1262, 1265
+[2014.03.29 16:37:54] [0043m.20s.167ms] [1] SC[1265]: UnRegistered sub-client [Packager_14057515] with ID [1] for session ID [1265] host [bi-Win7] user [ROSE] process ID [1944]
+[2014.03.29 16:37:54] [0043m.20s.261ms] [1] CMT: Removed client [1265]
+[2014.03.29 16:37:54] [0043m.20s.261ms] [1] CMT: There are [2] clients now: 1253, 1262
+[2014.03.29 16:37:54] [0043m.20s.808ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2014.03.29 16:37:55] [0043m.21s.386ms] [0] IT: Session [1266] for host [bi-Win7] user [ROSE] with process ID [140] created
+[2014.03.29 16:37:55] [0043m.21s.386ms] [1] SC[1266]: Registered sub-client [Expedition_14059156] with ID [1] for session ID [1266] host [bi-Win7] user [ROSE] process ID [140]
+[2014.03.29 16:37:55] [0043m.21s.464ms] [1] SC[1266]: UnRegistered sub-client [Expedition_14059156] with ID [1] for session ID [1266] host [bi-Win7] user [ROSE] process ID [140]
+[2014.03.29 16:37:55] [0043m.21s.464ms] [1] CMT: There are [3] clients now: 1253, 1262, 1266
+[2014.03.29 16:37:55] [0043m.21s.558ms] [1] CMT: Removed client [1266]
+[2014.03.29 16:37:55] [0043m.21s.558ms] [1] CMT: There are [2] clients now: 1253, 1262
+[2014.03.29 16:37:56] [0043m.22s.277ms] [0] IT: Session [1267] for host [bi-Win7] user [ROSE] with process ID [140] created
+[2014.03.29 16:37:56] [0043m.22s.277ms] [1] SC[1267]: Registered sub-client [JobPrefsDBPI_14060062] with ID [1] for session ID [1267] host [bi-Win7] user [ROSE] process ID [140]
+[2014.03.29 16:37:56] [0043m.22s.308ms] [1] SC[1267]: UnRegistered sub-client [JobPrefsDBPI_14060062] with ID [1] for session ID [1267] host [bi-Win7] user [ROSE] process ID [140]
+[2014.03.29 16:37:56] [0043m.22s.386ms] [1] CMT: There are [3] clients now: 1253, 1262, 1267
+[2014.03.29 16:37:56] [0043m.22s.386ms] [1] CMT: Removed client [1267]
+[2014.03.29 16:37:56] [0043m.22s.386ms] [1] CMT: There are [2] clients now: 1253, 1262
+[2014.03.29 16:37:56] [0043m.22s.980ms] [0] IT: Session [1268] for host [bi-Win7] user [ROSE] with process ID [140] created
+[2014.03.29 16:37:56] [0043m.22s.980ms] [1] SC[1268]: Registered sub-client [JobPrefsDBPI_14060750] with ID [1] for session ID [1268] host [bi-Win7] user [ROSE] process ID [140]
+[2014.03.29 16:37:56] [0043m.23s.042ms] [1] CMT: There are [3] clients now: 1253, 1262, 1268
+[2014.03.29 16:37:57] [0043m.23s.214ms] [1] SC[1268]: UnRegistered sub-client [JobPrefsDBPI_14060750] with ID [1] for session ID [1268] host [bi-Win7] user [ROSE] process ID [140]
+[2014.03.29 16:37:57] [0043m.23s.308ms] [1] CMT: Removed client [1268]
+[2014.03.29 16:37:57] [0043m.23s.308ms] [1] CMT: There are [2] clients now: 1253, 1262
+[2014.03.29 16:37:58] [0043m.24s.292ms] [0] IT: Session [1269] for host [bi-Win7] user [ROSE] with process ID [1680] created
+[2014.03.29 16:37:58] [0043m.24s.292ms] [1] SC[1269]: Registered sub-client [JobPrefsDBPI_14062093] with ID [1] for session ID [1269] host [bi-Win7] user [ROSE] process ID [1680]
+[2014.03.29 16:37:58] [0043m.24s.339ms] [1] SC[1269]: Registered sub-client [Expedition_14062156] with ID [2] for session ID [1269] host [bi-Win7] user [ROSE] process ID [1680]
+[2014.03.29 16:37:58] [0043m.24s.386ms] [1] SC[1269]: UnRegistered sub-client [JobPrefsDBPI_14062093] with ID [1] for session ID [1269] host [bi-Win7] user [ROSE] process ID [1680]
+[2014.03.29 16:37:58] [0043m.24s.402ms] [1] CMT: There are [3] clients now: 1253, 1262, 1269
+[2014.03.29 16:37:58] [0043m.24s.449ms] [1] SC[1269]: UnRegistered sub-client [Expedition_14062156] with ID [2] for session ID [1269] host [bi-Win7] user [ROSE] process ID [1680]
+[2014.03.29 16:37:58] [0043m.24s.542ms] [1] CMT: Removed client [1269]
+[2014.03.29 16:37:58] [0043m.24s.542ms] [1] CMT: There are [2] clients now: 1253, 1262
+[2014.03.29 16:37:59] [0043m.25s.214ms] [1] SC[1262]: Registered sub-client [EEVM_EEVM_133632684] with ID [8] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:59] [0043m.25s.230ms] [1] SC[1262]: UnRegistered sub-client [EEVM_EEVM_133632684] with ID [8] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:59] [0043m.25s.230ms] [1] SC[1262]: Registered sub-client [EEVM_EEVM_133632684] with ID [9] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:59] [0043m.25s.230ms] [1] SC[1262]: UnRegistered sub-client [EEVM_EEVM_133632684] with ID [9] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:59] [0043m.25s.245ms] [1] SC[1262]: Registered sub-client [EEVM_EEVM_133632684] with ID [10] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:59] [0043m.25s.261ms] [1] SC[1262]: UnRegistered sub-client [EEVM_EEVM_133632684] with ID [10] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:59] [0043m.25s.386ms] [1] SC[1262]: UnRegistered sub-client [Expedition PCB_11518046] with ID [1] for session ID [1262] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:37:59] [0043m.25s.464ms] [1] CMT: Removed client [1262]
+[2014.03.29 16:37:59] [0043m.25s.464ms] [1] CMT: There are [1] clients now: 1253
+[2014.03.29 16:38:00] [0043m.26s.183ms] [0] IT: Session [1270] for host [bi-Win7] user [ROSE] with process ID [1200] created
+[2014.03.29 16:38:00] [0043m.26s.183ms] [1] SC[1270]: Registered sub-client [Expedition PCB_14063968] with ID [1] for session ID [1270] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:38:00] [0043m.26s.230ms] [1] CMT: There are [2] clients now: 1253, 1270
+[2014.03.29 16:38:00] [0043m.26s.886ms] [1] SC[1270]: Registered sub-client [JobPrefsDBPI_14064703] with ID [2] for session ID [1270] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:38:00] [0043m.26s.902ms] [1] SC[1270]: UnRegistered sub-client [JobPrefsDBPI_14064703] with ID [2] for session ID [1270] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:38:03] [0043m.29s.188ms] [1] SC[1270]: Registered sub-client [JobPrefsDBPI_14067000] with ID [3] for session ID [1270] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:38:03] [0043m.29s.203ms] [1] SC[1270]: UnRegistered sub-client [JobPrefsDBPI_14067000] with ID [3] for session ID [1270] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 16:38:03] [0043m.29s.235ms] [1] SC[1270]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1270] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 17:05:57] [0071m.23s.782ms] [1] PrjBackupMgr: Successfully created Project Backup [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 17.05.57 - auto.zip] with GUID [b75a-7e1b-d3ae-857e-56fe-633a-6fe6-3350-216d-295b-7cec-59f5]
+[2014.03.29 17:05:57] [0071m.23s.782ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[2c96-ca85-872c-38f1-fbe9-5334-ce95-3350-675d-295b-7cec-59f5] CreationTime[Friday, March 28, 2014 16:09:35] Type[Autosave] Creator[iCDB Server (2014-03-28 17.04.04-1908)] ApplicationName[iCDB Server (2014-03-28 17.04.04-1908)] UserName[ROSE] MachineName[BI-WIN7] Description[Autosave] FullFlowName[Expedition Enterprise Flow] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 30120] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 17.09.35 - auto.zip] BackupFileSize[370360] Persistent[FALSE]
+[2014.03.29 17:05:57] [0071m.23s.797ms] [0] PrjBackupMgr: Project Backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 17.09.35 - auto.zip] with GUID [2c96-ca85-872c-38f1-fbe9-5334-ce95-3350-675d-295b-7cec-59f5] removed
+[2014.03.29 17:05:57] [0071m.23s.797ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[b75a-7e1b-d3ae-857e-56fe-633a-6fe6-3350-216d-295b-7cec-59f5] CreationTime[Saturday, March 29, 2014 16:05:57] Type[Autosave] Creator[iCDB Server (2014-03-29 15.54.33-2740)] ApplicationName[iCDB Server (2014-03-29 15.54.33-2740)] UserName[ROSE] MachineName[BI-WIN7] Description[Autosave] FullFlowName[Expedition Enterprise Flow] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 30120] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 17.05.57 - auto.zip] BackupFileSize[461613] Persistent[FALSE]
+[2014.03.29 18:18:51] [0144m.17s.282ms] [1] SC[1270]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1270] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 18:18:51] [0144m.17s.516ms] [1] SC[1270]: UnRegistered sub-client [Expedition PCB_14063968] with ID [1] for session ID [1270] host [bi-Win7] user [ROSE] process ID [1200]
+[2014.03.29 18:18:51] [0144m.17s.657ms] [1] CMT: Removed client [1270]
+[2014.03.29 18:18:51] [0144m.17s.657ms] [1] CMT: There are [1] clients now: 1253
+[2014.03.29 18:18:52] [0144m.19s.016ms] [1] SC[1253]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1253] host [bi-Win7] user [ROSE] process ID [2920]
+[2014.03.29 18:18:52] [0144m.19s.141ms] [1] CMT: Removed client [1253]
+[2014.03.29 18:18:52] [0144m.19s.141ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.03.29 18:18:54] [0144m.20s.235ms] [0] CMT: Starting server auto-close
+[2014.03.29 18:18:54] [0144m.20s.344ms] [0] S: Closing server
+[2014.03.29 18:18:54] [0144m.20s.485ms] [0] iCDB Server PI: Closing plugins
+[2014.03.29 18:18:54] [0144m.20s.485ms] [0] iCDB Server PI: Plugins closed
+[2014.03.29 18:18:54] [0144m.20s.485ms] [0] iCDB Server PI: Unloading database
+[2014.03.29 18:18:54] [0144m.20s.485ms] [0] iCDB Server PI: Saving storage
+[2014.03.29 18:18:54] [0144m.20s.485ms] [0] iCDB Server PI: Closing database
+[2014.03.29 18:18:54] [0144m.20s.532ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[30%] data[89%]
+[2014.03.29 18:18:54] [0144m.20s.532ms] [1] iCDB Server PI: Stats: Database file size [216040 (211.0 kB)]
+[2014.03.29 18:18:54] [0144m.20s.563ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2014.03.29 18:18:54] [0144m.20s.578ms] [0] iCDB Server PI: Database closed
+[2014.03.29 18:18:54] [0144m.20s.578ms] [0] iCDB Server PI: Defragmenting database
+[2014.03.29 18:18:54] [0144m.20s.578ms] [0] iCDB Server PI: Creating database [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb] backup to file [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbback\2014-03-29 18.18.54-2740-d.zip]
+[2014.03.29 18:18:54] [0144m.20s.766ms] [0] iCDB Server PI: Database backup: DONE
+[2014.03.29 18:18:54] [0144m.20s.797ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.29 18:18:54] [0144m.20s.797ms] [0] Database GUARD OK: [216040]
+[2014.03.29 18:18:54] [0144m.20s.797ms] [0] SingleFile: [5195-1d9d-6dd8-cd91] SFI version check [1009] [1009]
+[2014.03.29 18:18:54] [0144m.20s.860ms] [0] SingleFile: [5195-1d9d-6dd8-cd91] Database SFI header has been read in [64ms 398us]
+[2014.03.29 18:18:54] [0144m.21s.110ms] [1] iCDB Server PI: Stats: Database file sizes: before[216040 (211.0 kB)], after[113328 (110.7 kB)], gain[102712 (100.3 kB)]
+[2014.03.29 18:18:55] [0144m.21s.157ms] [0] Single file [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] closed with size [113328 (110.7 kB)]
+[2014.03.29 18:18:55] [0144m.21s.157ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2014.03.29 18:18:55] [0144m.21s.157ms] [1] BackupTransaction: Removing database backup [G:\plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbback\2014-03-29 18.18.54-2740-d.zip]
+[2014.03.29 18:18:55] [0144m.21s.157ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [2304190] ticks
+[2014.03.29 18:18:55] [0144m.21s.157ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [697925] microseconds
+[2014.03.29 18:18:55] [0144m.21s.157ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [3051]
+[2014.03.29 18:18:55] [0144m.21s.157ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [4371] commands per second
+[2014.03.29 18:18:55] [0144m.21s.328ms] [0] S: STOP

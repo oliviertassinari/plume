@@ -1,0 +1,170 @@
+
+                                    Packager
+                                    --------
+
+                        02:12 PM Tuesday, April 01, 2014
+                Job Name: U:\2014\PLUME\PCB\EMETTEUR\Emetteur.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin\Package.exe -j"U:\2014\PLUME\PCB\EMETTEUR\Emetteur.prj" -CleanBuild -NoFill "
+
+     The Common Database is at "U:\2014\PLUME\PCB\EMETTEUR\Default\default.icdb".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DCDV".
+
+     The PCB Design Path of this design is at "U:\2014\PLUME\PCB\EMETTEUR\PCB\PCB.pcb".
+
+     The Central Library is at "F:\Central_Libs\ENST.lmc".
+
+     The Disable Repackage status indicates that 
+      Repackaging should be allowed.
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Parametric"
+       "Value2"
+       "Attachment"
+       "Verification Statut"
+       "Commentaire"
+       "Option"
+       "ESR"
+       "Imax"
+       "Cout HT"
+       "Vf"
+       "Code Fournisseur"
+       "Boitier"
+       "Iac max"
+       "Voltage"
+       "Dielectric"
+       "Techno"
+       "IBIS"
+       "Model Suffix"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Supply Rename"
+       "Description"
+       "Simulation Model"
+       "Ref Designator"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 32
+          Part Numb: 00-0034 -> Vend Part: 00-0034 
+          Part Numb: 00-0078 -> Vend Part: 00-0078 
+          Part Numb: 00-0098 -> Vend Part: 00-0098 
+          Part Numb: 00-0100 -> Vend Part: 00-0100 
+          Part Numb: 02-0026 -> Vend Part: 02-0026 
+          Part Numb: 02-0083 -> Vend Part: 02-0083 
+          Part Numb: 02-0098 -> Vend Part: 02-0098 
+          Part Numb: 02-0264 -> Vend Part: 02-0264 
+          Part Numb: 03-0010 -> Vend Part: 03-0010 
+          Part Numb: 10-0003 -> Vend Part: 10-0003 
+          Part Numb: 10-0011 -> Vend Part: 10-0011 
+          Part Numb: 10-0014 -> Vend Part: 10-0014 
+          Part Numb: 10-0026 -> Vend Part: 10-0026 
+          Part Numb: 10-0041 -> Vend Part: 10-0041 
+          Part Numb: 10-0057 -> Vend Part: 10-0057 
+          Part Numb: 10-0059 -> Vend Part: 10-0059 
+          Part Numb: 10-0062 -> Vend Part: 10-0062 
+          Part Numb: 10-0099 -> Vend Part: 10-0099 
+          Part Numb: 10-0103 -> Vend Part: 10-0103 
+          Part Numb: 20-0032 -> Vend Part: 20-0032 
+          Part Numb: 20-0039 -> Vend Part: 20-0039 
+          Part Numb: 40-0115 -> Vend Part: 40-0115 
+          Part Numb: 40-0138 -> Vend Part: 40-0138 
+          Part Numb: 40-0168 -> Vend Part: 40-0168 
+          Part Numb: 40-0190 -> Vend Part: 40-0190 
+          Part Numb: 70-0002 -> Vend Part: 70-0002 
+          Part Numb: 70-0025 -> Vend Part: 70-0025 
+          Part Numb: 70-0065 -> Vend Part: 70-0065 
+          Part Numb: 70-0081 -> Vend Part: 70-0081 
+          Part Numb: 70-0083 -> Vend Part: 70-0083 
+          Part Numb: 80-0001 -> Vend Part: 80-0001 
+          Part Numb: 81-0013 -> Vend Part: 81-0013 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 78 Symbols:
+              78  ***************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     87 nets were found containing 305 pins
+     78 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

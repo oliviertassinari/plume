@@ -1,0 +1,23 @@
+; Version : LOCAL
+; Job     : U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\PCB.pcb
+; User    : BI-WIN7:Alexis
+; Date    : Wed Apr 02 16:32:11 2014
+; Format  : 3.3 / Absolute / MM / Leading
+; Contents: Thru / Drill / Non-Plated
+M48
+METRIC,TZ
+FMAT,2
+ICI,OFF
+T03C1.1000
+T04C1.5000
+%
+M71
+G90
+G93X0Y0
+T03
+X2140Y37563
+Y40563
+T04
+X34669Y14620
+T00
+M30

@@ -1,0 +1,34 @@
+TLV pinout
+
+1	MCLK : iss master clock
+2	BCLK : iss bit clock
+3	WCLK : iss word clock
+4	DIN : iss data input 						==> on s'en fout
+5	DOUT : iss data output 				
+6	IOVDD : I/O voltage supply 1.1V -> 3.6V
+7	IOVSS : I/O ground supply
+8	SCLK : SPI serial clock
+9	SSZ : SPI interface mode chip select signal
+10	MOSI : SPI interface mode serial data input
+11	MISO : SPI interface mode serial data output 			// ou autre ??
+12 	SPI_SELECT : control mode select pin (1 = SPI) 			==> à fixer à Vdd ?
+13	IN1_L : single ended Line1 left
+14	IN1_R : single ended Line1 right
+15	IN2_L : Multifunction analog input or single ended Line1 left
+16	IN2_R : Multifunction analog input or single ended Line1 right
+17	AVss : analog ground
+18	REF  : reference output voltage for filtering
+19	MICBIAS : mic bias voltage output
+20	IN2_L : Multifunction analog input or single ended Line1 left
+21	IN2_R : Multifunction analog input or single ended Line1 right
+22	LOL : left line output						==> on s'en fout
+23 	LOR : right line output						==> on s'en fout
+24	AVdd : Filtering output (on utilise LDOIN)			==> Capa
+25	HPL : left high power output driver
+26	LDOIN : LDO input supply
+27	HPR : left high power output driver
+28	DVss : digital grount
+29	DVdd : Filtering output (on utilise LDOIN)			==> Capa
+30	LDO_select : connect to DVss ??
+31	NRESET : reset (active low)					==> pull-up
+32	GPIO

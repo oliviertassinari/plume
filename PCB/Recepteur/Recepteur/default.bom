@@ -1,0 +1,50 @@
+References	Quantité	Part Number	Description	Code Fournisseur	Option
+R29	1	00-0001	Resistor 0 ohms / 5% / case 0603	RS : 322-9743	 
+R30	1	00-0001	Resistor 0 ohms / 5% / case 0603	RS : 322-9743	DNP
+R1	1	00-0013	Resistor 3.0 ohms / 5% / case 0603	 	 
+R17,R18	2	00-0034	Resistor 22 ohms / 5% / case 0603	Fa : 9330844	 
+R2,R4,R21,R22,R31	5	00-0050	Resistor 100 ohms / 5% / case 0603	RS : 322-9210	 
+R16	1	00-0052	Resistor 120 ohms / 5% / case 0603	RS : 322-9226	 
+R20	1	00-0058	Resistor 220 ohms / 5% / case 0603	RS : 322-9254	 
+R36,R37	2	00-0070	Resistor 680 ohms / 5% / case 0603	 	 
+R14,R38,R39	3	00-0074	Resistor 1.0k ohms / 5% / case 0603	RS : 322-9355	 
+R19	1	00-0078	Resistor 1.5k ohms / 5% / case 0603	RS : 322-9377	 
+R5	1	00-0081	Resistor 2.0k ohms / 5% / case 0603	 	 
+R24,R26,R27,R28	4	00-0087	Resistor 3.6k ohms / 5% / case 0603	 	 
+R11	1	00-0090	Resistor 4.7k ohms / 5% / case 0603	RS : 322-9440	DNP
+R34	1	00-0090	Resistor 4.7k ohms / 5% / case 0603	RS : 322-9440	 
+R12,R13,R23,R25	4	00-0094	Resistor 6.8k ohms / 5% / case 0603	 	 
+R3,R6,R7,R8,R9,R32	6	00-0098	Resistor 10k ohms / 5% / case 0603	RS : 322-9484	 
+R10	1	01-2000	Resistor 0.1 ohms / 1% / case 0603	 	 
+R33	1	04-0514	Resistor 221k ohms / 0.1% / case 0603	 	 
+R15	1	07-0004	CMS Variable Resistance 1kohms / Murata PVZ3A102A01B00	Fa : 3531624	 
+C14	1	10-0010	Capacitor Ceramic X7R / 1nF / 50V / ±20% / case 0603	RS : 264-4551	 
+C3	1	10-0014	Capacitor Ceramic X7R / 100nF / 50V / ±10% / case 0805	RS : 264-4416	 
+C1,C2	2	10-0026	Capacitor Ceramic 22pF / 10V / ±20% / case 0603	RS : 264-4501	 
+C5,C6	2	10-0042	Capacitor Ceramic X5R / 47uF / 6.3V / ±20% / case 1210 / 2A RMS / Murata GRM32ER60J476ME20L	Fa : 9527788	 
+C4,C7,C8	3	10-0046	Capacitor Ceramic X5R / 100uF / 6.3V / ±20% / case 1210 / Kemet C1210C107M9PAC7800	Fa : 1108328	 
+C12	1	10-0047	Capacitor Ceramic X5R / 10uF / 25V / ±10% / case 1210 / AVX 12103D106KAT2A	Fa : 1327737	 
+C9,C10,C11,C13	4	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 4765837	 
+D5	1	20-0014	Zener diode 4.3V BZX284-C4V3 case SOD110	RS : 216-9634	 
+D6	1	20-0035	Schottky diode, Imoy=5A, Vf=0.55V, Taiwan Semi SK54C, case SMC	Fa : 1299291	 
+D2	1	20-0038	Tricolor RGB  LED, SMD case ChipLed, Avago HSMF-C114, 20mA, 70/180/85mCd, Vf=2.4/3.9/2.9V	Fa : 1058362 	 
+D3	1	20-0039	HL Red LED SMD case 0603, Kingbright KP-1608SURC, 30mA, 1.9V	Fa : 8529868	 
+D4	1	20-0040	HL Green LED SMD case 0603, Kingbright KP-1608SGC, 30mA, 2.2V	Fa : 8529833	 
+Q1	1	30-0004	Basic N-Channel MOSFET, 2N7002, case SOT23	Fa : 1021754	 
+U6	1	40-0054	Low dropout voltage regulator, 3.3V, L4931, ST Microelectronics, SO8	Fa : 1094211	 
+U2	1	40-0062	CAN Transceiver, Microchip, Boitier SO8	Fa : 9758569	 
+U7	1	40-0074	Low dropout voltage regulator, 5V, L4931, ST Microelectronics, SO8	Fa : 1094212	 
+U1	1	40-0138	ARM Cortex M3 32-bit MCU, 128 KB Flash, 20kB SRAM, USB, CAN, 4 timers, 2 ADCs, 2 I2C, 2 SPI, 3 USAR, ST STM32F103CBT6, case LQFP48	Fa : 1606327	 
+U4	1	40-0167	Low voltage fuel gauge and current monitor, I2C, 2-5V, Intersil ISL6295CVZ, case TSSOP8	Fa : 1361037 	 
+J9	1	70-0001	Power DC jack / Center pin 2.5	RS : 486-678	 
+J1	1	70-0003	Jumper 3 points en ligne 2.54mm avec cavalier associe	 	 
+J4,J5	2	70-0014	4pins smd on board connector Micromatch AMP 7-188275-4	RS : 366-1721	 
+J3	1	70-0028	6pins smd on board connector Micromatch AMP 7-188275-6	Fa : 1056234	 
+J7	1	70-0042	Fiche mâle USB type A, SMD, Lumberg 2410 07	Fa : 1308875 	 
+J13	1	70-0044	20pins dual row HE10 male connector pitch=2.54mm avec detrompeur	Fa : 636368	 
+SW1,SW2,SW3	3	80-0001	Button Switch / 4 pins / SMD / Omron B3S or B3FS	Fa : 177-807	 
+LCD1	1	80-0003	LCD Module 3V with LED 16x2 char / Varitronix MDLS16265SS-3V-LED04-C16	Farnell : 623-386	 
+BZ1	1	80-0010	Piezzo electric transducer, Murata PKLCS1212E4001-R1, SMD	Fa : 1192551	 
+U3	1	80-0012	XBee-PRO 802.15.4 (series 1) Zigbee module, chip antenna, 3.3V, 63mW, 250kps, Maxstream XBP24-ACI-001	Fa : 1337917	 
+J2,J6,J10	3	80-0018	Interrupteur à glissière CMS, SPDT, C&K PCM12SMTR	Fa: 9575146	 
+QZ1	1	81-0013	Quartz 8 MHz, +/- 30ppm, 40 ohms, 18pF, case HC49SMD	Fa : 1538763 	 

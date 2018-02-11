@@ -1,0 +1,30 @@
+[2014.03.24 18:43:54] [0000m.06s.387ms] [0] WELCOME
+[2014.03.24 18:43:54] [0000m.06s.387ms] [1] iCDB Database ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] Base flow version [7.9.4]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] Machine [OLIVIER-PC]  User [Olivier]  PID [2400]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] Current working dir [E:\ROSE\plume\PCB\Plume_Emetteur]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\EasyPHP-DevServer-13.1VC9\binaries\php\php_runningversion;C:\Program Files\Python;E:\Django-1.5.1\django\bin;C:\Program Files (x86)\Git\cmd;C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;C:\Program Files (x86)\Druide\Antidote 8\Programmes64\;C:\Program Files (x86)\Druide\Antidote 8\Programmes32\;C:\Program Files\nodejs\;C:\Program Files\Python\Scripts\;C:\Program Files\MATLAB\R2013a\runtime\win64;C:\Program Files\MATLAB\R2013a\bin;C:\Program Files (x86)\modelsim_dlx_6.5e\win32pe;c:\program files (x86)\Modeltech_pe_edu_10.2c\win32pe_edu;C:\Users\Olivier\AppData\Roaming\npm;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] SDD_PLATFORM [win32]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] WDIR [C:\MentorGraphics\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [3] WARNING: Database [E:\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb\icdb.dat] was manually copied
+[2014.03.24 18:43:54] [0000m.06s.388ms] [3] File change time:        [2014-03-24 18.43.32]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [3] File modification time:  [2014-03-23 19.54.04]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [3] Last change time:        [2014-03-23 19.54.04]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [3] Last database open information:
+[2014.03.24 18:43:54] [0000m.06s.388ms] [3] Time:             [2014-03-23 19.41.13]
+[2014.03.24 18:43:54] [0000m.06s.388ms] [3] Location:         [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Plume_Emetteur\Default\default.icdb\icdb.dat]
+[2014.03.24 18:43:54] [0000m.06s.389ms] [3] Machine:          [AOPUNI]
+[2014.03.24 18:43:54] [0000m.06s.389ms] [3] User:             [Gu3nol]
+[2014.03.24 18:43:54] [0000m.06s.389ms] [3] PID:              [1776]
+[2014.03.24 18:43:54] [0000m.06s.389ms] [3] Application:      [iCDB Server]
+[2014.03.24 18:43:54] [0000m.06s.389ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7600)]
+[2014.03.24 18:43:54] [0000m.06s.389ms] [3] WARNING: Regenerating database GUID
+[2014.03.24 18:43:54] [0000m.06s.389ms] [3] Previous database GUID [6b9d-6e5c-41be-4e4c-51b1-f23a-1b1f-2350-51cd-5d3d-cc9c-e5f5]
+[2014.03.24 18:43:54] [0000m.06s.389ms] [3] Current database GUID  [4990-8e37-d30c-5594-ade6-033f-de60-3350-4336-60c0-30dc-6d98]
+[2014.03.24 18:43:54] [0000m.06s.389ms] [0] .

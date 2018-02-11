@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE DCML SYSTEM "dcml.dtd">
+<DCML Type="EzDocumentConfig">
+
+  <Name>DocumentConfigurations</Name>
+
+  <ScreenName>Documents Configuration</ScreenName>
+
+  <ShortDescription>This File is for configuring your Documents.</ShortDescription>
+
+  <Object Type="">
+    <Name>Documents</Name>
+    <ScreenName>Documents</ScreenName>
+    <ShortDescription>Documents</ShortDescription>
+    <ParameterGroups>
+      <ParameterGroup>
+        <Name>Documents.Properties</Name>
+        <ScreenName></ScreenName>
+        <ShortDescription></ShortDescription>
+        <Parameters>
+          <Parameter>
+            <Name>Documents.Properties.GenerateSingleFile</Name>
+            <ScreenName>Generate single file</ScreenName>
+            <ShortDescription>Switch to generate single file output </ShortDescription>
+            <Value DataType="Boolean">false</Value>
+          </Parameter>
+        </Parameters>
+      </ParameterGroup>
+    </ParameterGroups>
+    <SubObjects>
+      <Object Type="FxeDocument">
+        <Name></Name>
+        <ScreenName></ScreenName>
+        <ShortDescription></ShortDescription>
+        <ParameterGroups>
+          <ParameterGroup>
+            <Name>Documents.Document.Properties</Name>
+            <ScreenName>Title Page</ScreenName>
+            <ShortDescription>Title Page Configurations</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>Documents.Document.Properties.Title</Name>
+                <ScreenName>Title</ScreenName>
+                <ShortDescription>Title of the Document</ShortDescription>
+                <Value DataType="String"></Value>
+              </Parameter>
+              <Parameter>
+                <Name>Documents.Document.Properties.OutputFileNameSuffix</Name>
+                <ScreenName>Output file name suffix</ScreenName>
+                <ShortDescription>Output file name suffix for the generated file</ShortDescription>
+                <Value DataType="String"></Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+        </ParameterGroups>
+      </Object>
+    </SubObjects>
+  </Object>
+
+</DCML>

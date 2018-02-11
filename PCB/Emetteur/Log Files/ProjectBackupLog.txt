@@ -1,0 +1,249 @@
+[2013-01-03 14.47.06] Migrating iCDB upgrade backups from directory [Kubz\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-03 14.47.06] Migrating iCDB upgrade backup file [2013-01-03 13.14.38-2744].
+[2013-01-03 14.47.06] Successfully created [Constraints Definition Upgrade] backup [2013-01-03 13.14.38 - consDefUpgr.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-03 14.47.06] Removing excessive [Constraints Definition Upgrade] backup file [C:\Users\Dauphin\Documents\Enseignement\proj101\2013\Kubz\Default\ProjectBackup\backups\2012-12-13 17.06.51 - consDefUpgr.zip].
+[2013-01-03 14.47.06] [Constraints Definition Upgrade] backup file [Kubz\Default\ProjectBackup\backups\2012-12-13 17.06.51 - consDefUpgr.zip] removed.
+[2013-01-03 14.47.06] Migrated iCDB content backup file [cdbback\2013-01-03 13.14.38-2744.zip] removed.
+[2013-01-03 14.47.06] Successfully migrated iCDB upgrade backup file [2013-01-03 13.14.38-2744] to Project Backup format [2013-01-03 13.14.38 - consDefUpgr.zip]
+[2013-01-03 14.47.06] Migrating iCDB upgrade backup file [2012-12-30 22.36.40-532].
+[2013-01-03 14.47.06] iCDB upgrade backup file [2012-12-30 22.36.40-532] is excessive.
+[2013-01-03 14.47.06] Excessive iCDB upgrade backup file [2012-12-30 22.36.40-532] removed.
+[2013-01-03 14.47.06] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-03 14.47.06] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-03 14.47.06] Successfully created [AutoSave] backup [2013-01-03 14.47.06 - auto.zip] requested by [BI-WIN7:Dauphin].
+[2013-01-03 16.07.34] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-03 16.07.34] Migrating iCDB upgrade backup file [2013-01-03 16.05.20-692].
+[2013-01-03 16.07.34] Successfully created [Constraints Definition Upgrade] backup [2013-01-03 16.05.20 - consDefUpgr.zip] requested by [BI-WIN7:Dauphin].
+[2013-01-03 16.07.34] Removing excessive [Constraints Definition Upgrade] backup file [E:\ELECTRONIQUE\TELEPACT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-03 13.14.38 - consDefUpgr.zip].
+[2013-01-03 16.07.34] [Constraints Definition Upgrade] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-03 13.14.38 - consDefUpgr.zip] removed.
+[2013-01-03 16.07.34] Migrated iCDB content backup file [cdbback\2013-01-03 16.05.20-692.zip] removed.
+[2013-01-03 16.07.34] Successfully migrated iCDB upgrade backup file [2013-01-03 16.05.20-692] to Project Backup format [2013-01-03 16.05.20 - consDefUpgr.zip]
+[2013-01-03 16.07.34] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-03 16.07.34] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-03 18.47.07] Successfully created [AutoSave] backup [2013-01-03 18.47.06 - auto.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-03 18.47.07] Removing excessive [AutoSave] backup file [E:\ELECTRONIQUE\TELEPACT\KUBZ\KUBZ\Default\ProjectBackup\backups\2012-04-04 19.02.52 - auto.zip].
+[2013-01-03 18.47.07] [AutoSave] backup file [KUBZ\Default\ProjectBackup\backups\2012-04-04 19.02.52 - auto.zip] removed.
+[2013-01-03 19.08.18] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-03 19.08.18] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-03 19.08.18] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-03 23.33.33] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-03 23.33.33] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-03 23.33.33] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-04 08.50.50] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-04 08.50.50] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-04 08.50.50] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-04 08.57.51] Migrating iCDB upgrade backups from directory [\KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-04 08.57.51] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-04 08.57.51] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-04 10.49.16] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-04 10.49.16] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-04 10.49.16] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-04 11.02.21] Successfully created [AutoSave] backup [2013-01-04 11.02.17 - auto.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-04 11.02.21] Removing excessive [AutoSave] backup file [E:\ELECTRONIQUE\TELEPACT\KUBZ\KUBZ\Default\ProjectBackup\backups\2012-12-20 13.36.53 - auto.zip].
+[2013-01-04 11.02.21] [AutoSave] backup file [KUBZ\Default\ProjectBackup\backups\2012-12-20 13.36.53 - auto.zip] removed.
+[2013-01-04 17.29.12] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-04 17.29.12] Migrating iCDB upgrade backup file [2013-01-04 17.28.03-2824].
+[2013-01-04 17.29.12] Successfully created [Constraints Definition Upgrade] backup [2013-01-04 17.28.03 - consDefUpgr.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-04 17.29.12] Removing excessive [Constraints Definition Upgrade] backup file [E:\ELECTRONIQUE\DEPOTGIT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-03 16.05.20 - consDefUpgr.zip].
+[2013-01-04 17.29.12] [Constraints Definition Upgrade] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-03 16.05.20 - consDefUpgr.zip] removed.
+[2013-01-04 17.29.12] Migrated iCDB content backup file [cdbback\2013-01-04 17.28.03-2824.zip] removed.
+[2013-01-04 17.29.12] Successfully migrated iCDB upgrade backup file [2013-01-04 17.28.03-2824] to Project Backup format [2013-01-04 17.28.03 - consDefUpgr.zip]
+[2013-01-04 17.29.12] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-04 17.29.12] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-04 17.29.13] Successfully created [AutoSave] backup [2013-01-04 17.29.12 - auto.zip] requested by [MURUROA:Gu3nol].
+[2013-01-04 17.29.13] Removing excessive [AutoSave] backup file [E:\ELECTRONIQUE\DEPOTGIT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-03 14.47.06 - auto.zip].
+[2013-01-04 17.29.13] [AutoSave] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-03 14.47.06 - auto.zip] removed.
+[2013-01-04 17.33.02] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-04 17.33.02] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-04 17.33.02] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-05 22.24.54] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-05 22.24.54] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-05 22.24.54] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-05 22.24.56] Successfully created [Constraints Definition Upgrade] backup [2013-01-05 22.24.55 - consDefUpgr.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-05 22.24.56] Removing excessive [Constraints Definition Upgrade] backup file [E:\ELECTRONIQUE\TELEPACT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-04 17.28.03 - consDefUpgr.zip].
+[2013-01-05 22.24.56] [Constraints Definition Upgrade] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-04 17.28.03 - consDefUpgr.zip] removed.
+[2013-01-05 22.24.56] Migrated iCDB content backup file [cdbback\2013-01-05 22.24.54-1468.zip] removed.
+[2013-01-05 22.25.28] Successfully created [AutoSave] backup [2013-01-05 22.25.26 - auto.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-05 22.25.28] Removing excessive [AutoSave] backup file [E:\ELECTRONIQUE\TELEPACT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-03 18.47.06 - auto.zip].
+[2013-01-05 22.25.28] [AutoSave] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-03 18.47.06 - auto.zip] removed.
+[2013-01-06 01.12.22] Migrating iCDB upgrade backups from directory [Kubz\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-06 01.12.22] Migrating iCDB upgrade backup file [2013-01-06 01.11.13-2636].
+[2013-01-06 01.12.22] Successfully created [Constraints Definition Upgrade] backup [2013-01-06 01.11.13 - consDefUpgr.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-06 01.12.22] Removing excessive [Constraints Definition Upgrade] backup file [C:\Users\Alexis\Documents\Enseignement\proj101\Kubz\Kubz\Default\ProjectBackup\backups\2013-01-05 22.24.55 - consDefUpgr.zip].
+[2013-01-06 01.12.22] [Constraints Definition Upgrade] backup file [Kubz\Default\ProjectBackup\backups\2013-01-05 22.24.55 - consDefUpgr.zip] removed.
+[2013-01-06 01.12.22] Migrated iCDB content backup file [cdbback\2013-01-06 01.11.13-2636.zip] removed.
+[2013-01-06 01.12.22] Successfully migrated iCDB upgrade backup file [2013-01-06 01.11.13-2636] to Project Backup format [2013-01-06 01.11.13 - consDefUpgr.zip]
+[2013-01-06 01.12.22] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-06 01.12.22] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-06 01.25.33] Migrating iCDB upgrade backups from directory [Kubz\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-06 01.25.33] Migrating iCDB upgrade backup file [2013-01-06 01.25.23-2100].
+[2013-01-06 01.25.33] Successfully created [Constraints Definition Upgrade] backup [2013-01-06 01.25.23 - consDefUpgr.zip] requested by [LUTIN2:Alexis].
+[2013-01-06 01.25.33] Removing excessive [Constraints Definition Upgrade] backup file [C:\Users\Alexis\Documents\Enseignement\proj101\Kubz\Kubz\Default\ProjectBackup\backups\2013-01-06 01.11.13 - consDefUpgr.zip].
+[2013-01-06 01.25.33] [Constraints Definition Upgrade] backup file [Kubz\Default\ProjectBackup\backups\2013-01-06 01.11.13 - consDefUpgr.zip] removed.
+[2013-01-06 01.25.33] Migrated iCDB content backup file [cdbback\2013-01-06 01.25.23-2100.zip] removed.
+[2013-01-06 01.25.33] Successfully migrated iCDB upgrade backup file [2013-01-06 01.25.23-2100] to Project Backup format [2013-01-06 01.25.23 - consDefUpgr.zip]
+[2013-01-06 01.25.33] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-06 01.25.33] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-06 01.27.49] Migrating iCDB upgrade backups from directory [Kubz\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-06 01.27.49] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-06 01.27.49] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-06 02.25.26] Successfully created [AutoSave] backup [2013-01-06 02.25.26 - auto.zip] requested by [LUTIN2:Alexis].
+[2013-01-06 02.25.26] Removing excessive [AutoSave] backup file [C:\Users\Alexis\Documents\Enseignement\proj101\Kubz\Kubz\Default\ProjectBackup\backups\2013-01-04 11.02.17 - auto.zip].
+[2013-01-06 02.25.26] [AutoSave] backup file [Kubz\Default\ProjectBackup\backups\2013-01-04 11.02.17 - auto.zip] removed.
+[2013-01-06 16.13.12] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-06 16.13.12] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-06 16.13.12] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-06 16.13.13] Successfully created [Constraints Definition Upgrade] backup [2013-01-06 16.13.13 - consDefUpgr.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-06 16.13.13] Removing excessive [Constraints Definition Upgrade] backup file [E:\ELECTRONIQUE\TELEPACT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-06 01.25.23 - consDefUpgr.zip].
+[2013-01-06 16.13.13] [Constraints Definition Upgrade] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-06 01.25.23 - consDefUpgr.zip] removed.
+[2013-01-06 16.13.13] Migrated iCDB content backup file [cdbback\2013-01-06 16.13.12-1168.zip] removed.
+[2013-01-06 17.22.09] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-06 17.22.09] Migrating iCDB upgrade backup file [2013-01-06 17.20.38-2484].
+[2013-01-06 17.22.09] Successfully created [Constraints Definition Upgrade] backup [2013-01-06 17.20.38 - consDefUpgr.zip] requested by [DAUDAU-PC:Daudau].
+[2013-01-06 17.22.09] Removing excessive [Constraints Definition Upgrade] backup file [E:\ELECTRONIQUE\DEPOTGIT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-06 16.13.13 - consDefUpgr.zip].
+[2013-01-06 17.22.09] [Constraints Definition Upgrade] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-06 16.13.13 - consDefUpgr.zip] removed.
+[2013-01-06 17.22.09] Migrated iCDB content backup file [cdbback\2013-01-06 17.20.38-2484.zip] removed.
+[2013-01-06 17.22.09] Successfully migrated iCDB upgrade backup file [2013-01-06 17.20.38-2484] to Project Backup format [2013-01-06 17.20.38 - consDefUpgr.zip]
+[2013-01-06 17.22.09] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-06 17.22.09] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-06 17.22.10] Successfully created [AutoSave] backup [2013-01-06 17.22.09 - auto.zip] requested by [MURUROA:Gu3nol].
+[2013-01-06 17.22.10] Removing excessive [AutoSave] backup file [E:\ELECTRONIQUE\DEPOTGIT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-04 17.29.12 - auto.zip].
+[2013-01-06 17.22.10] [AutoSave] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-04 17.29.12 - auto.zip] removed.
+[2013-01-06 17.43.55] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-06 17.43.55] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-06 17.43.55] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-07 00.48.24] Migrating iCDB upgrade backups from directory [\KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-07 00.48.24] Migrating iCDB upgrade backup file [2013-01-07 00.48.03-2196].
+[2013-01-07 00.48.25] Successfully created [Constraints Definition Upgrade] backup [2013-01-07 00.48.03 - consDefUpgr.zip] requested by [MURUROA:Gu3nol].
+[2013-01-07 00.48.25] Removing excessive [Constraints Definition Upgrade] backup file [Z:\KUBZ\Default\ProjectBackup\backups\2013-01-06 17.20.38 - consDefUpgr.zip].
+[2013-01-07 00.48.25] [Constraints Definition Upgrade] backup file [\KUBZ\Default\ProjectBackup\backups\2013-01-06 17.20.38 - consDefUpgr.zip] removed.
+[2013-01-07 00.48.25] Migrated iCDB content backup file [cdbback\2013-01-07 00.48.03-2196.zip] removed.
+[2013-01-07 00.48.25] Successfully migrated iCDB upgrade backup file [2013-01-07 00.48.03-2196] to Project Backup format [2013-01-07 00.48.03 - consDefUpgr.zip]
+[2013-01-07 00.48.25] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-07 00.48.25] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-07 01.53.31] Successfully created [AutoSave] backup [2013-01-07 01.53.30 - auto.zip] requested by [LUTIN2:Alexis].
+[2013-01-07 01.53.31] Removing excessive [AutoSave] backup file [Z:\KUBZ\Default\ProjectBackup\backups\2013-01-05 22.25.26 - auto.zip].
+[2013-01-07 01.53.31] [AutoSave] backup file [\KUBZ\Default\ProjectBackup\backups\2013-01-05 22.25.26 - auto.zip] removed.
+[2013-01-09 01.42.09] Migrating iCDB upgrade backups from directory [\KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-09 01.42.09] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-09 01.42.09] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-09 02.04.21] Migrating iCDB upgrade backups from directory [\KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-01-09 02.04.21] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-01-09 02.04.21] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-01-09 02.06.59] Successfully created [AutoSave] backup [2013-01-09 02.06.57 - auto.zip] requested by [LUTIN2:Alexis].
+[2013-01-09 02.06.59] Removing excessive [AutoSave] backup file [F:\KUBZ\Default\ProjectBackup\backups\2013-01-06 02.25.26 - auto.zip].
+[2013-01-09 02.06.59] [AutoSave] backup file [\KUBZ\Default\ProjectBackup\backups\2013-01-06 02.25.26 - auto.zip] removed.
+[2013-04-24 23.16.14] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-04-24 23.16.14] Migrating iCDB upgrade backup file [2013-04-24 23.15.36-2264].
+[2013-04-24 23.16.14] Successfully created [Constraints Definition Upgrade] backup [2013-04-24 23.15.36 - consDefUpgr.zip] requested by [LUTIN2:Alexis].
+[2013-04-24 23.16.14] Removing excessive [Constraints Definition Upgrade] backup file [E:\COURS\PACT\ELECTRONIQUE\DEPOTGIT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-07 00.48.03 - consDefUpgr.zip].
+[2013-04-24 23.16.14] [Constraints Definition Upgrade] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-07 00.48.03 - consDefUpgr.zip] removed.
+[2013-04-24 23.16.14] Migrated iCDB content backup file [cdbback\2013-04-24 23.15.36-2264.zip] removed.
+[2013-04-24 23.16.14] Successfully migrated iCDB upgrade backup file [2013-04-24 23.15.36-2264] to Project Backup format [2013-04-24 23.15.36 - consDefUpgr.zip]
+[2013-04-24 23.16.14] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-04-24 23.16.14] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-04-24 23.16.15] Successfully created [AutoSave] backup [2013-04-24 23.16.14 - auto.zip] requested by [MURUROA:Gu3nol].
+[2013-04-24 23.16.15] Removing excessive [AutoSave] backup file [E:\COURS\PACT\ELECTRONIQUE\DEPOTGIT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-06 17.22.09 - auto.zip].
+[2013-04-24 23.16.15] [AutoSave] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-06 17.22.09 - auto.zip] removed.
+[2013-04-25 09.02.15] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-04-25 09.02.15] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-04-25 09.02.15] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-04-25 09.34.50] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-04-25 09.34.50] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-04-25 09.34.50] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2013-06-17 09.53.21] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2013-06-17 09.53.21] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2013-06-17 09.53.21] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2014-03-07 16.17.27] Migrating iCDB upgrade backups from directory [KUBZ\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-07 16.17.27] Migrating iCDB upgrade backup file [2014-03-07 15.00.35-2080].
+[2014-03-07 16.17.27] Successfully created [Constraints Definition Upgrade] backup [2014-03-07 15.00.35 - consDefUpgr.zip] requested by [MURUROA:Gu3nol].
+[2014-03-07 16.17.27] Removing excessive [Constraints Definition Upgrade] backup file [E:\COURS\NAINA-TÉLÉCOM PARISTECH\PACT\ELECTRONIQUE\DEPOTGIT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-04-24 23.15.36 - consDefUpgr.zip].
+[2014-03-07 16.17.27] [Constraints Definition Upgrade] backup file [KUBZ\Default\ProjectBackup\backups\2013-04-24 23.15.36 - consDefUpgr.zip] removed.
+[2014-03-07 16.17.27] Migrated iCDB content backup file [cdbback\2014-03-07 15.00.35-2080.zip] removed.
+[2014-03-07 16.17.27] Successfully migrated iCDB upgrade backup file [2014-03-07 15.00.35-2080] to Project Backup format [2014-03-07 15.00.35 - consDefUpgr.zip]
+[2014-03-07 16.17.27] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2014-03-07 16.17.27] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2014-03-07 16.17.28] Successfully created [AutoSave] backup [2014-03-07 16.17.27 - auto.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-07 16.17.28] Removing excessive [AutoSave] backup file [E:\COURS\NAINA-TÉLÉCOM PARISTECH\PACT\ELECTRONIQUE\DEPOTGIT\KUBZ\KUBZ\Default\ProjectBackup\backups\2013-01-07 01.53.30 - auto.zip].
+[2014-03-07 16.17.28] [AutoSave] backup file [KUBZ\Default\ProjectBackup\backups\2013-01-07 01.53.30 - auto.zip] removed.
+[2014-03-26 00.57.16] Migrating iCDB upgrade backups from directory [Plume_Emetteur\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-26 00.57.16] Migrating iCDB upgrade backup file [2014-03-24 18.43.55-7348].
+[2014-03-26 00.57.16] Successfully created [Constraints Definition Upgrade] backup [2014-03-24 18.43.55 - consDefUpgr.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-26 00.57.16] Removing excessive [Constraints Definition Upgrade] backup file [E:\ROSE\plume\PCB\Plume_Emetteur\Plume_Emetteur\Default\ProjectBackup\backups\2014-03-07 15.00.35 - consDefUpgr.zip].
+[2014-03-26 00.57.16] [Constraints Definition Upgrade] backup file [Plume_Emetteur\Default\ProjectBackup\backups\2014-03-07 15.00.35 - consDefUpgr.zip] removed.
+[2014-03-26 00.57.16] Migrated iCDB content backup file [cdbback\2014-03-24 18.43.55-7348.zip] removed.
+[2014-03-26 00.57.16] Successfully migrated iCDB upgrade backup file [2014-03-24 18.43.55-7348] to Project Backup format [2014-03-24 18.43.55 - consDefUpgr.zip]
+[2014-03-26 00.57.16] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2014-03-26 00.57.16] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2014-03-27 02.16.54] Migrating iCDB upgrade backups from directory [Plume_Emetteur\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-27 02.16.54] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2014-03-27 02.16.54] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2014-03-27 02.16.55] Successfully created [AutoSave] backup [2014-03-27 02.16.54 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-27 02.18.26] Migrating iCDB upgrade backups from directory [Plume_Emetteur\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-27 02.18.26] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2014-03-27 02.18.26] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2014-03-27 10.29.39] Migrating iCDB upgrade backups from directory [Plume_Emetteur\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-27 10.29.39] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2014-03-27 10.29.39] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2014-03-27 10.33.17] Migrating iCDB upgrade backups from directory [Plume_Emetteur\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-27 10.33.17] WARNING: Ignoring iCDB backup file [2012-12-06 20.03.37-532-pbmf.zip] - will not be migrated.
+[2014-03-27 10.33.17] WARNING: Ignoring iCDB backup file [2012-12-06 19.54.03-2740-pbmf.zip] - will not be migrated.
+[2014-03-27 10.33.17] Successfully created [AutoSave] backup [2014-03-27 10.33.17 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-27 10.56.44] Successfully created [AutoSave] backup [2014-03-27 10.56.43 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-27 14.56.43] Successfully created [AutoSave] backup [2014-03-27 14.56.43 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-27 18.56.43] Successfully created [AutoSave] backup [2014-03-27 18.56.43 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-27 22.56.43] Successfully created [AutoSave] backup [2014-03-27 22.56.43 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-27 22.56.43] Removing excessive [AutoSave] backup file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\ProjectBackup\backups\2014-03-27 10.56.43 - auto.zip].
+[2014-03-27 22.56.43] [AutoSave] backup file [Plume_Emetteur\Default\ProjectBackup\backups\2014-03-27 10.56.43 - auto.zip] removed.
+[2014-03-28 11.06.33] Successfully created [AutoSave] backup [2014-03-28 11.06.25 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-28 11.06.33] Removing excessive [AutoSave] backup file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\ProjectBackup\backups\2014-03-27 14.56.43 - auto.zip].
+[2014-03-28 11.06.33] [AutoSave] backup file [Plume_Emetteur\Default\ProjectBackup\backups\2014-03-27 14.56.43 - auto.zip] removed.
+[2014-03-29 00.31.13] Successfully created [AutoSave] backup [2014-03-29 00.31.09 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-29 00.31.13] Removing excessive [AutoSave] backup file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\ProjectBackup\backups\2014-03-27 18.56.43 - auto.zip].
+[2014-03-29 00.31.13] [AutoSave] backup file [Plume_Emetteur\Default\ProjectBackup\backups\2014-03-27 18.56.43 - auto.zip] removed.
+[2014-03-29 12.10.29] Successfully created [AutoSave] backup [2014-03-29 12.10.25 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-29 12.10.29] Removing excessive [AutoSave] backup file [E:\ROSE\plume\PCB\Plume_Emetteur\Default\ProjectBackup\backups\2014-03-27 22.56.43 - auto.zip].
+[2014-03-29 12.10.29] [AutoSave] backup file [Plume_Emetteur\Default\ProjectBackup\backups\2014-03-27 22.56.43 - auto.zip] removed.
+[2014-03-30 15.33.51] Migrating iCDB upgrade backups from directory [EMETTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-30 15.33.51] Migrating iCDB upgrade backup file [2014-03-30 15.30.52-1820].
+[2014-03-30 15.33.52] Successfully created [Constraints Definition Upgrade] backup [2014-03-30 15.30.52 - consDefUpgr.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-30 15.33.52] Migrated iCDB content backup file [cdbback\2014-03-30 15.30.52-1820.zip] removed.
+[2014-03-30 15.33.52] Successfully migrated iCDB upgrade backup file [2014-03-30 15.30.52-1820] to Project Backup format [2014-03-30 15.30.52 - consDefUpgr.zip]
+[2014-03-30 15.46.55] Successfully created [AutoSave] backup [2014-03-30 15.46.52 - auto.zip] requested by [LUTIN2:Alexis].
+[2014-03-30 15.46.55] Removing excessive [AutoSave] backup file [U:\2014\PLUME\PCB\EMETTEUR\Default\ProjectBackup\backups\2014-03-28 11.06.25 - auto.zip].
+[2014-03-30 15.46.55] [AutoSave] backup file [EMETTEUR\Default\ProjectBackup\backups\2014-03-28 11.06.25 - auto.zip] removed.
+[2014-03-30 19.46.57] Successfully created [AutoSave] backup [2014-03-30 19.46.52 - auto.zip] requested by [LUTIN2:Alexis].
+[2014-03-30 19.46.57] Removing excessive [AutoSave] backup file [U:\2014\PLUME\PCB\EMETTEUR\Default\ProjectBackup\backups\2014-03-29 00.31.09 - auto.zip].
+[2014-03-30 19.46.57] [AutoSave] backup file [EMETTEUR\Default\ProjectBackup\backups\2014-03-29 00.31.09 - auto.zip] removed.
+[2014-03-30 22.11.54] Migrating iCDB upgrade backups from directory [Emetteur\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-30 22.11.54] Migrating iCDB upgrade backup file [2014-03-30 22.06.24-6456].
+[2014-03-30 22.11.54] Successfully created [Constraints Definition Upgrade] backup [2014-03-30 22.06.24 - consDefUpgr.zip] requested by [LUTIN2:Alexis].
+[2014-03-30 22.11.54] Removing excessive [Constraints Definition Upgrade] backup file [E:\ROSE\plume\PCB\Emetteur\Default\ProjectBackup\backups\2014-03-30 15.30.52 - consDefUpgr.zip].
+[2014-03-30 22.11.54] [Constraints Definition Upgrade] backup file [Emetteur\Default\ProjectBackup\backups\2014-03-30 15.30.52 - consDefUpgr.zip] removed.
+[2014-03-30 22.11.54] Migrated iCDB content backup file [cdbback\2014-03-30 22.06.24-6456.zip] removed.
+[2014-03-30 22.11.54] Successfully migrated iCDB upgrade backup file [2014-03-30 22.06.24-6456] to Project Backup format [2014-03-30 22.06.24 - consDefUpgr.zip]
+[2014-03-31 09.23.25] Migrating iCDB upgrade backups from directory [EMETTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-31 09.23.25] Migrating iCDB upgrade backup file [2014-03-31 09.22.55-2632].
+[2014-03-31 09.23.25] Successfully created [Constraints Definition Upgrade] backup [2014-03-31 09.22.55 - consDefUpgr.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-31 09.23.25] Migrated iCDB content backup file [cdbback\2014-03-31 09.22.55-2632.zip] removed.
+[2014-03-31 09.23.25] Successfully migrated iCDB upgrade backup file [2014-03-31 09.22.55-2632] to Project Backup format [2014-03-31 09.22.55 - consDefUpgr.zip]
+[2014-03-31 09.23.28] Successfully created [AutoSave] backup [2014-03-31 09.23.25 - auto.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-31 09.23.28] Removing excessive [AutoSave] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Default\ProjectBackup\backups\2014-03-29 12.10.25 - auto.zip].
+[2014-03-31 09.23.28] [AutoSave] backup file [EMETTEUR\Default\ProjectBackup\backups\2014-03-29 12.10.25 - auto.zip] removed.
+[2014-03-31 17.44.25] Migrating iCDB upgrade backups from directory [Emetteur\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-31 17.44.25] Migrating iCDB upgrade backup file [2014-03-31 17.44.03-1760].
+[2014-03-31 17.44.25] Successfully created [Constraints Definition Upgrade] backup [2014-03-31 17.44.03 - consDefUpgr.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-31 17.44.25] Removing excessive [Constraints Definition Upgrade] backup file [E:\ROSE\plume\PCB\Emetteur\Default\ProjectBackup\backups\2014-03-31 09.22.55 - consDefUpgr.zip].
+[2014-03-31 17.44.25] [Constraints Definition Upgrade] backup file [Emetteur\Default\ProjectBackup\backups\2014-03-31 09.22.55 - consDefUpgr.zip] removed.
+[2014-03-31 17.44.25] Migrated iCDB content backup file [cdbback\2014-03-31 17.44.03-1760.zip] removed.
+[2014-03-31 17.44.25] Successfully migrated iCDB upgrade backup file [2014-03-31 17.44.03-1760] to Project Backup format [2014-03-31 17.44.03 - consDefUpgr.zip]
+[2014-03-31 17.44.25] Successfully created [AutoSave] backup [2014-03-31 17.44.25 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-03-31 17.44.25] Removing excessive [AutoSave] backup file [E:\ROSE\plume\PCB\Emetteur\Default\ProjectBackup\backups\2014-03-30 15.46.52 - auto.zip].
+[2014-03-31 17.44.25] [AutoSave] backup file [Emetteur\Default\ProjectBackup\backups\2014-03-30 15.46.52 - auto.zip] removed.
+[2014-04-01 00.25.03] Successfully created [AutoSave] backup [2014-04-01 00.24.59 - auto.zip] requested by [OLIVIER-PC:Olivier].
+[2014-04-01 14.11.50] Migrating iCDB upgrade backups from directory [EMETTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-04-01 14.11.50] Migrating iCDB upgrade backup file [2014-04-01 14.10.11-188172].
+[2014-04-01 14.11.50] Successfully created [Constraints Definition Upgrade] backup [2014-04-01 14.10.11 - consDefUpgr.zip] requested by [OLIVIER-PC:Olivier].
+[2014-04-01 14.11.50] Migrated iCDB content backup file [cdbback\2014-04-01 14.10.11-188172.zip] removed.
+[2014-04-01 14.11.50] Successfully migrated iCDB upgrade backup file [2014-04-01 14.10.11-188172] to Project Backup format [2014-04-01 14.10.11 - consDefUpgr.zip]
+[2014-04-01 14.11.53] Successfully created [AutoSave] backup [2014-04-01 14.11.50 - auto.zip] requested by [BI-WIN7:Alexis].

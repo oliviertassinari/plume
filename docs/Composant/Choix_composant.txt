@@ -1,0 +1,238 @@
+Choix des composants
+
+/* Récepteur */
+Nous utilisons la deuxième solution.
+Toutefois, pour montrer les pistes que nous avons exploré nous laissons toutes les informations de la première solution disponible.
+
+=========================================================================================
+
+Première solution : (LNA + PGA + ADC) x 3 + STM32F42xxx + nRF51822QFAA-G0
+
+-----------------------------------------------------------------------------------------
+
+Le LNA :
+Nous choisissons le ADA4897-1.
+
+En effet pour notre fréquence de fonctionnement (20kHz), ce LNA nous offre le meilleur facteur de bruit. De plus, celui-ci accepte une tension d'alimentation de +3V en rail-to-rail. Sa consommation est en moyenne de 8,1 mW.
+
+Dans l'idéal nous préférerions un package en SOT-23 mais nous ne l'avons pas trouvé. Ainsi, nous choisissons, un package en SOIC.
+
+Référence constructeur :
+ANALOG DEVICES - ADA4897-1ARZ
+
+Référence Farnell :
+http://uk.farnell.com/analog-devices/ada4897-1arz/op-amp-r-r-low-power-8soic/dp/2008779
+
+Lien datasheet :
+http://www.analog.com/static/imported-files/data_sheets/ADA4896-2_4897-1_4897-2.PDF
+
+-----------------------------------------------------------------------------------------
+
+Le PGA :
+Nous choisissons le PGA113 de Texas Instrument.
+
+Celui-ci fonctionne a notre fréquence de fonctionnement en offrant un facteur de bruit minimal. Il peut se commander en SPI. Sa plage de gain nous offre des possibilités de 0 à 30 db.Sa tension d'alimentation accepte du +3V. Sa consommation moyenne est de 1,3 mW.
+
+Référence constructeur :
+Texas Instrument - PGA113AIDGST
+
+Référence Farnell :
+http://uk.farnell.com/texas-instruments/pga113aidgst/ic-op-amp-prog-gain-r-r-10msop/dp/1755004
+
+Lien datasheet :
+http://www.ti.com/lit/ds/symlink/pga113.pdf
+
+-----------------------------------------------------------------------------------------
+
+L'ADC :
+Nous choisissons le AD7685 de Analog Device
+
+Référence constructeur :
+Analog Device - AD7685BRMZ
+
+Référence Farnell :
+http://fr.farnell.com/analog-devices/ad7685brmz/can-16-bits-cms-250-ksps-serial/dp/1078337
+
+Lien Datasheet :
+http://www.analog.com/static/imported-files/data_sheets/AD7685.pdf
+
+-----------------------------------------------------------------------------------------
+
+Le MicroP :
+
+Référence constructeur :
+STMICROELECTRONICS - STM32F427VIT6 - MICROCONTROLEUR 32 BITS ARM CORTEX
+
+Référence Farnell :
+http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf
+
+Lien datasheet :
+http://www.farnell.com/datasheets/1792129.pdf
+
+=========================================================================================
+
+Deuxième solution : LNA + Codec Audio + STM32F405RG + nRF51822
+
+-----------------------------------------------------------------------------------------
+
+Le LNA :
+Nous choisissons le TI LMP7712
+
+Référence constructeur : TI LMP7712
+
+Lien Farnell : http://fr.farnell.com/texas-instruments/lmp7712mm/ampli-op-14mhz-cms/dp/1312609
+
+Datasheet : http://www.farnell.com/datasheets/108363.pdf
+
+
+-----------------------------------------------------------------------------------------
+
+Codec Audio
+
+Ce Codec Audio permet de faire directement ce que nous voulions faire avec la solution précédante mais avec un seul composant.
+
+Référence constructeur :
+TEXAS INSTRUMENTS - TLV320AIC3254IRHBT
+
+Référence Farnell :
+http://fr.farnell.com/texas-instruments/tlv320aic3254irhbt/lp-audio-codec-1-8v-32qfn/dp/1689425
+
+Lien Datasheet :
+http://fr.farnell.com/texas-instruments/tlv320aic3254irhbt/lp-audio-codec-1-8v-32qfn/dp/1689425
+
+-----------------------------------------------------------------------------------------
+
+Le MicroP :
+Nous choisissons un STM32f405xx
+
+Voici quelques justifications de ce choix :
+- Le f4 offre la possibilité de faire des calculs flottants ce qui est nécessaire pour notre projet.
+- Les bibliothèque permettant de faire des transformé de Fourier fournit par ST sont complète et une large communauté existe autour, ce qui nous facilité son utilisation
+- Nous possédons déjà ce microP sur nos carte de TP ou sur des Discovery ce qui nous permet de nous préparer en attendant le retour des PCB.
+
+Référence constructeur :
+ST Microelectronics - STM32F405RGT6
+Package : LQFP64 (Le plus compact). Cela impose donc de choisir le STM32F405RG.
+
+Référence Farnell :
+http://fr.farnell.com/stmicroelectronics/stm32f405rgt6/ic-mcu-32bit-1mb-flash-64lqfp/dp/2064363
+
+Lien datasheet :
+http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf
+
+
+=========================================================================================
+
+Composants commun à ces deux solutions :
+
+-----------------------------------------------------------------------------------------
+
+Le nRF51822
+
+On utilise le composant que vous nous demandez : nRF51822QFAA-G0
+Je suppose que vous avez déjà les références constructeur et Farnell. :)
+
+Référence constructeur :
+Nordic - nRF51822QFAA-G0
+
++ LED D'activité : KINGBRIGHT - KP-1608SGC - LED CMS 0603 VERT
+
+-----------------------------------------------------------------------------------------
+
+Balun + Antenne :
+
+Référence constructeur :
+2450BM14A0002 LPF-Balun.
+
+Antenne :
+Johanson 2450AT18A100E
+
+Connecteur SWD :
+Côté sonde : J-Link 9-pin Cortex-M Adapter
+Côté board : SWD FTSH
+
+-----------------------------------------------------------------------------------------
+
+Batterie :
+Polymer Lithium Ion Battery - 400mAh
+
+Référence constructeur :
+Polymer Lithium Ion Battery - GSP062530-3PINS
+
+Lien Sparkfun :
+https://www.sparkfun.com/products/10718
+
+Lien datasheet :
+http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/GSP062530-3PINS%203.7V%20400mAh.pdf
+
++ Connecteurs batterie : Standard 2-pin JST-PH connector - 2mm d'espacement entre les pins.
+
+-----------------------------------------------------------------------------------------
+
+Régulateur :
+Pour la logique : LTC3530
+
+-----------------------------------------------------------------------------------------
+
+Bobine :
+On attend lundi d'avoir un inductance metre
+
+
+=========================================================================================
+
+
+
+
+/* Emetteur */
+
+-----------------------------------------------------------------------------------------
+
+Le MicroP :
+
+Référence constructeur :
+STMICROELECTRONICS - STM32F103CBT6
+
+Référence Farnell :
+http://fr.farnell.com/stmicroelectronics/stm32f103cbt6/mcu-32bit-arm-cortex-m3-48lqfp/dp/1606327?ref=lookahead
+
+Lien datasheet :
+http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf
+
+-----------------------------------------------------------------------------------------
+
+Le Pont en H :
+
+Référence constructeur :
+STMICROELECTRONICS - L6206D
+
+Référence Farnell :
+http://fr.farnell.com/stmicroelectronics/l6206d/driver-de-pont-dmos-cms/dp/1271019?Ntt=L6206D
+
+Lien datasheet :
+http://www.st.com/web/en/resource/technical/document/datasheet/CD00002346.pdf
+
+-----------------------------------------------------------------------------------------
+
+Le Driver de LED :
+
+Référence constructeur :
+Texas Instruments - TLC5951DAP
+
+Référence Farnell :
+?
+
+Lien datasheet :
+http://www.ti.com/lit/ds/symlink/tlc5951.pdf
+
+-----------------------------------------------------------------------------------------
+
+Le Régulateur :
+
+Référence constructeur :
+LINEAR TECHNOLOGY - LT1765EFE-3.3
+
+Référence Farnell :
+http://fr.farnell.com/linear-technology/lt1765efe-3-3-pbf/regul-a-decoupage-3a-1-25mhz-sd/dp/1663485?Ntt=LT1765EFE-3.3
+
+Lien datasheet :
+http://cds.linear.com/docs/en/datasheet/1765fd.pdf

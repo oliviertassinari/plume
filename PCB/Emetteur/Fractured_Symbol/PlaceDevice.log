@@ -1,0 +1,37 @@
+FSP Log file Mon Dec 10 20:36:19 GMT 2012
+---------------------------------------
+
+cfgFileName = E:\Electronique\telepact\Cube\Fractured_Symbol\PlaceDevice.cfg
+readOnly = false
+noView = false
+createMaster = false
+refPrefix = 
+mMap = 
+fsMap = 
+catalog = 
+m_catalog = null
+batch = false
+fileType = A
+fileName = E:\Electronique\telepact\Cube\Fractured_Symbol\10-0086.apd
+outDir = E:\Electronique\telepact\Cube\Fractured_Symbol
+partNo = 10-0086
+o_partNo = 10-0086
+m_partNo = null
+masterName = 
+compName = 
+uid = 10-0086
+bl = false
+mode = DV
+project = E:\Electronique\telepact\Cube\Cube.prj
+partition = 
+central_library = C:\MentorGraphics\Central_Libs\ENST.lmc
+install_dir = 
+fixed_pinlist = true
+part_file = C:\MentorGraphics\Central_Libs\PartsDBLibs\Capacitors.pdb
+reload = true
+geometry = 
+units = inches
+CLASSPATH = C:/MentorGraphics/7.9.4EE/SDD_HOME/wg/win32/lib/pct_mgls.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/common/win32/lib/xview.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/common/win32/lib/MouseBehavior.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/common/win32/lib/jeda.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/common/win32/lib/udi.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/common/win32/lib/fsp.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/common/win32/lib/table_core.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/common/win32/Jre1.4.0_01/lib/endorsed/xerces.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/common/win32/Jre1.4.0_01/lib/endorsed/sax.jar;C:/MentorGraphics/7.9.4EE/SDD_HOME/wg/win32/pkgs/fsp/etc/
+
+End of FSP Log file Mon Dec 10 20:36:28 GMT 2012
+---------------------------------------

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        09:19 PM Tuesday, April 29, 2014
+Job Name: E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\PCB.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        09:40 PM Tuesday, April 29, 2014
+Job Name: E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\PCB.pcb
+

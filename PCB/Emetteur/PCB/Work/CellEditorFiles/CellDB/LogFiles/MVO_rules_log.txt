@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'U:\2014\PLUME\PCB\EMETTEUR\PCB\WORK\CELLEDITORFILES\CELLDB\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'U:\2014\PLUME\PCB\EMETTEUR\PCB\WORK\CELLEDITORFILES\CELLDB\Layout\MVO_Rules.txt'

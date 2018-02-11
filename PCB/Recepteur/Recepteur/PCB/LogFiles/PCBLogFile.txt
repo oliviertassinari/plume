@@ -1,0 +1,4 @@
+
+Expedition PCB - Pinnacle Version: 2013.0.543.380
+
+Successfully read the design.

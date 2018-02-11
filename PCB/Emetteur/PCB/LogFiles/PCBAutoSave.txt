@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        02:27 PM Tuesday, April 01, 2014
+                Job Name: U:\2014\PLUME\PCB\EMETTEUR\PCB\PCB.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        02:27 PM Tuesday, April 01, 2014
+                Job Name: U:\2014\PLUME\PCB\EMETTEUR\PCB\PCB.pcb
+

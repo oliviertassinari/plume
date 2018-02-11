@@ -1,0 +1,153 @@
+
+                               Forward Annotation
+                               ------------------
+
+                        02:12 PM Tuesday, April 01, 2014
+                Job Name: U:\2014\PLUME\PCB\EMETTEUR\PCB\PCB.pcb
+
+
+Version:  01.01.00
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 32
+          Part Numb: 00-0034 -> Vend Part: 00-0034 
+          Part Numb: 00-0078 -> Vend Part: 00-0078 
+          Part Numb: 00-0098 -> Vend Part: 00-0098 
+          Part Numb: 00-0100 -> Vend Part: 00-0100 
+          Part Numb: 02-0026 -> Vend Part: 02-0026 
+          Part Numb: 02-0083 -> Vend Part: 02-0083 
+          Part Numb: 02-0098 -> Vend Part: 02-0098 
+          Part Numb: 02-0264 -> Vend Part: 02-0264 
+          Part Numb: 03-0010 -> Vend Part: 03-0010 
+          Part Numb: 10-0003 -> Vend Part: 10-0003 
+          Part Numb: 10-0011 -> Vend Part: 10-0011 
+          Part Numb: 10-0014 -> Vend Part: 10-0014 
+          Part Numb: 10-0026 -> Vend Part: 10-0026 
+          Part Numb: 10-0041 -> Vend Part: 10-0041 
+          Part Numb: 10-0057 -> Vend Part: 10-0057 
+          Part Numb: 10-0059 -> Vend Part: 10-0059 
+          Part Numb: 10-0062 -> Vend Part: 10-0062 
+          Part Numb: 10-0099 -> Vend Part: 10-0099 
+          Part Numb: 10-0103 -> Vend Part: 10-0103 
+          Part Numb: 20-0032 -> Vend Part: 20-0032 
+          Part Numb: 20-0039 -> Vend Part: 20-0039 
+          Part Numb: 40-0115 -> Vend Part: 40-0115 
+          Part Numb: 40-0138 -> Vend Part: 40-0138 
+          Part Numb: 40-0168 -> Vend Part: 40-0168 
+          Part Numb: 40-0190 -> Vend Part: 40-0190 
+          Part Numb: 70-0002 -> Vend Part: 70-0002 
+          Part Numb: 70-0025 -> Vend Part: 70-0025 
+          Part Numb: 70-0065 -> Vend Part: 70-0065 
+          Part Numb: 70-0081 -> Vend Part: 70-0081 
+          Part Numb: 70-0083 -> Vend Part: 70-0083 
+          Part Numb: 80-0001 -> Vend Part: 80-0001 
+          Part Numb: 81-0013 -> Vend Part: 81-0013 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     INFO: Cell DXF_plume is not in Central Library - Using local library.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 78 Symbols:
+              78  ***************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     87 nets were found containing 305 pins
+     78 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                        02:12 PM Tuesday, April 01, 2014
+                Job Name: U:\2014\PLUME\PCB\EMETTEUR\PCB\PCB.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be deleted.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

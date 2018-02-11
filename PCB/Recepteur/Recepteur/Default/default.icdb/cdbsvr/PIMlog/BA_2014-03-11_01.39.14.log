@@ -1,0 +1,139 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+FE snapshot name: DCDV
+BE snapshot name: PCB_Layout_Temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,STM32F103CB;12,(43-9-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+[Ok][Deletion] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesVia,VIA1.6,(4-2-62)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesVia,026VIA,(970-1-62)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesVia,VIA0.6,(970-2-62)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesViaSpan,Through,(4-1-27)]
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(4-1-23)] [O: CesConstraint,LAYER_TECH,(4-3-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(4-1-23)] [O: CesConstraint,HEIGHT,(4-4-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,HEIGHT,(4-12-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,BULK_RES,(4-13-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(4-3-23)] [O: CesConstraint,LAYER_TECH,(4-16-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(4-3-23)] [O: CesConstraint,HEIGHT,(4-17-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,HEIGHT,(4-25-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,BULK_RES,(4-26-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(4-5-23)] [O: CesConstraint,LAYER_TECH,(4-29-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(4-5-23)] [O: CesConstraint,HEIGHT,(4-30-22)]
+[Ok][Modification] - [BE->FE] [P: CesViaSpan,Through,(4-1-27)] [O: CesConstraint,DEFAULT_VIA,(4-32-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,PAD_TO_PAD,(4-42-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,PAD_TO_PLANE,(4-43-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,PLANE_TO_PLANE,(4-44-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,TRACE_TO_PLANE,(4-45-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,VIA_TO_PLANE,(4-46-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,TRACE_TO_PAD,(4-47-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,TRACE_TO_TRACE,(4-48-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,TRACE_TO_VIA,(4-49-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,PAD_TO_VIA,(4-50-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,VIA_TO_VIA,(4-51-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,RESISTOR_TO_TRACE,(4-54-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,SMDPAD_TO_TRACE,(4-60-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,SMDPAD_TO_VIA,(4-61-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,PAD_TO_PAD,(4-62-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,PAD_TO_PLANE,(4-63-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,PLANE_TO_PLANE,(4-64-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,TRACE_TO_PLANE,(4-65-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,VIA_TO_PLANE,(4-66-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,TRACE_TO_PAD,(4-67-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,TRACE_TO_TRACE,(4-68-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,TRACE_TO_VIA,(4-69-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,PAD_TO_VIA,(4-70-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,VIA_TO_VIA,(4-71-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,RESISTOR_TO_TRACE,(4-74-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,SMDPAD_TO_TRACE,(4-80-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,SMDPAD_TO_VIA,(4-81-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-1-40)] [O: CesConstraint,MIN_TRACE_WIDTH,(4-83-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-1-40)] [O: CesConstraint,TYP_TRACE_WIDTH,(4-84-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-1-40)] [O: CesConstraint,DIFF_SPACING,(4-87-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-3-40)] [O: CesConstraint,MIN_TRACE_WIDTH,(4-89-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-3-40)] [O: CesConstraint,TYP_TRACE_WIDTH,(4-90-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-3-40)] [O: CesConstraint,DIFF_SPACING,(4-93-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_TRACE,(83-1-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_PAD,(83-3-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,SMDPAD_TO_TRACE,(85-1-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeNetClassRule,(Default),(2-1-38)] [O: CesConstraint,TYP_TRACE_WIDTH,(162-1-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeNetClassRule,(Default),(2-1-38)] [O: CesConstraint,MIN_TRACE_WIDTH,(162-5-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_PLANE,(684-1-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_VIA,(684-3-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_PAD,(684-5-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_VIA,(684-7-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_PLANE,(684-9-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,VIA_TO_VIA,(684-11-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,VIA_TO_PLANE,(684-13-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,SMDPAD_TO_VIA,(684-15-22)]
+[Ok][Modification] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PLANE_TO_PLANE,(684-17-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(4-1-23)] [O: CesConstraint,ER_FREQ,(971-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(4-1-23)] [O: CesConstraint,LOSS_TAN_FREQ,(971-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(4-1-23)] [O: CesConstraint,LOSS_TAN,(971-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(4-1-23)] [O: CesConstraint,THERMAL_COND,(971-4-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,LAYER_COLOR,(971-5-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,CONDUCTOR,(971-6-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,TEMP_COEF,(971-7-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,POUR_DRAW_STYLE,(971-8-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,DIELCONST,(971-9-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,ER_FREQ,(971-10-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,LOSS_TAN_FREQ,(971-11-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,LOSS_TAN,(971-12-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,THERMAL_COND,(971-13-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,TRACE_WIDTH,(971-14-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,TARGET_Z0,(971-15-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,ZZ_WIDTH,(971-16-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,GAP,(971-17-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(4-3-23)] [O: CesConstraint,ER_FREQ,(971-18-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(4-3-23)] [O: CesConstraint,LOSS_TAN_FREQ,(971-19-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(4-3-23)] [O: CesConstraint,LOSS_TAN,(971-20-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(4-3-23)] [O: CesConstraint,THERMAL_COND,(971-21-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,LAYER_COLOR,(971-22-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,CONDUCTOR,(971-23-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,TEMP_COEF,(971-24-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,POUR_DRAW_STYLE,(971-25-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,DIELCONST,(971-26-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,ER_FREQ,(971-27-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,LOSS_TAN_FREQ,(971-28-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,LOSS_TAN,(971-29-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,THERMAL_COND,(971-30-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,TRACE_WIDTH,(971-31-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,TARGET_Z0,(971-32-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,ZZ_WIDTH,(971-33-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SIGNAL_2,(4-4-23)] [O: CesConstraint,GAP,(971-34-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(4-5-23)] [O: CesConstraint,ER_FREQ,(971-35-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(4-5-23)] [O: CesConstraint,LOSS_TAN_FREQ,(971-36-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(4-5-23)] [O: CesConstraint,LOSS_TAN,(971-37-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(4-5-23)] [O: CesConstraint,THERMAL_COND,(971-38-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,RESISTOR_TO_TRACE,(971-39-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeNetClassRule,(Default),(2-1-38)] [O: CesConstraint,DIFF_SPACING,(971-40-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2014-03-11 01:39:14) 
+--------------------------------------------------------------------------------

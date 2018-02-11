@@ -1,0 +1,279 @@
+[2014.03.28 20:54:50] [0000m.01s.015ms] [0] WELCOME
+[2014.03.28 20:54:50] [0000m.01s.031ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.03.28 20:54:50] [0000m.01s.031ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.03.28 20:54:50] [0000m.01s.031ms] [1] Base flow version [7.9.4]
+[2014.03.28 20:54:50] [0000m.01s.031ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.28 20:54:50] [0000m.01s.031ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.28 20:54:50] [0000m.01s.031ms] [1] Machine [LUTIN2]  User [Alexis]  PID [3340]
+[2014.03.28 20:54:50] [0000m.01s.031ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.03.28 20:54:50] [0000m.01s.031ms] [1] Current working dir [U:\2014\Plume\PCB\Recepteur\Recepteur]
+[2014.03.28 20:54:50] [0000m.01s.046ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseGit\bin;]
+[2014.03.28 20:54:50] [0000m.01s.046ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.03.28 20:54:50] [0000m.01s.046ms] [1] SDD_PLATFORM [win32]
+[2014.03.28 20:54:50] [0000m.01s.046ms] [1] WDIR [C:\Users\Alexis\Documents\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.03.28 20:54:50] [0000m.01s.046ms] [1] Local iCDB working dir [C:\Users\Alexis\Documents\WDIR\iCDB] on file system [NTFS]
+[2014.03.28 20:54:50] [0000m.01s.046ms] [1] S: Config file name [ServerWG.cfg]
+[2014.03.28 20:54:50] [0000m.01s.046ms] [2] S: Loading config files
+[2014.03.28 20:54:50] [0000m.01s.062ms] [1] Config file [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2014.03.28 20:54:50] [0000m.01s.062ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2014.03.28 20:54:50] [0000m.01s.062ms] [3] S: Config loaded
+[2014.03.28 20:54:50] [0000m.01s.156ms] [0] S: Project path [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2014.03.28 20:54:50] [0000m.01s.156ms] [0] S: Project global path [\\vboxsrv\elecinf344\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb] on file system [UNKNOWN]
+[2014.03.28 20:54:50] [0000m.01s.156ms] [1] S: WARNING: No project file (.prj) path specified
+[2014.03.28 20:54:50] [0000m.01s.171ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.03.28 20:54:50] [0000m.01s.171ms] [0] S: Multi-user mode (config)
+[2014.03.28 20:54:50] [0000m.01s.171ms] [0] S: Event polling mode autodetection
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] S: Started up automatically by iCDB Client: LUTIN2:Alexis:4024
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] S: Auto close mode
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] S: Database ID [0cd7-a3e8-8b34-ded3-973d-533e-73d5-3350-ef55-a372-e2af-69d8]
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: BEGIN dumping
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: Local -> global path prefix list
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: [C:\Users] -> [\\LUTIN2\Users]
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: [E:\] -> [\\VBOXSVR\elecinf344\]
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: [F:\] -> [\\vboxsrv\mentor\]
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: [U:\] -> [\\vboxsrv\elecinf344\]
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: Global -> local path prefix list
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: [\\VBOXSVR\elecinf344\] -> [E:\]
+[2014.03.28 20:54:50] [0000m.01s.218ms] [0] PathTranslator: [\\vboxsrv\elecinf344\] -> [U:\]
+[2014.03.28 20:54:50] [0000m.01s.234ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [F:\]
+[2014.03.28 20:54:50] [0000m.01s.234ms] [0] PathTranslator: [\\LUTIN2\Users] -> [C:\Users]
+[2014.03.28 20:54:50] [0000m.01s.234ms] [0] PathTranslator: END dumping
+[2014.03.28 20:54:50] [0000m.01s.234ms] [0] S: START
+[2014.03.28 20:54:50] [0000m.01s.234ms] [0] S: Server startup lock file created
+[2014.03.28 20:54:50] [0000m.01s.234ms] [0] S: Listening for client connections on port [10000]
+[2014.03.28 20:54:50] [0000m.01s.250ms] [0] S: Server network ID [lutin2:10.0.2.15,192.168.56.101,lutin2:10000]
+[2014.03.28 20:54:50] [0000m.01s.250ms] [0] S: Server GUID [395e-5f1c-9ab7-f030-a83d-533f-83d5-3350-a6f4-a372-e2af-69d8]
+[2014.03.28 20:54:50] [0000m.01s.250ms] [0] S: Project GUID [0cd7-a3e8-8b34-ded3-973d-533e-73d5-3350-ef55-a372-e2af-69d8]
+[2014.03.28 20:54:50] [0000m.01s.281ms] [0] S: Wrote data to server address file
+[2014.03.28 20:54:50] [0000m.01s.281ms] [0] S: Server startup lock file removed
+[2014.03.28 20:54:50] [0000m.01s.281ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.03.28 20:54:50] [0000m.01s.796ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.03.28 20:54:50] [0000m.01s.796ms] [0] S: Local disc access time: 48 us
+[2014.03.28 20:54:50] [0000m.01s.796ms] [0] S: File server access time: 732 us
+[2014.03.28 20:54:50] [0000m.01s.796ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2014.03.28 20:54:50] [0000m.01s.812ms] [0] Single file [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] size [164176 (160.3 kB)]
+[2014.03.28 20:54:50] [0000m.01s.812ms] [1] Single file [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] opened in read-write mode
+[2014.03.28 20:54:50] [0000m.01s.812ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.28 20:54:50] [0000m.01s.812ms] [0] Database GUARD OK: [164176]
+[2014.03.28 20:54:50] [0000m.01s.828ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.28 20:54:50] [0000m.01s.828ms] [0] Database GUARD OK: [164176]
+[2014.03.28 20:54:50] [0000m.01s.828ms] [0] SingleFile: [737a-aa89-e1b9-7b0d] SFI version check [1009] [1009]
+[2014.03.28 20:54:51] [0000m.02s.000ms] [0] SingleFile: [737a-aa89-e1b9-7b0d] Database SFI header has been read in [168ms 270us]
+[2014.03.28 20:54:51] [0000m.02s.015ms] [0] iCDB Server PI: Server & plugin session [1204]
+[2014.03.28 20:54:51] [0000m.02s.015ms] [0] iCDB Server PI: Opening database [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb]
+[2014.03.28 20:54:51] [0000m.02s.015ms] [0] iCDB Server PI: Database [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb] opened
+[2014.03.28 20:54:51] [0000m.02s.078ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.03.28 20:54:51] [0000m.02s.078ms] [0] iCDB Database: Checking constraint definitions version
+[2014.03.28 20:54:51] [0000m.02s.171ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=75a7-9983-305b-ad8c-6b13-75da-b137-5d40-22b8-f675-73dc-0aa8] up to date
+[2014.03.28 20:54:51] [0000m.02s.468ms] [0] iCDB Server PI: Initializing plugins
+[2014.03.28 20:54:51] [0000m.02s.468ms] [0] iCDB Server PI: Plugins initialized
+[2014.03.28 20:54:51] [0000m.02s.468ms] [0] S: iCDB database loaded
+[2014.03.28 20:54:51] [0000m.02s.484ms] [0] S: Starting threads
+[2014.03.28 20:54:51] [0000m.02s.484ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.03.28 20:54:51] [0000m.02s.500ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.03.28 20:54:51] [0000m.02s.500ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2014.03.28 20:54:51] [0000m.02s.531ms] [0] IT: Session [1205] for host [lutin2] user [Alexis] with process ID [4024] created
+[2014.03.28 20:54:51] [0000m.02s.531ms] [1] SC[1205]: Registered sub-client [DCDV] with ID [1] for session ID [1205] host [lutin2] user [Alexis] process ID [4024]
+[2014.03.28 20:54:51] [0000m.02s.609ms] [1] CMT: There are [1] clients now: 1205
+[2014.03.28 20:56:13] [0001m.23s.890ms] [0] DFAMT: File server access time: 1779 us
+[2014.03.28 20:56:35] [0001m.46s.437ms] [0] IT: Session [1206] for host [lutin2] user [Alexis] with process ID [1060] created
+[2014.03.28 20:56:35] [0001m.46s.437ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[lutin2] # ClientUserName[Alexis] # ClientProcessID[1060] # SessionID[1206]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Recepteur.prj], global path [\\vboxsrv\elecinf344\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Recepteur.prj]
+[2014.03.28 20:56:35] [0001m.46s.531ms] [1] CMT: There are [2] clients now: 1205, 1206
+[2014.03.28 20:56:35] [0001m.46s.687ms] [0] PrjBackupMgr: Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014.03.28 20:56:35] [0001m.46s.687ms] [0] PrjBackupMgr: Migrating iCDB upgrade backup file [2014-03-28 20.54.36-836].
+[2014.03.28 20:56:36] [0001m.47s.250ms] [1] PrjBackupMgr: Successfully created Project Backup [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 20.54.36 - consDefUpgr.zip] with GUID [903a-2bca-c5ef-ed96-3f3d-5338-f3d5-3350-2e45-a372-e2af-69d8]
+[2014.03.28 20:56:36] [0001m.47s.250ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[9ada-e7de-2d01-bf8d-212c-5337-12c5-3350-9bdd-5d3d-cc9c-e5f5] CreationTime[Friday, March 28, 2014 18:38:56] Type[ConsDefUpgrade] Creator[iCDB Server (2014-03-28 19.39.58-2196)] ApplicationName[iCDB Server (2014-03-28 19.38.56-2876)] UserName[ROSE] MachineName[BI-WIN7] Description[Before constraint definitions upgrade using flow install:\n    Expedition Enterprise Flow\n    Flow Id: EE7.9.5; EE 7.9.5\n    GBS Install Id: 30163; 30120\n    iCDB GBS Build Id: 535943\n    iCDB Version: 2709] FullFlowName[Expedition Enterprise Flow] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 30120] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 19.38.56 - consDefUpgr.zip] BackupFileSize[255209] Persistent[FALSE]
+[2014.03.28 20:56:36] [0001m.47s.250ms] [0] PrjBackupMgr: Project Backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 19.38.56 - consDefUpgr.zip] with GUID [9ada-e7de-2d01-bf8d-212c-5337-12c5-3350-9bdd-5d3d-cc9c-e5f5] removed
+[2014.03.28 20:56:36] [0001m.47s.265ms] [1] PrjBackupMgr: Migrated iCDB content backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\default.icdb\cdbback\2014-03-28 20.54.36-836.zip] removed
+[2014.03.28 20:56:36] [0001m.47s.265ms] [0] PrjBackupMgr: Successfully migrated iCDB upgrade backup file [2014-03-28 20.54.36-836] to Project Backup format [2014-03-28 20.54.36 - consDefUpgr.zip]
+[2014.03.28 20:56:36] [0001m.47s.296ms] [1] SC[1206]: Registered sub-client [Expedition PCB_7706671] with ID [1] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:56:36] [0001m.47s.437ms] [1] SC[1206]: Registered sub-client [EEVM] with ID [2] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:56:36] [0001m.47s.609ms] [1] SC[1206]: UnRegistered sub-client [EEVM] with ID [2] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:56:40] [0001m.51s.531ms] [1] SC[1206]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:56:43] [0001m.54s.578ms] [1] SC[1206]: Registered sub-client [JobPrefsDBPI_7715000] with ID [4] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:56:43] [0001m.54s.593ms] [1] SC[1206]: UnRegistered sub-client [JobPrefsDBPI_7715000] with ID [4] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:09] [0004m.20s.312ms] [1] SC[1206]: Registered sub-client [JobPrefsDBPI_7860703] with ID [5] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:09] [0004m.20s.578ms] [1] SC[1206]: UnRegistered sub-client [JobPrefsDBPI_7860703] with ID [5] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:10] [0004m.21s.843ms] [1] SC[1206]: Registered sub-client [JobPrefsDBPI_7862250] with ID [6] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:11] [0004m.21s.921ms] [1] SC[1206]: UnRegistered sub-client [JobPrefsDBPI_7862250] with ID [6] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:11] [0004m.22s.203ms] [1] SC[1206]: Registered sub-client [JobPrefsDBPI_7862484] with ID [7] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:11] [0004m.22s.234ms] [1] SC[1206]: UnRegistered sub-client [JobPrefsDBPI_7862484] with ID [7] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:12] [0004m.23s.687ms] [1] SC[1206]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:12] [0004m.23s.796ms] [1] SC[1206]: UnRegistered sub-client [Expedition PCB_7706671] with ID [1] for session ID [1206] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:13] [0004m.24s.281ms] [1] CMT: Removed client [1206]
+[2014.03.28 20:59:13] [0004m.24s.281ms] [1] CMT: There are [1] clients now: 1205
+[2014.03.28 20:59:14] [0004m.25s.203ms] [0] IT: Session [1207] for host [lutin2] user [Alexis] with process ID [1060] created
+[2014.03.28 20:59:14] [0004m.25s.218ms] [1] SC[1207]: Registered sub-client [Expedition PCB_7865484] with ID [1] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:14] [0004m.25s.265ms] [1] CMT: There are [2] clients now: 1205, 1207
+[2014.03.28 20:59:15] [0004m.26s.812ms] [1] SC[1207]: Registered sub-client [JobPrefsDBPI_7867218] with ID [2] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:15] [0004m.26s.828ms] [1] SC[1207]: UnRegistered sub-client [JobPrefsDBPI_7867218] with ID [2] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:17] [0004m.28s.734ms] [1] SC[1207]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:20] [0004m.30s.968ms] [1] SC[1207]: Registered sub-client [JobPrefsDBPI_7871375] with ID [4] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:20] [0004m.31s.000ms] [1] SC[1207]: UnRegistered sub-client [JobPrefsDBPI_7871375] with ID [4] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 20:59:41] [0004m.52s.000ms] [0] IT: Session [1208] for host [lutin2] user [Alexis] with process ID [3168] created
+[2014.03.28 20:59:41] [0004m.52s.000ms] [1] SC[1208]: Registered sub-client [Alexis (BE CES)] with ID [1] for session ID [1208] host [lutin2] user [Alexis] process ID [3168]
+[2014.03.28 20:59:41] [0004m.52s.062ms] [1] CMT: There are [3] clients now: 1205, 1207, 1208
+[2014.03.28 21:09:01] [0014m.12s.000ms] [1] SC[1208]: UnRegistered sub-client [Alexis (BE CES)] with ID [1] for session ID [1208] host [lutin2] user [Alexis] process ID [3168]
+[2014.03.28 21:09:01] [0014m.12s.078ms] [1] CMT: Removed client [1208]
+[2014.03.28 21:09:01] [0014m.12s.078ms] [1] CMT: There are [2] clients now: 1205, 1207
+[2014.03.28 21:09:01] [0014m.12s.296ms] [1] SC[1207]: Registered sub-client [JobPrefsDBPI_8452687] with ID [5] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:09:01] [0014m.12s.328ms] [1] SC[1207]: UnRegistered sub-client [JobPrefsDBPI_8452687] with ID [5] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:09:03] [0014m.14s.328ms] [1] SC[1207]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:09:03] [0014m.14s.750ms] [1] SC[1207]: UnRegistered sub-client [Expedition PCB_7865484] with ID [1] for session ID [1207] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:09:03] [0014m.14s.828ms] [1] CMT: Removed client [1207]
+[2014.03.28 21:09:03] [0014m.14s.828ms] [1] CMT: There are [1] clients now: 1205
+[2014.03.28 21:09:05] [0014m.16s.093ms] [0] IT: Session [1209] for host [lutin2] user [Alexis] with process ID [1060] created
+[2014.03.28 21:09:05] [0014m.16s.109ms] [1] SC[1209]: Registered sub-client [Expedition PCB_8456375] with ID [1] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:09:05] [0014m.16s.140ms] [1] CMT: There are [2] clients now: 1205, 1209
+[2014.03.28 21:09:07] [0014m.18s.390ms] [1] SC[1209]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:05] [0015m.16s.265ms] [1] SC[1209]: Registered sub-client [JobPrefsDBPI_8516671] with ID [3] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:05] [0015m.16s.296ms] [1] SC[1209]: UnRegistered sub-client [JobPrefsDBPI_8516671] with ID [3] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:06] [0015m.17s.359ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_1632336] with ID [4] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:06] [0015m.17s.359ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_1632336] with ID [4] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:07] [0015m.18s.843ms] [0] IT: Session [1210] for host [lutin2] user [Alexis] with process ID [1912] created
+[2014.03.28 21:10:07] [0015m.18s.843ms] [1] SC[1210]: Registered sub-client [Expedition_8519093] with ID [1] for session ID [1210] host [lutin2] user [Alexis] process ID [1912]
+[2014.03.28 21:10:08] [0015m.18s.921ms] [1] CMT: There are [3] clients now: 1205, 1209, 1210
+[2014.03.28 21:10:08] [0015m.19s.328ms] [1] SC[1210]: UnRegistered sub-client [Expedition_8519093] with ID [1] for session ID [1210] host [lutin2] user [Alexis] process ID [1912]
+[2014.03.28 21:10:08] [0015m.19s.359ms] [1] CMT: Removed client [1210]
+[2014.03.28 21:10:08] [0015m.19s.359ms] [1] CMT: There are [2] clients now: 1205, 1209
+[2014.03.28 21:10:16] [0015m.26s.968ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_1634672] with ID [5] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:16] [0015m.26s.968ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_1634672] with ID [5] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:17] [0015m.27s.875ms] [0] IT: Session [1211] for host [lutin2] user [Alexis] with process ID [896] created
+[2014.03.28 21:10:17] [0015m.27s.890ms] [1] CMT: There are [3] clients now: 1205, 1209, 1211
+[2014.03.28 21:10:17] [0015m.27s.890ms] [1] SC[1211]: Registered sub-client [Expedition_8528156] with ID [1] for session ID [1211] host [lutin2] user [Alexis] process ID [896]
+[2014.03.28 21:10:17] [0015m.28s.312ms] [1] SC[1211]: UnRegistered sub-client [Expedition_8528156] with ID [1] for session ID [1211] host [lutin2] user [Alexis] process ID [896]
+[2014.03.28 21:10:17] [0015m.28s.328ms] [1] CMT: Removed client [1211]
+[2014.03.28 21:10:17] [0015m.28s.328ms] [1] CMT: There are [2] clients now: 1205, 1209
+[2014.03.28 21:10:18] [0015m.29s.718ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_327191148] with ID [6] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:18] [0015m.29s.796ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_327191148] with ID [6] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:18] [0015m.29s.828ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_327191148] with ID [7] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:18] [0015m.29s.828ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_327191148] with ID [7] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:19] [0015m.29s.859ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_327191148] with ID [8] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:19] [0015m.29s.875ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_327191148] with ID [8] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:20] [0015m.31s.734ms] [1] SC[1209]: Registered sub-client [JobPrefsDBPI_8532156] with ID [9] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:20] [0015m.31s.812ms] [1] SC[1209]: UnRegistered sub-client [JobPrefsDBPI_8532156] with ID [9] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:21] [0015m.31s.921ms] [1] SC[1209]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:21] [0015m.32s.015ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_1633988] with ID [10] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:21] [0015m.32s.015ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_1633988] with ID [10] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:21] [0015m.32s.359ms] [1] SC[1209]: Registered sub-client [JobPrefsDBPI_8532765] with ID [11] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:21] [0015m.32s.421ms] [1] SC[1209]: UnRegistered sub-client [JobPrefsDBPI_8532765] with ID [11] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:21] [0015m.32s.703ms] [1] SC[1209]: Registered sub-client [JobPrefsDBPI_8533093] with ID [12] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:21] [0015m.32s.765ms] [1] SC[1209]: UnRegistered sub-client [JobPrefsDBPI_8533093] with ID [12] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:23] [0015m.34s.515ms] [0] IT: Session [1212] for host [lutin2] user [Alexis] with process ID [612] created
+[2014.03.28 21:10:23] [0015m.34s.515ms] [1] SC[1212]: Registered sub-client [Packager_8534781] with ID [1] for session ID [1212] host [lutin2] user [Alexis] process ID [612]
+[2014.03.28 21:10:23] [0015m.34s.578ms] [1] CMT: There are [3] clients now: 1205, 1209, 1212
+[2014.03.28 21:10:25] [0015m.36s.031ms] [1] SC[1212]: UnRegistered sub-client [Packager_8534781] with ID [1] for session ID [1212] host [lutin2] user [Alexis] process ID [612]
+[2014.03.28 21:10:25] [0015m.36s.109ms] [1] CMT: Removed client [1212]
+[2014.03.28 21:10:25] [0015m.36s.109ms] [1] CMT: There are [2] clients now: 1205, 1209
+[2014.03.28 21:10:26] [0015m.37s.281ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2014.03.28 21:10:28] [0015m.39s.390ms] [0] IT: Session [1213] for host [lutin2] user [Alexis] with process ID [1092] created
+[2014.03.28 21:10:28] [0015m.39s.406ms] [1] SC[1213]: Registered sub-client [Expedition_8539640] with ID [1] for session ID [1213] host [lutin2] user [Alexis] process ID [1092]
+[2014.03.28 21:10:28] [0015m.39s.500ms] [1] CMT: There are [3] clients now: 1205, 1209, 1213
+[2014.03.28 21:10:28] [0015m.39s.593ms] [1] SC[1213]: UnRegistered sub-client [Expedition_8539640] with ID [1] for session ID [1213] host [lutin2] user [Alexis] process ID [1092]
+[2014.03.28 21:10:28] [0015m.39s.718ms] [1] CMT: Removed client [1213]
+[2014.03.28 21:10:28] [0015m.39s.718ms] [1] CMT: There are [2] clients now: 1205, 1209
+[2014.03.28 21:10:30] [0015m.41s.671ms] [0] IT: Session [1214] for host [lutin2] user [Alexis] with process ID [1092] created
+[2014.03.28 21:10:30] [0015m.41s.687ms] [1] CMT: There are [3] clients now: 1205, 1209, 1214
+[2014.03.28 21:10:30] [0015m.41s.687ms] [1] SC[1214]: Registered sub-client [JobPrefsDBPI_8541953] with ID [1] for session ID [1214] host [lutin2] user [Alexis] process ID [1092]
+[2014.03.28 21:10:30] [0015m.41s.828ms] [1] SC[1214]: UnRegistered sub-client [JobPrefsDBPI_8541953] with ID [1] for session ID [1214] host [lutin2] user [Alexis] process ID [1092]
+[2014.03.28 21:10:31] [0015m.41s.906ms] [1] CMT: Removed client [1214]
+[2014.03.28 21:10:31] [0015m.41s.906ms] [1] CMT: There are [2] clients now: 1205, 1209
+[2014.03.28 21:10:31] [0015m.42s.625ms] [0] IT: Session [1215] for host [lutin2] user [Alexis] with process ID [1092] created
+[2014.03.28 21:10:31] [0015m.42s.640ms] [1] SC[1215]: Registered sub-client [JobPrefsDBPI_8542953] with ID [1] for session ID [1215] host [lutin2] user [Alexis] process ID [1092]
+[2014.03.28 21:10:31] [0015m.42s.671ms] [1] CMT: There are [3] clients now: 1205, 1209, 1215
+[2014.03.28 21:10:32] [0015m.43s.484ms] [1] SC[1215]: UnRegistered sub-client [JobPrefsDBPI_8542953] with ID [1] for session ID [1215] host [lutin2] user [Alexis] process ID [1092]
+[2014.03.28 21:10:32] [0015m.43s.546ms] [1] CMT: Removed client [1215]
+[2014.03.28 21:10:32] [0015m.43s.546ms] [1] CMT: There are [2] clients now: 1205, 1209
+[2014.03.28 21:10:35] [0015m.45s.937ms] [0] IT: Session [1216] for host [lutin2] user [Alexis] with process ID [3976] created
+[2014.03.28 21:10:35] [0015m.45s.937ms] [1] SC[1216]: Registered sub-client [JobPrefsDBPI_8546156] with ID [1] for session ID [1216] host [lutin2] user [Alexis] process ID [3976]
+[2014.03.28 21:10:35] [0015m.45s.968ms] [1] CMT: There are [3] clients now: 1205, 1209, 1216
+[2014.03.28 21:10:35] [0015m.46s.218ms] [1] SC[1216]: Registered sub-client [Expedition_8546609] with ID [2] for session ID [1216] host [lutin2] user [Alexis] process ID [3976]
+[2014.03.28 21:10:35] [0015m.46s.359ms] [1] SC[1216]: UnRegistered sub-client [JobPrefsDBPI_8546156] with ID [1] for session ID [1216] host [lutin2] user [Alexis] process ID [3976]
+[2014.03.28 21:10:35] [0015m.46s.609ms] [1] SC[1216]: UnRegistered sub-client [Expedition_8546609] with ID [2] for session ID [1216] host [lutin2] user [Alexis] process ID [3976]
+[2014.03.28 21:10:35] [0015m.46s.734ms] [1] CMT: Removed client [1216]
+[2014.03.28 21:10:35] [0015m.46s.734ms] [1] CMT: There are [2] clients now: 1205, 1209
+[2014.03.28 21:10:36] [0015m.47s.546ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_327190620] with ID [13] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:36] [0015m.47s.578ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_327190620] with ID [13] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:36] [0015m.47s.703ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_327190620] with ID [14] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:36] [0015m.47s.718ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_327190620] with ID [14] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:36] [0015m.47s.734ms] [1] SC[1209]: Registered sub-client [EEVM_EEVM_327190620] with ID [15] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:36] [0015m.47s.765ms] [1] SC[1209]: UnRegistered sub-client [EEVM_EEVM_327190620] with ID [15] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:37] [0015m.48s.500ms] [1] SC[1209]: UnRegistered sub-client [Expedition PCB_8456375] with ID [1] for session ID [1209] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:37] [0015m.48s.531ms] [1] CMT: Removed client [1209]
+[2014.03.28 21:10:37] [0015m.48s.531ms] [1] CMT: There are [1] clients now: 1205
+[2014.03.28 21:10:38] [0015m.49s.437ms] [0] IT: Session [1217] for host [lutin2] user [Alexis] with process ID [1060] created
+[2014.03.28 21:10:38] [0015m.49s.437ms] [1] SC[1217]: Registered sub-client [Expedition PCB_8549718] with ID [1] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:38] [0015m.49s.515ms] [1] CMT: There are [2] clients now: 1205, 1217
+[2014.03.28 21:10:41] [0015m.52s.000ms] [1] SC[1217]: Registered sub-client [JobPrefsDBPI_8552406] with ID [2] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:41] [0015m.52s.015ms] [1] SC[1217]: UnRegistered sub-client [JobPrefsDBPI_8552406] with ID [2] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:41] [0015m.52s.203ms] [1] SC[1217]: Registered sub-client [JobPrefsDBPI_8552593] with ID [3] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:41] [0015m.52s.250ms] [1] SC[1217]: UnRegistered sub-client [JobPrefsDBPI_8552593] with ID [3] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:10:41] [0015m.52s.421ms] [1] SC[1217]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:12:11] [0017m.22s.171ms] [1] PrjBackupMgr: Successfully created Project Backup [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 21.12.10 - auto.zip] with GUID [8c47-cf39-5903-52a0-a97d-533f-97d5-3350-23f4-a372-e2af-69d8]
+[2014.03.28 21:12:11] [0017m.22s.171ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[2438-5f65-685b-9fa6-f3e2-5334-4e25-3350-178d-5d3d-cc9c-e5f5] CreationTime[Friday, March 28, 2014 08:09:35] Type[Autosave] Creator[iCDB Server (2014-03-28 09.06.46-2752)] ApplicationName[iCDB Server (2014-03-28 09.06.46-2752)] UserName[Gu3nol] MachineName[AOPUNI] Description[Autosave] FullFlowName[Expedition Enterprise Flow] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 30120] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 09.09.35 - auto.zip] BackupFileSize[327940] Persistent[FALSE]
+[2014.03.28 21:12:11] [0017m.22s.187ms] [0] PrjBackupMgr: Project Backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 09.09.35 - auto.zip] with GUID [2438-5f65-685b-9fa6-f3e2-5334-4e25-3350-178d-5d3d-cc9c-e5f5] removed
+[2014.03.28 21:12:11] [0017m.22s.187ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[8c47-cf39-5903-52a0-a97d-533f-97d5-3350-23f4-a372-e2af-69d8] CreationTime[Friday, March 28, 2014 20:12:10] Type[Autosave] Creator[iCDB Server (2014-03-28 20.54.49-3340)] ApplicationName[iCDB Server (2014-03-28 20.54.49-3340)] UserName[Alexis] MachineName[LUTIN2] Description[Autosave] FullFlowName[Expedition Enterprise Flow] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 30120] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 21.12.10 - auto.zip] BackupFileSize[412586] Persistent[FALSE]
+[2014.03.28 21:14:08] [0019m.19s.438ms] [1] SC[1217]: Registered sub-client [JobPrefsDBPI_8759828] with ID [5] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:14:08] [0019m.19s.469ms] [1] SC[1217]: UnRegistered sub-client [JobPrefsDBPI_8759828] with ID [5] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:14:13] [0019m.24s.282ms] [1] SC[1217]: Registered sub-client [JobPrefsDBPI_8764671] with ID [6] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:14:13] [0019m.24s.297ms] [1] SC[1217]: UnRegistered sub-client [JobPrefsDBPI_8764671] with ID [6] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:15:13] [0020m.24s.579ms] [1] SC[1217]: Registered sub-client [JobPrefsDBPI_8824968] with ID [7] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:15:13] [0020m.24s.594ms] [1] SC[1217]: UnRegistered sub-client [JobPrefsDBPI_8824968] with ID [7] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:15:26] [0020m.37s.235ms] [1] SC[1217]: Registered sub-client [JobPrefsDBPI_8837656] with ID [8] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:15:26] [0020m.37s.266ms] [1] SC[1217]: UnRegistered sub-client [JobPrefsDBPI_8837656] with ID [8] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:07] [0021m.18s.063ms] [1] SC[1217]: Registered sub-client [EEVM_EEVM_1632336] with ID [9] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:07] [0021m.18s.063ms] [1] SC[1217]: UnRegistered sub-client [EEVM_EEVM_1632336] with ID [9] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:08] [0021m.19s.079ms] [0] IT: Session [1218] for host [lutin2] user [Alexis] with process ID [2468] created
+[2014.03.28 21:16:08] [0021m.19s.094ms] [1] SC[1218]: Registered sub-client [Expedition_8879296] with ID [1] for session ID [1218] host [lutin2] user [Alexis] process ID [2468]
+[2014.03.28 21:16:08] [0021m.19s.157ms] [1] CMT: There are [3] clients now: 1205, 1217, 1218
+[2014.03.28 21:16:08] [0021m.19s.735ms] [1] SC[1218]: UnRegistered sub-client [Expedition_8879296] with ID [1] for session ID [1218] host [lutin2] user [Alexis] process ID [2468]
+[2014.03.28 21:16:09] [0021m.19s.844ms] [1] CMT: Removed client [1218]
+[2014.03.28 21:16:09] [0021m.19s.844ms] [1] CMT: There are [2] clients now: 1205, 1217
+[2014.03.28 21:16:15] [0021m.26s.719ms] [1] SC[1217]: Registered sub-client [EEVM_EEVM_1634672] with ID [10] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:15] [0021m.26s.719ms] [1] SC[1217]: UnRegistered sub-client [EEVM_EEVM_1634672] with ID [10] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:16] [0021m.27s.766ms] [0] IT: Session [1219] for host [lutin2] user [Alexis] with process ID [2944] created
+[2014.03.28 21:16:16] [0021m.27s.766ms] [1] SC[1219]: Registered sub-client [Expedition_8887984] with ID [1] for session ID [1219] host [lutin2] user [Alexis] process ID [2944]
+[2014.03.28 21:16:17] [0021m.27s.860ms] [1] CMT: There are [3] clients now: 1205, 1217, 1219
+[2014.03.28 21:16:17] [0021m.28s.188ms] [1] SC[1219]: UnRegistered sub-client [Expedition_8887984] with ID [1] for session ID [1219] host [lutin2] user [Alexis] process ID [2944]
+[2014.03.28 21:16:17] [0021m.28s.297ms] [1] CMT: Removed client [1219]
+[2014.03.28 21:16:17] [0021m.28s.297ms] [1] CMT: There are [2] clients now: 1205, 1217
+[2014.03.28 21:16:18] [0021m.29s.125ms] [1] SC[1217]: Registered sub-client [EEVM_EEVM_140758612] with ID [11] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:18] [0021m.29s.188ms] [1] SC[1217]: UnRegistered sub-client [EEVM_EEVM_140758612] with ID [11] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:18] [0021m.29s.204ms] [1] SC[1217]: Registered sub-client [EEVM_EEVM_140758612] with ID [12] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:18] [0021m.29s.219ms] [1] SC[1217]: UnRegistered sub-client [EEVM_EEVM_140758612] with ID [12] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:18] [0021m.29s.250ms] [1] SC[1217]: Registered sub-client [EEVM_EEVM_140758612] with ID [13] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:18] [0021m.29s.250ms] [1] SC[1217]: UnRegistered sub-client [EEVM_EEVM_140758612] with ID [13] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:22] [0021m.33s.625ms] [1] SC[1217]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:24] [0021m.35s.125ms] [1] SC[1217]: UnRegistered sub-client [Expedition PCB_8549718] with ID [1] for session ID [1217] host [lutin2] user [Alexis] process ID [1060]
+[2014.03.28 21:16:24] [0021m.35s.188ms] [1] CMT: Removed client [1217]
+[2014.03.28 21:16:24] [0021m.35s.188ms] [1] CMT: There are [1] clients now: 1205
+[2014.03.28 21:16:25] [0021m.35s.985ms] [1] SC[1205]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1205] host [lutin2] user [Alexis] process ID [4024]
+[2014.03.28 21:16:25] [0021m.36s.094ms] [1] CMT: Removed client [1205]
+[2014.03.28 21:16:25] [0021m.36s.094ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.03.28 21:16:27] [0021m.37s.907ms] [0] CMT: Starting server auto-close
+[2014.03.28 21:16:27] [0021m.38s.016ms] [0] S: Closing server
+[2014.03.28 21:16:27] [0021m.38s.297ms] [0] iCDB Server PI: Closing plugins
+[2014.03.28 21:16:27] [0021m.38s.563ms] [0] iCDB Server PI: Plugins closed
+[2014.03.28 21:16:27] [0021m.38s.625ms] [0] iCDB Server PI: Unloading database
+[2014.03.28 21:16:27] [0021m.38s.641ms] [0] iCDB Server PI: Saving storage
+[2014.03.28 21:16:27] [0021m.38s.641ms] [0] iCDB Server PI: Closing database
+[2014.03.28 21:16:27] [0021m.38s.688ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[25%] data[83%]
+[2014.03.28 21:16:27] [0021m.38s.704ms] [1] iCDB Server PI: Stats: Database file size [226784 (221.5 kB)]
+[2014.03.28 21:16:27] [0021m.38s.766ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2014.03.28 21:16:27] [0021m.38s.829ms] [0] iCDB Server PI: Database closed
+[2014.03.28 21:16:27] [0021m.38s.829ms] [0] iCDB Server PI: Defragmenting database
+[2014.03.28 21:16:28] [0021m.38s.844ms] [0] iCDB Server PI: Creating database [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb] backup to file [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbback\2014-03-28 21.16.28-3340-d.zip]
+[2014.03.28 21:16:28] [0021m.39s.641ms] [0] iCDB Server PI: Database backup: DONE
+[2014.03.28 21:16:28] [0021m.39s.797ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.28 21:16:28] [0021m.39s.797ms] [0] Database GUARD OK: [226784]
+[2014.03.28 21:16:28] [0021m.39s.797ms] [0] SingleFile: [737a-aa89-e1b9-7b0d] SFI version check [1009] [1009]
+[2014.03.28 21:16:29] [0021m.40s.047ms] [0] SingleFile: [737a-aa89-e1b9-7b0d] Database SFI header has been read in [264ms 185us]
+[2014.03.28 21:16:30] [0021m.41s.000ms] [1] iCDB Server PI: Stats: Database file sizes: before[226784 (221.5 kB)], after[113072 (110.4 kB)], gain[113712 (111.0 kB)]
+[2014.03.28 21:16:30] [0021m.41s.047ms] [0] Single file [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb\icdb.dat] closed with size [113072 (110.4 kB)]
+[2014.03.28 21:16:30] [0021m.41s.047ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2014.03.28 21:16:30] [0021m.41s.063ms] [1] BackupTransaction: Removing database backup [U:\2014\Plume\PCB\Recepteur\Recepteur\Default\default.icdb\cdbback\2014-03-28 21.16.28-3340-d.zip]
+[2014.03.28 21:16:30] [0021m.41s.063ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1277264] ticks
+[2014.03.28 21:16:30] [0021m.41s.063ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [519425] microseconds
+[2014.03.28 21:16:30] [0021m.41s.063ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [1009]
+[2014.03.28 21:16:30] [0021m.41s.063ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1942] commands per second
+[2014.03.28 21:16:30] [0021m.41s.266ms] [0] S: STOP

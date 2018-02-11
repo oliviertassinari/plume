@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?><workspace>
+  <project>
+    <path>$WS_DIR$\STM32F427_cube.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>

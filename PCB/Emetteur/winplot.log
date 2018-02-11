@@ -1,0 +1,17 @@
+--------------------
+command line:
+WINPLOT.EXE "/PROJECT=E:\ROSE\plume\PCB\Plume_Emetteur\Plume_Emetteur\Plume_Emetteur.prj" "E:\ROSE\plume\PCB\Plume_Emetteur\Plume_Emetteur\design_definition\graphics\Schematic1.sbk"
+--------------------
+
+	W I N P L O T - generate plots from schematics. Version 16.2.0.0
+		(c) Copyright Mentor Graphics Corporation 2012.
+	All Rights Reserved.
+
+	..reading project file
+	..reading system parameter file
+	..reading symbology
+	..reading font file
+	..reading plotter control file
+
+	..scaling circuit(s) to fit paper.
+Plot utility program completed

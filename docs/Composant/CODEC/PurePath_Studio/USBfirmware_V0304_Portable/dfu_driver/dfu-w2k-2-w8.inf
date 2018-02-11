@@ -1,0 +1,123 @@
+;/*++
+; Installation INF for TI DFU device. Supports x86 based Win 2000, Win XP, and Vista Class Windows.
+;
+; (c) Copyright 2001-2012 Texas Instruments
+;
+;Module Name:
+;
+;    dfu-w2k-2-w8.inf
+;
+;Abstract:
+;
+;    INF file for installing TI's DFU device drivers.
+;
+;   This INF file is a multiOS inf that can be used on x86 and amd64 platforms.
+;
+;--*/
+[Version]
+Signature="$WINDOWS NT$"
+Class=USB
+ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+provider=%TI%
+CatalogFile.NTx86   = dfuusb86.cat
+CatalogFile.NTAMD64 = dfuusb64.cat
+DriverVer=08/31/2012,1.0.0.0
+
+[ControlFlags]
+ExcludeFromSelect = *
+
+[Manufacturer]
+%MfgName%=TI,NTAMD64.6.0,NT.6.0,NTAMD64.5.1,NT.5.1
+
+[TI.NTAMD64.6.0] ; Vista or later, x64
+"DFUUSB" 			= DFUUSBWLH, USB\VID_FFFF&PID_FFFE
+"DFUUSB" 			= DFUUSBWLH, USB\VID_0451&PID_1021
+
+[TI.NT.6.0] ; Vista or later, x86
+"DFUUSB" 			= DFUUSBWLH, USB\VID_FFFF&PID_FFFE
+"DFUUSB" 			= DFUUSBWLH, USB\VID_0451&PID_1021
+
+[TI.NTAMD64.5.1] ; Windows XP, x64
+"DFUUSB" 			= DFUUSBWXP, USB\VID_FFFF&PID_FFFE
+"DFUUSB" 			= DFUUSBWXP, USB\VID_0451&PID_1021
+
+[TI.NT.5.1] ; Windows XP, x86
+"DFUUSB" 			= DFUUSBWXP, USB\VID_FFFF&PID_FFFE
+"DFUUSB" 			= DFUUSBWXP, USB\VID_0451&PID_1021
+
+[TI] ; Windows 2000
+"DFUUSB" 			= DFUUSBW2K, USB\VID_FFFF&PID_FFFE
+"DFUUSB" 			= DFUUSBW2K, USB\VID_0451&PID_1021
+
+[DFUUSBWLH.NT]
+CopyFiles=DFUUSBWLH.Files.Ext
+AddReg=DFUUSB.AddReg
+
+[DFUUSBWLH.NT.Services]
+Addservice = DFUUSB,2,DFUUSB.AddService
+
+
+[DFUUSBWXP.NT]
+CopyFiles=DFUUSBWXP.Files.Ext
+AddReg=DFUUSB.AddReg
+
+[DFUUSBWXP.NT.Services]
+Addservice = DFUUSB,2,DFUUSB.AddService
+
+
+[DFUUSBW2K.ntx86]
+CopyFiles=DFUUSBW2k.Files.Ext
+AddReg=DFUUSB.AddReg
+
+[DFUUSBW2K.ntx86.Services]
+Addservice = DFUUSB,2,DFUUSB.AddService
+
+
+[DFUUSB.AddReg]
+; Deprecating - do not use in new apps to identify a DFUUSB driver
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,DFUUSB.sys
+
+[DFUUSB.AddService]
+DisplayName    = %DFUUSB_Description%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\DFUUSB.sys
+AddReg         = DFUUSB.AddReg
+LoadOrderGroup = Base
+
+[DFUUSBW2k.Files.Ext]
+DFUUSB.sys,DFUUSBw2k.sys
+
+[DFUUSBWXP.Files.Ext]
+DFUUSB.sys,DFUUSBwxp.sys
+
+[DFUUSBWLH.Files.Ext]
+DFUUSB.sys,DFUUSBwlh.sys
+
+
+[SourceDisksNames]
+1=%DFUUSB_Install%,,,
+
+[SourceDisksFiles.x86]
+DFUUSBw2k.sys = 1,\x86
+DFUUSBwxp.sys = 1,\x86
+DFUUSBwlh.sys = 1,\x86
+
+[SourceDisksFiles.amd64]
+DFUUSBw2k.sys = 1,\amd64
+DFUUSBwxp.sys = 1,\amd64
+DFUUSBwlh.sys = 1,\amd64
+
+[DestinationDirs]
+DFUUSBW2K.Files.Ext = 10,System32\Drivers
+DFUUSBWXP.Files.Ext = 10,System32\Drivers
+DFUUSBWLH.Files.Ext = 10,System32\Drivers
+
+
+[Strings]
+TI="TI"
+MfgName="Texas Instruments, Inc."
+DFUUSB_Description="TI DFU USB Drivers"
+DFUUSB_Install="TI DFU USB Drivers Installation Disk"

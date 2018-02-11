@@ -1,0 +1,31 @@
+[2013.01.06 17:20:38] [0000m.15s.574ms] [0] WELCOME
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] iCDB Database ver.1.094, xrkHMDMV+MGcQyomTkO/8A, build:525925 created 2012-10-30 14:46:11, sources stamp:xrkHMDMV+MGcQyomTkO/8A
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] Base flow version [7.9.4]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] GBS Install Id [26419], Flow Id [EE 7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] UPDATE Install Info, GBS Install Id [27817], UPDATE Name [Expedition Enterprise Flow - Update 4 for EE7.9.4]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] Machine [MURUROA]  User [Gu3nol]  PID [2672]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] Current working dir [E:\Electronique\DepotGIT\Kubz\Kubz]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] PATH [C:\MentorGraphics\7.9.4EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\wg\win32\lib;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] SDD_HOME [C:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] SDD_PLATFORM [win32]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] WDIR [C:\MentorGraphics;C:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [1] Local iCDB working dir [C:\MentorGraphics\iCDB] on file system [NTFS]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] WARNING: Database [E:\Electronique\DepotGIT\Kubz\Kubz\Default\default.icdb\icdb.dat] was manually copied
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] File change time:        [2013-01-06 17.19.44]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] File modification time:  [2013-01-06 16.59.46]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Last change time:        [2013-01-06 16.59.46]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Last database open information:
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Time:             [2013-01-06 16.13.12]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Location:         [E:\ELECTRONIQUE\TELEPACT\KUBZ\KUBZ\Default\default.icdb\icdb.dat]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Machine:          [DAUDAU-PC]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] User:             [Daudau]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] PID:              [1168]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Application:      [iCDB Server]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] WARNING: Regenerating database GUID
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Previous database GUID [cc8e-a070-fc9b-6d9d-7849-9e0c-8499-e050-b3ec-ad2c-fb5d-b8fa]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [3] Current database GUID  [4e3f-bd3d-971e-490d-654a-9e0b-54a9-e050-960e-7d3d-0dfc-fbf5]
+[2013.01.06 17:20:38] [0000m.15s.586ms] [0] .

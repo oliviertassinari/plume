@@ -1,0 +1,20 @@
+liens dont on pourrait avoir besoin:
+
+Pour déterminer la rotation de la bobine
+http://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem
+
+Methode de nexton matriciel
+http://ftp.eq.uc.pt/books/NumericalRecipes/f9-6.pdf
+http://fourier.eng.hmc.edu/e161/lectures/ica/node13.html
+
+Razer Hydra hack
+http://janoc.rd-h.com/archives/212
+http://www.mtbs3d.com/phpBB/viewtopic.php?f=120&t=14036
+
+6DOF Summer project
+http://www.na-mic.org/Wiki/index.php/6DOF_Electromagnetic_Tracker_Construction_HOWTO
+http://home.comcast.net/~traneus/dry_emtrackertricoil.htm
+http://www.na-mic.org/Wiki/index.php/2012_Summer_Project_Week%3AOpen_source_electromagnetic_trackers_using_OpenIGTLink
+
+Pour acheter des bobines, voir bobine de transformateur
+http://www.coilcraft.com/maine_scientific/transfrm.html

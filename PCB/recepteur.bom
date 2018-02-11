@@ -1,0 +1,585 @@
+# Bill of Materials - Other Components
+# date: Wed Apr 02 16:23:04 2014
+
+
+
+  ITEM_NUMBER   COMPANY PART NO   GEOMETRY                    DESCRIPTION                             REFERENCE NAME   COMMENT   
+
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C1               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C2               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C3               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C4               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C5               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C6               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C7               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C8               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C9               ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C10              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C11              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C12              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C13              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C14              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C15              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  15            10-0060           C0402                       C0402, Fa : 1362485,                    C16              ---       
+                                                              Capacitor Ceramic X5R / 1uF / 6.3V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 1uF X5R 6.3V, CAPCERAM0402,                              
+                                                              1uF                                                                
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C17              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  13            10-0058           C0402                       Fa : 1362420,                           C18              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C19              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C20              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C21              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C22              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  15            10-0060           C0402                       C0402, Fa : 1362485,                    C23              ---       
+                                                              Capacitor Ceramic X5R / 1uF / 6.3V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 1uF X5R 6.3V, CAPCERAM0402,                              
+                                                              1uF                                                                
+  13            10-0058           C0402                       Fa : 1362420,                           C24              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  9             10-0007           C0603                       RS : 264-4573,                          C25              ---       
+                                                              Capacitor Ceramic X7R / 2.2nF / 50V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 2.2nF X7R 50V, CAPCERAM0603,                             
+                                                              2.2nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C27              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C29              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C32              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C34              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C35              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  12            10-0058           C0402                       C0402, Fa : 1362420,                    C37              ---       
+                                                              Capacitor Ceramic X7R / 100nF / 16V /                              
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 100nF X7R 16V, CAPCERAM0402,                             
+                                                              100nF                                                              
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C38              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  16            10-0061           C0805                       C0805, Fa : 1362429,                    C39              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 10V /                               
+                                                              ±10% / case 0805,                                                  
+                                                              CAP C0805 10uF X5R 10V, CAPCERAM0805,                              
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C40              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C41              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C42              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C43              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C44              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C47              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C48              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C49              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C52              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C53              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C54              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  19            10-0065           C0402                       C0402, Fa : 1327634,                    C55              ---       
+                                                              Capacitor Ceramic 22pF / NPO / 50V /                               
+                                                              ±5% / case 0402,                                                   
+                                                              CAP C0402 22pF NPO 50V, CAPCERAM0402,                              
+                                                              22pF                                                               
+  19            10-0065           C0402                       C0402, Fa : 1327634,                    C56              ---       
+                                                              Capacitor Ceramic 22pF / NPO / 50V /                               
+                                                              ±5% / case 0402,                                                   
+                                                              CAP C0402 22pF NPO 50V, CAPCERAM0402,                              
+                                                              22pF                                                               
+  11            10-0036           C0805                       C0805, Fa : 4716656,                    C57              ---       
+                                                              Capacitor Ceramic Y5V / 2.2uF / 25V /                              
+                                                              +80% -20% / case 0805 / Murata                                     
+                                                              GRM21BF51E225ZA01L,                                                
+                                                              CAP C0805 2.2uF Y5V 25V, CAPCERAM0805,                             
+                                                              2.2uF                                                              
+  11            10-0036           C0805                       C0805, Fa : 4716656,                    C58              ---       
+                                                              Capacitor Ceramic Y5V / 2.2uF / 25V /                              
+                                                              +80% -20% / case 0805 / Murata                                     
+                                                              GRM21BF51E225ZA01L,                                                
+                                                              CAP C0805 2.2uF Y5V 25V, CAPCERAM0805,                             
+                                                              2.2uF                                                              
+  8             10-0007           C0603                       C0603, RS : 264-4573,                   C59              ---       
+                                                              Capacitor Ceramic X7R / 2.2nF / 50V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 2.2nF X7R 50V, CAPCERAM0603,                             
+                                                              2.2nF                                                              
+  18            10-0064           C0402                       C0402, Fa : 1414595,                    C60              ---       
+                                                              Capacitor Ceramic 47nF / X7R / 25V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 47nF X7R 25V, CAPCERAM0402,                              
+                                                              47nF                                                               
+  20            10-0089           C0402                       C0402, Fa : 2070375,                    C61              ---       
+                                                              Capacitor Ceramic 12pF / C0G / 25V /                               
+                                                              ±5% / case 0402,                                                   
+                                                              CAP C0402 12pF C0G 25V, CAPCERAM0402,                              
+                                                              12pF                                                               
+  20            10-0089           C0402                       C0402, Fa : 2070375,                    C62              ---       
+                                                              Capacitor Ceramic 12pF / C0G / 25V /                               
+                                                              ±5% / case 0402,                                                   
+                                                              CAP C0402 12pF C0G 25V, CAPCERAM0402,                              
+                                                              12pF                                                               
+  20            10-0089           C0402                       C0402, Fa : 2070375,                    C63              ---       
+                                                              Capacitor Ceramic 12pF / C0G / 25V /                               
+                                                              ±5% / case 0402,                                                   
+                                                              CAP C0402 12pF C0G 25V, CAPCERAM0402,                              
+                                                              12pF                                                               
+  20            10-0089           C0402                       C0402, Fa : 2070375,                    C64              ---       
+                                                              Capacitor Ceramic 12pF / C0G / 25V /                               
+                                                              ±5% / case 0402,                                                   
+                                                              CAP C0402 12pF C0G 25V, CAPCERAM0402,                              
+                                                              12pF                                                               
+  17            10-0062           C0402                       C0402, Fa : 4766027,                    C65              ---       
+                                                              Capacitor Ceramic X7R / 1nF / 50V /                                
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 1nF X7R 50V, CAPCERAM0402,                               
+                                                              1nF                                                                
+  15            10-0060           C0402                       C0402, Fa : 1362485,                    C66              ---       
+                                                              Capacitor Ceramic X5R / 1uF / 6.3V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 1uF X5R 6.3V, CAPCERAM0402,                              
+                                                              1uF                                                                
+  15            10-0060           C0402                       C0402, Fa : 1362485,                    C68              ---       
+                                                              Capacitor Ceramic X5R / 1uF / 6.3V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 1uF X5R 6.3V, CAPCERAM0402,                              
+                                                              1uF                                                                
+  21            10-0103           C0603                       C0603, Fa : 1759393 ,                   C70              ---       
+                                                              Capacitor Ceramic X5R / 10uF / 6.3V /                              
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10uF X5R 6.3V, CAPCERAM0603,                             
+                                                              10uF                                                               
+  15            10-0060           C0402                       C0402, Fa : 1362485,                    C72              ---       
+                                                              Capacitor Ceramic X5R / 1uF / 6.3V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 1uF X5R 6.3V, CAPCERAM0402,                              
+                                                              1uF                                                                
+  15            10-0060           C0402                       C0402, Fa : 1362485,                    C73              ---       
+                                                              Capacitor Ceramic X5R / 1uF / 6.3V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 1uF X5R 6.3V, CAPCERAM0402,                              
+                                                              1uF                                                                
+  14            10-0059           C0402                       C0402, Fa : 1362419,                    C74              ---       
+                                                              Capacitor Ceramic X7R / 10nF / 16V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 10nF X7R 16V, CAPCERAM0402,                              
+                                                              10nF                                                               
+  15            10-0060           C0402                       C0402, Fa : 1362485,                    C75              ---       
+                                                              Capacitor Ceramic X5R / 1uF / 6.3V /                               
+                                                              ±10% / case 0402,                                                  
+                                                              CAP C0402 1uF X5R 6.3V, CAPCERAM0402,                              
+                                                              1uF                                                                
+  10            10-0011           C0603                       C0603, RS : 264-4595,                   C76              ---       
+                                                              Capacitor Ceramic X7R / 10nF / 50V /                               
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10nF X7R 50V, CAPCERAM0603,                              
+                                                              10nF                                                               
+  10            10-0011           C0603                       C0603, RS : 264-4595,                   C77              ---       
+                                                              Capacitor Ceramic X7R / 10nF / 50V /                               
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10nF X7R 50V, CAPCERAM0603,                              
+                                                              10nF                                                               
+  10            10-0011           C0603                       C0603, RS : 264-4595,                   C78              ---       
+                                                              Capacitor Ceramic X7R / 10nF / 50V /                               
+                                                              ±20% / case 0603,                                                  
+                                                              CAP C0603 10nF X7R 50V, CAPCERAM0603,                              
+                                                              10nF                                                               
+  22            20-0039           D0603                       D0603, Fa : 8529868,                    D1               ---       
+                                                              HL Red LED SMD case 0603,                                          
+                                                              Kingbright KP-1608SURC, 30mA, 1.9V,                                
+                                                              KP-1608SURC, LED_RED_0603                                          
+  22            20-0039           D0603                       D0603, Fa : 8529868,                    D2               ---       
+                                                              HL Red LED SMD case 0603,                                          
+                                                              Kingbright KP-1608SURC, 30mA, 1.9V,                                
+                                                              KP-1608SURC, LED_RED_0603                                          
+  23            20-0062           SOT23                       SOT23, Fa : 1081206,                    D3               ---       
+                                                              Schottky barrier double diode,                                     
+                                                              Vf=260mV, NXP BAT754S, case SOT23,                                 
+                                                              BAT754S, DIODE                                                     
+  23            20-0062           SOT23                       SOT23, Fa : 1081206,                    D4               ---       
+                                                              Schottky barrier double diode,                                     
+                                                              Vf=260mV, NXP BAT754S, case SOT23,                                 
+                                                              BAT754S, DIODE                                                     
+  23            20-0062           SOT23                       SOT23, Fa : 1081206,                    D5               ---       
+                                                              Schottky barrier double diode,                                     
+                                                              Vf=260mV, NXP BAT754S, case SOT23,                                 
+                                                              BAT754S, DIODE                                                     
+  32            70-0014           AMP7-188275-4               AMP7-188275-4, RS : 366-1721,           J1               ---       
+                                                              4pins smd on board connector                                       
+                                                              Micromatch AMP 7-188275-4,                                         
+                                                              MICROMATCH-4, MICROMATCH                                           
+  34            70-0081           FTSH-105-01-L-DV            FTSH-105-01-L-DV, Fa : 1667759,         J2               ---       
+                                                              Dual row 1.27 CMS 2x5 points                                       
+                                                              connector, Samtec FTSH-105-01-L-DV ,                               
+                                                              FTSH-105-01-L-DV, MINI_SWD_CONNECTOR                               
+  34            70-0081           FTSH-105-01-L-DV            FTSH-105-01-L-DV, Fa : 1667759,         J3               ---       
+                                                              Dual row 1.27 CMS 2x5 points                                       
+                                                              connector, Samtec FTSH-105-01-L-DV ,                               
+                                                              FTSH-105-01-L-DV, MINI_SWD_CONNECTOR                               
+  36            70-0086           B2B-PH-SM4-TB               Fa : 9492534,                           J4               ---       
+                                                              Embase mâle CMS JST 2 broches, 2mm,                                
+                                                              avec détrompeur, à sortie verticale,                               
+                                                              B2B-PH-SM4-TB, B2B-PH-SM4-TB,                                      
+                                                              JST_2PT_B2B-PH-SM4-TB                                              
+  38            80-0018           PCM12SMTR                   PCM12SMTR, Fa : 9575146,                J5               ---       
+                                                              Interrupteur à glissière CMS, SPDT,                                
+                                                              C&K PCM12SMTR, PCM12SMTR, SWITCH                                   
+  33            70-0068           TMR16                       TMR16, Pad trhough hole, PAD_TH,        J6               ---       
+                                                              PAD_TH                                                             
+  33            70-0068           TMR16                       TMR16, Pad trhough hole, PAD_TH,        J7               ---       
+                                                              PAD_TH                                                             
+  33            70-0068           TMR16                       TMR16, Pad trhough hole, PAD_TH,        J8               ---       
+                                                              PAD_TH                                                             
+  33            70-0068           TMR16                       TMR16, Pad trhough hole, PAD_TH,        J9               ---       
+                                                              PAD_TH                                                             
+  33            70-0068           TMR16                       TMR16, Pad trhough hole, PAD_TH,        J10              ---       
+                                                              PAD_TH                                                             
+  33            70-0068           TMR16                       TMR16, Pad trhough hole, PAD_TH,        J11              ---       
+                                                              PAD_TH                                                             
+  35            70-0085           PAD_1x1                     Pad for test, 1x1mm, PAD-1x1, PAD       J12              ---       
+  35            70-0085           PAD_1x1                     Pad for test, 1x1mm, PAD-1x1, PAD       J13              ---       
+  42            81-0021           NX2520                      DG : 644-1093-1-ND, Quartz 16.000 MHz,  QZ1              ---       
+                                                              +/- 15ppm, 8pF, SMD,                                               
+                                                              NX2520SA-16MHZ-STD-CSW-5, 16.000 MHz,                              
+                                                              QUARTZ                                                             
+  41            81-0002           FC135                       FC135, Fa : 1278037, Quartz 32.768Hz,   QZ2              ---       
+                                                              +/- 20ppm, 9pF,                                                    
+                                                              Epson FC-135 32.768KHZ 20PPM,9.0PF,                                
+                                                              case FC135, 32.768 kHz, QUARTZ                                     
+  43            81-0021           NX2520                      NX2520, DG : 644-1093-1-ND,             QZ3              ---       
+                                                              Quartz 16.000 MHz, +/- 15ppm, 8pF,                                 
+                                                              SMD, NX2520SA-16MHZ-STD-CSW-5,                                     
+                                                              16.000 MHz, QUARTZ                                                 
+  7             02-0264           R0402                       R0402,                                  R2               ---       
+                                                              Resistor 390 ohms / 1% / case 0402,                                
+                                                              RES_390_0402, RES_0402_E24, 390                                    
+  7             02-0264           R0402                       R0402,                                  R3               ---       
+                                                              Resistor 390 ohms / 1% / case 0402,                                
+                                                              RES_390_0402, RES_0402_E24, 390                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R4               ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R5               ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R6               ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R7               ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R8               ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R9               ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R10              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R11              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R12              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R13              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R14              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R15              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R16              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R17              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  6             02-0098           R0402                       R0402, Fa : 1117284,                    R18              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  1             00-0109           R0603                       R0603,                                  R19              ---       
+                                                              Resistor 30k ohms / 5% / case 0603,                                
+                                                              RES_30k_0603, RES_0603_E24, 30K                                    
+  3             01-0357           R0603                       R0603,                                  R20              ---       
+                                                              Resistor 5.11k ohms / 1% / case 0603,                              
+                                                              RES_5.11k_0603, RES_0603_E96, 5.11K                                
+  3             01-0357           R0603                       R0603,                                  R21              ---       
+                                                              Resistor 5.11k ohms / 1% / case 0603,                              
+                                                              RES_5.11k_0603, RES_0603_E96, 5.11K                                
+  3             01-0357           R0603                       R0603,                                  R22              ---       
+                                                              Resistor 5.11k ohms / 1% / case 0603,                              
+                                                              RES_5.11k_0603, RES_0603_E96, 5.11K                                
+  3             01-0357           R0603                       R0603,                                  R23              ---       
+                                                              Resistor 5.11k ohms / 1% / case 0603,                              
+                                                              RES_5.11k_0603, RES_0603_E96, 5.11K                                
+  3             01-0357           R0603                       R0603,                                  R24              ---       
+                                                              Resistor 5.11k ohms / 1% / case 0603,                              
+                                                              RES_5.11k_0603, RES_0603_E96, 5.11K                                
+  3             01-0357           R0603                       R0603,                                  R25              ---       
+                                                              Resistor 5.11k ohms / 1% / case 0603,                              
+                                                              RES_5.11k_0603, RES_0603_E96, 5.11K                                
+  2             01-0289           R0603                       R0603,                                  R26              ---       
+                                                              Resistor 1.00k ohms / 1% / case 0603,                              
+                                                              RES_1.00k_0603, RES_0603_E96, 1K                                   
+  2             01-0289           R0603                       R0603,                                  R27              ---       
+                                                              Resistor 1.00k ohms / 1% / case 0603,                              
+                                                              RES_1.00k_0603, RES_0603_E96, 1K                                   
+  2             01-0289           R0603                       R0603,                                  R28              ---       
+                                                              Resistor 1.00k ohms / 1% / case 0603,                              
+                                                              RES_1.00k_0603, RES_0603_E96, 1K                                   
+  4             01-0414           R0603                       R0603,                                  R29              ---       
+                                                              Resistor 20.0k ohms / 1% / case 0603,                              
+                                                              RES_20.0k_0603, RES_0603_E96, 20K                                  
+  4             01-0414           R0603                       R0603,                                  R30              ---       
+                                                              Resistor 20.0k ohms / 1% / case 0603,                              
+                                                              RES_20.0k_0603, RES_0603_E96, 20K                                  
+  4             01-0414           R0603                       R0603,                                  R31              ---       
+                                                              Resistor 20.0k ohms / 1% / case 0603,                              
+                                                              RES_20.0k_0603, RES_0603_E96, 20K                                  
+  5             02-0098           R0402                       Fa : 1117284,                           R32              ---       
+                                                              Resistor 10k ohms / 1% / case 0402,                                
+                                                              RES_10k_0402, RES_0402_E24, 10K                                    
+  37            80-0001           B3S_SMD                     B3S_SMD, Fa : 177-807,                  SW1              ---       
+                                                              Button Switch / 4 pins / SMD / Omron                               
+                                                              B3S or B3FS, B3S, SWITCH                                           
+  26            40-0251           EQFN48_040_600_600_90       EQFN48_040_600_600_90,                  U1               ---       
+                                                              Multiprotocol Bluetooth 4.0 low                                    
+                                                              energy SoC, 256k flash, 16k RAM,                                   
+                                                              case QFN exposed pad 48 0.4mm,                                     
+                                                              Nordic nRF51822-QFAA, nRF51822-QFAA,                               
+                                                              NRF51822                                                           
+  31            40-0262           TQFP100_050_1630_1630_160   TQFP100_050_1630_1630_160,              U2               ---       
+                                                              DG : 497-14049-ND,                                                 
+                                                              ARM Cortex-M4 32b MCU + FPU, 180Mhz,                               
+                                                              2MB Flash/256+4KB RAM,                                             
+                                                              ST STM32F407VIT6, case LQFP100,                                    
+                                                              STM32F407VIT6, STM32F427                                           
+  40            80-0050           2450AT18A100                2450AT18A100, Fa : 1885496,             U3               ---       
+                                                              Mini 2.45GHz chip Antenna,                                         
+                                                              Johanson 2450AT18A100E, 2450AT18A100E,                             
+                                                              2450AT18A100E                                                      
+  39            80-0049           2450BM14A0002               2450BM14A0002, Fa : 2148533,            U4               ---       
+                                                              Balun 2.4GHz pour BLE,                                             
+                                                              Johanson 2450BM14A0002, 2450BM14A0002,                             
+                                                              BALUN 2.4GHz                                                       
+  25            40-0223           SOT23_5                     SOT23_5, Fa : 3605802,                  U5               ---       
+                                                              LDO Low noise voltage regulator, 1.8V,                             
+                                                              150mA, case SOT23-5, XC6204B182MR,                                 
+                                                              XC6204B18                                                          
+  24            40-0115           SOP008_127_0500_0620_175    SOP008_127_0500_0620_175,               U6               ---       
+                                                              Fa : 1273617, 3.3V, 500mA, Low Noise,                              
+                                                              LDO Micropower Regulator,                                          
+                                                              Linear LT1763CS8-3.3, case SO8,                                    
+                                                              LT1763CS8-3.3PBF, LT1763                                           
+  28            40-0258           QFN32_050_500_500_090       QFN32_050_500_500_090, Fa : 1689425,    U7               ---       
+                                                              Low power audio codec, 1.8V,                                       
+                                                              Texas Instruments TLV320AIC3254IRHBT,                              
+                                                              case QFN32, TLV320AIC3254IRHBT,                                    
+                                                              TLV320AIC3254                                                      
+  28            40-0258           QFN32_050_500_500_090       QFN32_050_500_500_090, Fa : 1689425,    U8               ---       
+                                                              Low power audio codec, 1.8V,                                       
+                                                              Texas Instruments TLV320AIC3254IRHBT,                              
+                                                              case QFN32, TLV320AIC3254IRHBT,                                    
+                                                              TLV320AIC3254                                                      
+  28            40-0258           QFN32_050_500_500_090       QFN32_050_500_500_090, Fa : 1689425,    U9               ---       
+                                                              Low power audio codec, 1.8V,                                       
+                                                              Texas Instruments TLV320AIC3254IRHBT,                              
+                                                              case QFN32, TLV320AIC3254IRHBT,                                    
+                                                              TLV320AIC3254                                                      
+  30            40-0260           SOT23_6                     SOT23_6, Fa : 1312608,                  U10              ---       
+                                                              Single precision ultra low noise AOP,                              
+                                                              low offset, CMOS input,                                            
+                                                              rail to rail outputs,                                              
+                                                              National Instruments LMP7711MK,                                    
+                                                              case SOT-23-6, LMP7711MK, LMP7711                                  
+  30            40-0260           SOT23_6                     SOT23_6, Fa : 1312608,                  U11              ---       
+                                                              Single precision ultra low noise AOP,                              
+                                                              low offset, CMOS input,                                            
+                                                              rail to rail outputs,                                              
+                                                              National Instruments LMP7711MK,                                    
+                                                              case SOT-23-6, LMP7711MK, LMP7711                                  
+  30            40-0260           SOT23_6                     SOT23_6, Fa : 1312608,                  U12              ---       
+                                                              Single precision ultra low noise AOP,                              
+                                                              low offset, CMOS input,                                            
+                                                              rail to rail outputs,                                              
+                                                              National Instruments LMP7711MK,                                    
+                                                              case SOT-23-6, LMP7711MK, LMP7711                                  
+  29            40-0259           MS10_050_30_30_110          MS10_050_30_30_110, Fa : 1312609,       U13              ---       
+                                                              Dual precision ultra low noise AOP,                                
+                                                              low offset, CMOS input,                                            
+                                                              rail to rail outputs,                                              
+                                                              National Instruments LMP7712MM,                                    
+                                                              case MSOP10, LMP7712MM, LMP7712                                    
+  29            40-0259           MS10_050_30_30_110          MS10_050_30_30_110, Fa : 1312609,       U14              ---       
+                                                              Dual precision ultra low noise AOP,                                
+                                                              low offset, CMOS input,                                            
+                                                              rail to rail outputs,                                              
+                                                              National Instruments LMP7712MM,                                    
+                                                              case MSOP10, LMP7712MM, LMP7712                                    
+  29            40-0259           MS10_050_30_30_110          MS10_050_30_30_110, Fa : 1312609,       U15              ---       
+                                                              Dual precision ultra low noise AOP,                                
+                                                              low offset, CMOS input,                                            
+                                                              rail to rail outputs,                                              
+                                                              National Instruments LMP7712MM,                                    
+                                                              case MSOP10, LMP7712MM, LMP7712                                    
+  27            40-0253           QFN24_050_400_400_090       CDI : MPU9150,                          U16              ---       
+                                                              3 axis gyroscope - accéléromètre -                                 
+                                                              magnétomètre, +/- 250 à 2000°/s,                                   
+                                                              2-16g, +/-1200uT, 3.3V, I2C,                                       
+                                                              Ivensense MPU9150, case QFN24,                                     
+                                                              http://bit.ly/1qwKWHm, MPU9150,                                    
+                                                              MPU9150                                                            
+
+

@@ -1,0 +1,27 @@
+Sun Mar 30 15:30:52 2014
+
+Project path: U:\2014\Plume\PCB\Emetteur\Default\default.icdb
+
+Loaded cns info: C:\MentorGraphics\7.9.5EE\SDD_HOME\standard\ce_ee.cns=7.10.24;C:\Users\Alexis\Documents\WDIR\user.cns=75a7-9983-305b-ad8c-6b13-75da-b137-5d40-22b8-f675-73dc-0aa8
+Before global upgrade from version: 7.10.24 to version: 7.10.24
+
+BeforeGlobalUpgrade took 16ms, 0s
+
+Upgrade snapshot DCDV
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot DCDV_INST_PROP_TEMPORARY_STORAGE
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 15ms, 0s
+
+Upgrade snapshot RefSync
+UpgradeSnapshot took 16ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

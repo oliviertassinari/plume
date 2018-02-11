@@ -1,0 +1,27 @@
+var a01284 =
+[
+    [ "SVC return values specific to GAP", "a01065.html", "a01065" ],
+    [ "GAP Roles", "a01066.html", "a01066" ],
+    [ "GAP Timeout sources", "a01067.html", "a01067" ],
+    [ "GAP Address types", "a01068.html", "a01068" ],
+    [ "GAP Advertising and Scan Response Data format", "a01069.html", "a01069" ],
+    [ "GAP Advertisement Flags", "a01070.html", "a01070" ],
+    [ "GAP Advertising interval max and min", "a01071.html", "a01071" ],
+    [ "GAP Advertising types", "a01072.html", "a01072" ],
+    [ "GAP Advertising filter policies", "a01073.html", "a01073" ],
+    [ "GAP Advertising timeout values", "a01074.html", "a01074" ],
+    [ "GAP Discovery modes", "a01075.html", "a01075" ],
+    [ "GAP IO Capabilities", "a01076.html", "a01076" ],
+    [ "GAP Authentication Key Types", "a01077.html", "a01077" ],
+    [ "GAP Security status", "a01078.html", "a01078" ],
+    [ "GAP Security status sources", "a01079.html", "a01079" ],
+    [ "GAP Connection Parameters Limits", "a01080.html", "a01080" ],
+    [ "GAP attribute security requirement setters", "a01081.html", "a01081" ],
+    [ "GAP Security Modes", "a01082.html", "a01082" ],
+    [ "BLE_GAP_ADDR_LEN", "a01284.html#ga65d5382341d5a38c5a051ac7198ddb03", null ],
+    [ "BLE_GAP_ADV_MAX_SIZE", "a01284.html#ga6d6ae1b58ea2dc641e4dc30e8e2dcc0b", null ],
+    [ "BLE_GAP_DEVNAME_MAX_LEN", "a01284.html#gac2eb594dd57920a845941ba29990022d", null ],
+    [ "BLE_GAP_SEC_KEY_LEN", "a01284.html#gae54d6eefffc70a3ded9ebbede87e6a51", null ],
+    [ "BLE_GAP_WHITELIST_ADDR_MAX_COUNT", "a01284.html#ga0e1bde4f7e3b124dc8aa2e7b032b8313", null ],
+    [ "BLE_GAP_WHITELIST_IRK_MAX_COUNT", "a01284.html#ga748b090dc565a8499e9088ecebe8672b", null ]
+];

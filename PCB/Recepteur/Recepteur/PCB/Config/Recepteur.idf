@@ -1,0 +1,27 @@
+.filetype IDF_EXPORT_SETTINGS
+.units (mm)
+
+.board_file "E:\\COURS\\2A-TELECOMPARISTECH\\ROSE\\PLUME\\PCB\\RECEPTEUR\\RECEPTEUR\\PCB\\Output\\PCB_recepteur.emn"
+
+.library_file "E:\\COURS\\2A-TELECOMPARISTECH\\ROSE\\PLUME\\PCB\\RECEPTEUR\\RECEPTEUR\\PCB\\Output\\PCB_recepteur.emp"
+
+.board_stackup 0
+
+.idf_version "3.0"
+
+.board_thickness "1.574800"
+
+.comp_height "2.540000"
+
+.export_obstructs 1
+
+.exclude_obstructs 0
+
+.export_holes 1
+
+.export_height 1
+
+.hole_contour 1
+
+.board_cavities 1
+

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['common_20application_20error_20handler',['Common application error handler',['../a00933.html',1,'']]],
+  ['cycling_20speed_20and_20cadence_20service_20feature_20bits',['Cycling Speed and Cadence Service feature bits',['../a00972.html',1,'']]],
+  ['command_20decoder',['Command Decoder',['../a00990.html',1,'']]],
+  ['command_20encoder',['Command Encoder',['../a00993.html',1,'']]],
+  ['connection_20parameters_20negotiation',['Connection Parameters Negotiation',['../a00959.html',1,'']]],
+  ['cycling_20speed_20and_20cadence_20service',['Cycling Speed and Cadence Service',['../a00971.html',1,'']]],
+  ['connecting_20to_20a_20bonded_20central',['Connecting to a bonded central',['../a00953.html',1,'']]],
+  ['context_20management_20events',['Context Management Events',['../a01006.html',1,'']]],
+  ['crc_20compute',['CRC compute',['../a00940.html',1,'']]],
+  ['context_20management_20apis',['Context Management APIs',['../a01011.html',1,'']]],
+  ['cherry_208x16_20keyboard_20matrix_20driver',['Cherry 8x16 keyboard matrix driver',['../a01014.html',1,'']]],
+  ['common',['Common',['../a01260.html',1,'']]],
+  ['codes_20reserved_20as_20identification_20for_20common_20errors_2e',['Codes reserved as identification for common errors.',['../a01031.html',1,'']]],
+  ['codes_20reserved_20as_20identification_20for_20module_20where_20the_20error_20occurred_2e',['Codes reserved as identification for module where the error occurred.',['../a01030.html',1,'']]],
+  ['configurable_20common_20page_20data',['Configurable common page data',['../a01279.html',1,'']]],
+  ['characteristic_20presentation_20formats',['Characteristic Presentation Formats',['../a01088.html',1,'']]],
+  ['common_20types_20and_20macro_20definitions',['Common types and macro definitions',['../a01101.html',1,'']]],
+  ['characteristic_20presentation_20formats',['Characteristic Presentation Formats',['../a01152.html',1,'']]],
+  ['common_20types_20and_20macro_20definitions',['Common types and macro definitions',['../a01165.html',1,'']]],
+  ['characteristic_20presentation_20formats',['Characteristic Presentation Formats',['../a01208.html',1,'']]],
+  ['common_20types_20and_20macro_20definitions',['Common types and macro definitions',['../a01221.html',1,'']]],
+  ['connecting_20to_20an_20unbonded_20central',['Connecting to an unbonded central',['../a00952.html',1,'']]],
+  ['characteristic_20uuid_20definitions',['Characteristic UUID definitions',['../a00987.html',1,'']]]
+];

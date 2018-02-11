@@ -1,0 +1,212 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+FE snapshot name: DCDV
+BE snapshot name: PCB_Layout_Temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LTC3113;7,(71-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CON10_188275;2,(75-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SELF_L;2,(71-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,PAD;5,(71-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,PAD;5,(71-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,QUARTZ_HC_US;2,(71-16-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,QUARTZ_HC_US;2,(71-17-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,QUARTZ_HC_US;2,(71-18-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,QUARTZ_HC_US;2,(71-19-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,STM32F103CB;1,(71-20-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,BUTTON_SWITCH;2,(71-21-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-22-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-23-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-24-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SWITCH_SPDT;1,(71-25-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SWITCH_SPDT;1,(71-26-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-27-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,QUARTZ_HC_US;2,(71-28-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-29-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-30-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-31-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-32-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,QUARTZ_HC_US;2,(71-33-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-34-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-35-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-36-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-37-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-38-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-40-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(71-41-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LED_3_RGB_A3_C3;2,(71-42-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LED_3_RGB_A3_C3;2,(71-43-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LED_3_RGB_A3_C3;2,(71-44-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LED_3_RGB_A3_C3;2,(71-45-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,NMOS;6,(71-46-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,NMOS;6,(71-47-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,NMOS;6,(71-48-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-49-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-50-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-51-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-52-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-53-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-54-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-55-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-56-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-57-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-58-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-59-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-60-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,XBEE_SERIE1;1,(71-61-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;8,(71-62-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LED;7,(71-63-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesVia,VIA0.6,(88-2-62)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesViaSpan,Through,(4-1-27)]
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesViaSpan,Through,(4-1-27)] [O: CesConstraint,DEFAULT_VIA,(4-84-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_DEF_PROPAGATION_DELAY,(94-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_PARALLELISM_MODE,(94-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeNetClassRule,(Default),(2-1-38)] [O: CesConstraint,MIN_TRACE_WIDTH,(94-3-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,PAD_TO_PAD,(4-93-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeNetClassRule,(Default),(2-1-38)] [O: CesConstraint,TYP_TRACE_WIDTH,(94-4-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,PAD_TO_PLANE,(4-94-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeNetClassRule,(Default),(2-1-38)] [O: CesConstraint,EXP_TRACE_WIDTH,(94-5-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,PLANE_TO_PLANE,(4-95-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_TRACE,(94-6-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,TRACE_TO_PLANE,(4-96-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_PAD,(94-7-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,VIA_TO_PLANE,(4-97-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_VIA,(94-8-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,TRACE_TO_PAD,(4-98-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,TRACE_TO_PLANE,(94-9-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,TRACE_TO_TRACE,(4-99-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,SMDPAD_TO_TRACE,(94-10-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,TRACE_TO_VIA,(4-100-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_PAD,(94-11-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,PAD_TO_VIA,(4-101-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_VIA,(94-12-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,VIA_TO_VIA,(4-102-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PAD_TO_PLANE,(94-13-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,VIA_TO_VIA,(94-14-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,VIA_TO_PLANE,(94-15-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,SMDPAD_TO_VIA,(94-16-22)]
+[Ok][Addition] - [BE->FE] [P: CesSchemeClearRule,(Default Rule),(2-1-41)] [O: CesConstraint,PLANE_TO_PLANE,(94-17-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,SMDPAD_TO_TRACE,(4-111-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-1-42)] [O: CesConstraint,SMDPAD_TO_VIA,(4-112-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,PAD_TO_PAD,(4-113-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,PAD_TO_PLANE,(4-114-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,PLANE_TO_PLANE,(4-115-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,TRACE_TO_PLANE,(4-116-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,VIA_TO_PLANE,(4-117-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,TRACE_TO_PAD,(4-118-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,TRACE_TO_TRACE,(4-119-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,TRACE_TO_VIA,(4-120-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,PAD_TO_VIA,(4-121-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,VIA_TO_VIA,(4-122-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,SMDPAD_TO_TRACE,(4-131-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerClearRule,CesLayerClearRule,(4-3-42)] [O: CesConstraint,SMDPAD_TO_VIA,(4-132-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-1-40)] [O: CesConstraint,MIN_TRACE_WIDTH,(4-134-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-1-40)] [O: CesConstraint,TYP_TRACE_WIDTH,(4-135-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-1-40)] [O: CesConstraint,EXP_TRACE_WIDTH,(4-136-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-3-40)] [O: CesConstraint,MIN_TRACE_WIDTH,(4-140-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-3-40)] [O: CesConstraint,TYP_TRACE_WIDTH,(4-141-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-3-40)] [O: CesConstraint,EXP_TRACE_WIDTH,(4-142-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2012-12-20 14:13:25) 
+--------------------------------------------------------------------------------

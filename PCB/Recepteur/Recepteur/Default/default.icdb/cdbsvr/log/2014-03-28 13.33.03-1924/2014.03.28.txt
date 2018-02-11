@@ -1,0 +1,122 @@
+[2014.03.28 13:33:04] [0000m.00s.466ms] [0] WELCOME
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] Base flow version [7.9.4]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] Machine [AOPUNI]  User [Gu3nol]  PID [1924]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7600)]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] Current working dir [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] SDD_PLATFORM [win32]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] WDIR [C:\MentorGraphics\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] S: Config file name [ServerWG.cfg]
+[2014.03.28 13:33:04] [0000m.00s.481ms] [2] S: Loading config files
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] Config file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2014.03.28 13:33:04] [0000m.00s.481ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2014.03.28 13:33:04] [0000m.00s.497ms] [3] S: Config loaded
+[2014.03.28 13:33:04] [0000m.00s.512ms] [0] S: Project path [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2014.03.28 13:33:04] [0000m.00s.512ms] [0] S: Project global path [\\vboxsrv\Google_Drive\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Default\default.icdb] on file system [UNKNOWN]
+[2014.03.28 13:33:04] [0000m.00s.512ms] [1] S: WARNING: No project file (.prj) path specified
+[2014.03.28 13:33:04] [0000m.00s.528ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] S: Multi-user mode (config)
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] S: Event polling mode autodetection
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] S: Started up automatically by iCDB Client: AOPUNI:Gu3nol:2276
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] S: Auto close mode
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] S: Database ID [fb75-b525-9f82-e4b9-7fb6-533c-fb65-3350-18bd-5d3d-cc9c-e5f5]
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] PathTranslator: BEGIN dumping
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] PathTranslator: Local -> global path prefix list
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] PathTranslator: [C:\Users] -> [\\AOPUNI\Users]
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\Google_Drive\]
+[2014.03.28 13:33:04] [0000m.00s.528ms] [0] PathTranslator: [F:\] -> [\\VBOXSVR\Mentor_lib\]
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] PathTranslator: Global -> local path prefix list
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] PathTranslator: [\\vboxsrv\Google_Drive\] -> [E:\]
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] PathTranslator: [\\VBOXSVR\Mentor_lib\] -> [F:\]
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] PathTranslator: [\\AOPUNI\Users] -> [C:\Users]
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] PathTranslator: END dumping
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] S: START
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] S: Server startup lock file created
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] S: Listening for client connections on port [10000]
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] S: Server network ID [Aopuni:10.0.2.15,Aopuni:10000]
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] S: Server GUID [9f92-5e84-0db7-11a7-00c6-5335-0c65-3350-109d-5d3d-cc9c-e5f5]
+[2014.03.28 13:33:04] [0000m.00s.544ms] [0] S: Project GUID [fb75-b525-9f82-e4b9-7fb6-533c-fb65-3350-18bd-5d3d-cc9c-e5f5]
+[2014.03.28 13:33:04] [0000m.00s.559ms] [0] S: Wrote data to server address file
+[2014.03.28 13:33:04] [0000m.00s.559ms] [0] S: Server startup lock file removed
+[2014.03.28 13:33:04] [0000m.00s.559ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.03.28 13:33:04] [0000m.00s.590ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.03.28 13:33:04] [0000m.00s.590ms] [0] S: Local disc access time: 42 us
+[2014.03.28 13:33:04] [0000m.00s.590ms] [0] S: File server access time: 596 us
+[2014.03.28 13:33:04] [0000m.00s.590ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2014.03.28 13:33:04] [0000m.00s.606ms] [0] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Default\default.icdb\icdb.dat] size [108984 (106.4 kB)]
+[2014.03.28 13:33:04] [0000m.00s.606ms] [1] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Default\default.icdb\icdb.dat] opened in read-write mode
+[2014.03.28 13:33:04] [0000m.00s.606ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.28 13:33:04] [0000m.00s.606ms] [0] Database GUARD OK: [108984]
+[2014.03.28 13:33:04] [0000m.00s.606ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.28 13:33:04] [0000m.00s.606ms] [0] Database GUARD OK: [108984]
+[2014.03.28 13:33:04] [0000m.00s.606ms] [0] SingleFile: [73f9-669e-5894-0eff] SFI version check [1009] [1009]
+[2014.03.28 13:33:04] [0000m.00s.683ms] [0] SingleFile: [73f9-669e-5894-0eff] Database SFI header has been read in [74ms 222us]
+[2014.03.28 13:33:04] [0000m.00s.683ms] [0] iCDB Server PI: Server & plugin session [1140]
+[2014.03.28 13:33:04] [0000m.00s.683ms] [0] iCDB Server PI: Opening database [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Default\default.icdb]
+[2014.03.28 13:33:04] [0000m.00s.683ms] [0] iCDB Server PI: Database [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Default\default.icdb] opened
+[2014.03.28 13:33:04] [0000m.00s.699ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.03.28 13:33:04] [0000m.00s.699ms] [0] iCDB Database: Checking constraint definitions version
+[2014.03.28 13:33:04] [0000m.00s.746ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=2b03-8c01-a6d9-c84c-6e6c-913b-e6c9-1350-9dad-5d3d-cc9c-e5f5] up to date
+[2014.03.28 13:33:04] [0000m.00s.761ms] [0] iCDB Server PI: Initializing plugins
+[2014.03.28 13:33:04] [0000m.00s.761ms] [0] iCDB Server PI: Plugins initialized
+[2014.03.28 13:33:04] [0000m.00s.761ms] [0] S: iCDB database loaded
+[2014.03.28 13:33:04] [0000m.00s.761ms] [0] S: Starting threads
+[2014.03.28 13:33:04] [0000m.00s.761ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.03.28 13:33:04] [0000m.00s.761ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2014.03.28 13:33:04] [0000m.00s.761ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.03.28 13:33:04] [0000m.00s.761ms] [0] IT: Session [1141] for host [Aopuni] user [Gu3nol] with process ID [2276] created
+[2014.03.28 13:33:04] [0000m.00s.777ms] [1] SC[1141]: Registered sub-client [DCDV] with ID [1] for session ID [1141] host [Aopuni] user [Gu3nol] process ID [2276]
+[2014.03.28 13:33:04] [0000m.00s.870ms] [1] CMT: There are [1] clients now: 1141
+[2014.03.28 13:33:24] [0000m.20s.430ms] [0] IT: Session [1142] for host [Aopuni] user [Gu3nol] with process ID [1300] created
+[2014.03.28 13:33:24] [0000m.20s.430ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[Aopuni] # ClientUserName[Gu3nol] # ClientProcessID[1300] # SessionID[1142]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\Recepteur.prj], global path [\\vboxsrv\Google_Drive\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\Recepteur.prj]
+[2014.03.28 13:33:24] [0000m.20s.486ms] [1] CMT: There are [2] clients now: 1141, 1142
+[2014.03.28 13:33:24] [0000m.20s.543ms] [1] SC[1142]: Registered sub-client [Expedition PCB_16192093] with ID [1] for session ID [1142] host [Aopuni] user [Gu3nol] process ID [1300]
+[2014.03.28 13:33:24] [0000m.20s.618ms] [1] SC[1142]: Registered sub-client [EEVM] with ID [2] for session ID [1142] host [Aopuni] user [Gu3nol] process ID [1300]
+[2014.03.28 13:33:24] [0000m.20s.712ms] [1] SC[1142]: UnRegistered sub-client [EEVM] with ID [2] for session ID [1142] host [Aopuni] user [Gu3nol] process ID [1300]
+[2014.03.28 13:33:25] [0000m.22s.311ms] [1] SC[1142]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1142] host [Aopuni] user [Gu3nol] process ID [1300]
+[2014.03.28 13:33:28] [0000m.24s.643ms] [1] SC[1142]: Registered sub-client [JobPrefsDBPI_16195640] with ID [4] for session ID [1142] host [Aopuni] user [Gu3nol] process ID [1300]
+[2014.03.28 13:33:28] [0000m.24s.643ms] [1] SC[1142]: UnRegistered sub-client [JobPrefsDBPI_16195640] with ID [4] for session ID [1142] host [Aopuni] user [Gu3nol] process ID [1300]
+[2014.03.28 13:33:37] [0000m.33s.519ms] [0] DFAMT: File server access time: 1217 us
+[2014.03.28 14:10:41] [0037m.38s.190ms] [0] SC[1142]: ERROR: Receiving command: Socket Exception: Category[Socket] Error[ReceiveFailed] Description[Could not receive data from peer; ECONNRESET - Connection reset by peer.] Message[Receiving network command with timeout]
+[2014.03.28 14:10:41] [0037m.38s.237ms] [0] SC[1142]: Setting status to OFFLINE
+[2014.03.28 14:10:41] [0037m.38s.331ms] [1] CMT: Trying to remove local offline client [1142]
+[2014.03.28 14:10:41] [0037m.38s.354ms] [0] CRT[1142]: EXIT: Because of client death
+[2014.03.28 14:10:41] [0037m.38s.354ms] [1] CMT: Removed local offline client [1142]
+[2014.03.28 14:10:41] [0037m.38s.354ms] [1] CMT: There are [1] clients now: 1141
+[2014.03.28 14:11:38] [0038m.35s.110ms] [0] IT: Session [1143] for host [Aopuni] user [Gu3nol] with process ID [2956] created
+[2014.03.28 14:11:38] [0038m.35s.133ms] [1] CMT: There are [2] clients now: 1141, 1143
+[2014.03.28 14:11:38] [0038m.35s.133ms] [1] SC[1143]: Registered sub-client [Expedition PCB_18801500] with ID [1] for session ID [1143] host [Aopuni] user [Gu3nol] process ID [2956]
+[2014.03.28 14:11:38] [0038m.35s.227ms] [1] SC[1143]: Registered sub-client [EEVM] with ID [2] for session ID [1143] host [Aopuni] user [Gu3nol] process ID [2956]
+[2014.03.28 14:11:38] [0038m.35s.344ms] [1] SC[1143]: UnRegistered sub-client [EEVM] with ID [2] for session ID [1143] host [Aopuni] user [Gu3nol] process ID [2956]
+[2014.03.28 14:11:53] [0038m.49s.992ms] [1] SC[1143]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1143] host [Aopuni] user [Gu3nol] process ID [2956]
+[2014.03.28 14:11:54] [0038m.50s.625ms] [1] SC[1143]: Registered sub-client [JobPrefsDBPI_18811906] with ID [4] for session ID [1143] host [Aopuni] user [Gu3nol] process ID [2956]
+[2014.03.28 14:11:54] [0038m.50s.625ms] [1] SC[1143]: UnRegistered sub-client [JobPrefsDBPI_18811906] with ID [4] for session ID [1143] host [Aopuni] user [Gu3nol] process ID [2956]
+[2014.03.28 16:29:08] [0176m.05s.323ms] [1] SC[1143]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1143] host [Aopuni] user [Gu3nol] process ID [2956]
+[2014.03.28 16:29:09] [0176m.05s.714ms] [1] SC[1143]: UnRegistered sub-client [Expedition PCB_18801500] with ID [1] for session ID [1143] host [Aopuni] user [Gu3nol] process ID [2956]
+[2014.03.28 16:29:09] [0176m.05s.807ms] [1] CMT: Removed client [1143]
+[2014.03.28 16:29:09] [0176m.05s.807ms] [1] CMT: There are [1] clients now: 1141
+[2014.03.28 16:29:11] [0176m.07s.573ms] [1] SC[1141]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1141] host [Aopuni] user [Gu3nol] process ID [2276]
+[2014.03.28 16:29:11] [0176m.07s.667ms] [1] CMT: Removed client [1141]
+[2014.03.28 16:29:11] [0176m.07s.667ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.03.28 16:29:13] [0176m.09s.417ms] [0] CMT: Starting server auto-close
+[2014.03.28 16:29:13] [0176m.09s.526ms] [0] S: Closing server
+[2014.03.28 16:29:13] [0176m.09s.682ms] [0] iCDB Server PI: Closing plugins
+[2014.03.28 16:29:13] [0176m.09s.682ms] [0] iCDB Server PI: Plugins closed
+[2014.03.28 16:29:13] [0176m.09s.682ms] [0] iCDB Server PI: Unloading database
+[2014.03.28 16:29:13] [0176m.09s.682ms] [0] iCDB Server PI: Saving storage
+[2014.03.28 16:29:13] [0176m.09s.682ms] [0] iCDB Server PI: Closing database
+[2014.03.28 16:29:13] [0176m.09s.682ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[98%]
+[2014.03.28 16:29:13] [0176m.09s.682ms] [1] iCDB Server PI: Stats: Database file size [111224 (108.6 kB)]
+[2014.03.28 16:29:13] [0176m.09s.698ms] [0] iCDB Server PI: Database closed
+[2014.03.28 16:29:13] [0176m.09s.698ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [18565] ticks
+[2014.03.28 16:29:13] [0176m.09s.698ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [7393] microseconds
+[2014.03.28 16:29:13] [0176m.09s.698ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [100]
+[2014.03.28 16:29:13] [0176m.09s.698ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [13525] commands per second
+[2014.03.28 16:29:13] [0176m.09s.698ms] [0] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Recepteur\Default\default.icdb\icdb.dat] closed with size [111224 (108.6 kB)]
+[2014.03.28 16:29:13] [0176m.09s.854ms] [0] S: STOP

@@ -1,0 +1,175 @@
+[2014-03-11 00.52.57] -------------------- CREATE --------------------
+[2014-03-11 00.52.57] Creating Project Backup infrastructure for project [C:\t\PROJET_VIDE\PROJET_VIDE\PROJET_VIDE.prj].
+[2014-03-11 00.52.57] Migrating iCDB upgrade backups from directory [PROJET_VIDE\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-11 00.52.57] Migrating iCDB upgrade backup file [2014-03-11 00.52.03-2832].
+[2014-03-11 00.52.57] Successfully created [Constraints Definition Upgrade] backup [2014-03-11 00.52.03 - consDefUpgr.zip] requested by [lutin2:Alexis].
+[2014-03-11 00.52.57] Migrated iCDB content backup file [cdbback\2014-03-11 00.52.03-2832.zip] removed.
+[2014-03-11 00.52.57] Successfully migrated iCDB upgrade backup file [2014-03-11 00.52.03-2832] to Project Backup format [2014-03-11 00.52.03 - consDefUpgr.zip]
+[2014-03-11 00.52.57] Successfully created [AutoSave] backup [2014-03-11 00.52.57 - auto.zip] requested by [LUTIN2:Alexis].
+[2014-03-27 18.03.13] Migrating iCDB upgrade backups from directory [Recepteur\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-27 18.03.13] Migrating iCDB upgrade backup file [2014-03-27 16.31.02-94028].
+[2014-03-27 18.03.13] Successfully created [Database Upgrade] backup [2014-03-27 16.31.02 - upgrade.zip] requested by [LUTIN2:Alexis].
+[2014-03-27 18.03.13] Migrated iCDB content backup file [cdbback\2014-03-27 16.31.02-94028.zip] removed.
+[2014-03-27 18.03.13] Successfully migrated iCDB upgrade backup file [2014-03-27 16.31.02-94028] to Project Backup format [2014-03-27 16.31.02 - upgrade.zip]
+[2014-03-27 18.03.13] Successfully created [AutoSave] backup [2014-03-27 18.03.13 - auto.zip] requested by [BI-WIN7:Alexis].
+[2014-03-27 18.09.09] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-27 18.09.09] Migrating iCDB upgrade backup file [2014-03-27 18.08.00-2820].
+[2014-03-27 18.09.09] Successfully created [Constraints Definition Upgrade] backup [2014-03-27 18.08.00 - consDefUpgr.zip] requested by [BI-WIN7:Alexis].
+[2014-03-27 18.09.09] Removing excessive [Constraints Definition Upgrade] backup file [G:\PLUME\PCB\RECEPTEUR\Default\ProjectBackup\backups\2014-03-11 00.52.03 - consDefUpgr.zip].
+[2014-03-27 18.09.09] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-11 00.52.03 - consDefUpgr.zip] removed.
+[2014-03-27 18.09.09] Migrated iCDB content backup file [cdbback\2014-03-27 18.08.00-2820.zip] removed.
+[2014-03-27 18.09.09] Successfully migrated iCDB upgrade backup file [2014-03-27 18.08.00-2820] to Project Backup format [2014-03-27 18.08.00 - consDefUpgr.zip]
+[2014-03-27 22.03.13] Successfully created [AutoSave] backup [2014-03-27 22.03.13 - auto.zip] requested by [BI-WIN7:ROSE].
+[2014-03-28 09.07.00] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-28 09.07.00] Migrating iCDB upgrade backup file [2014-03-28 09.05.08-1528].
+[2014-03-28 09.07.00] Successfully created [Constraints Definition Upgrade] backup [2014-03-28 09.05.08 - consDefUpgr.zip] requested by [BI-WIN7:ROSE].
+[2014-03-28 09.07.00] Migrated iCDB content backup file [cdbback\2014-03-28 09.05.08-1528.zip] removed.
+[2014-03-28 09.07.00] Successfully migrated iCDB upgrade backup file [2014-03-28 09.05.08-1528] to Project Backup format [2014-03-28 09.05.08 - consDefUpgr.zip]
+[2014-03-28 09.09.35] Successfully created [AutoSave] backup [2014-03-28 09.09.35 - auto.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-28 13.09.35] Successfully created [AutoSave] backup [2014-03-28 13.09.35 - auto.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-28 13.09.35] Removing excessive [AutoSave] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\Default\ProjectBackup\backups\2014-03-11 00.52.57 - auto.zip].
+[2014-03-28 13.09.35] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-11 00.52.57 - auto.zip] removed.
+[2014-03-28 17.04.36] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-28 17.04.36] Migrating iCDB upgrade backup file [2014-03-28 17.03.43-1840].
+[2014-03-28 17.04.37] Successfully created [Constraints Definition Upgrade] backup [2014-03-28 17.03.43 - consDefUpgr.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-28 17.04.37] Removing excessive [Constraints Definition Upgrade] backup file [G:\PLUME\PCB\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 09.05.08 - consDefUpgr.zip].
+[2014-03-28 17.04.37] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 09.05.08 - consDefUpgr.zip] removed.
+[2014-03-28 17.04.37] Migrated iCDB content backup file [cdbback\2014-03-28 17.03.43-1840.zip] removed.
+[2014-03-28 17.04.37] Successfully migrated iCDB upgrade backup file [2014-03-28 17.03.43-1840] to Project Backup format [2014-03-28 17.03.43 - consDefUpgr.zip]
+[2014-03-28 17.09.35] Successfully created [AutoSave] backup [2014-03-28 17.09.35 - auto.zip] requested by [BI-WIN7:ROSE].
+[2014-03-28 17.09.35] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\Default\ProjectBackup\backups\2014-03-27 18.03.13 - auto.zip].
+[2014-03-28 17.09.35] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-27 18.03.13 - auto.zip] removed.
+[2014-03-28 19.40.18] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-28 19.40.18] Migrating iCDB upgrade backup file [2014-03-28 19.38.56-2876].
+[2014-03-28 19.40.18] Successfully created [Constraints Definition Upgrade] backup [2014-03-28 19.38.56 - consDefUpgr.zip] requested by [BI-WIN7:ROSE].
+[2014-03-28 19.40.18] Removing excessive [Constraints Definition Upgrade] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 17.03.43 - consDefUpgr.zip].
+[2014-03-28 19.40.18] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 17.03.43 - consDefUpgr.zip] removed.
+[2014-03-28 19.40.18] Migrated iCDB content backup file [cdbback\2014-03-28 19.38.56-2876.zip] removed.
+[2014-03-28 19.40.18] Successfully migrated iCDB upgrade backup file [2014-03-28 19.38.56-2876] to Project Backup format [2014-03-28 19.38.56 - consDefUpgr.zip]
+[2014-03-28 20.56.35] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-28 20.56.35] Migrating iCDB upgrade backup file [2014-03-28 20.54.36-836].
+[2014-03-28 20.56.36] Successfully created [Constraints Definition Upgrade] backup [2014-03-28 20.54.36 - consDefUpgr.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-28 20.56.36] Removing excessive [Constraints Definition Upgrade] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 19.38.56 - consDefUpgr.zip].
+[2014-03-28 20.56.36] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 19.38.56 - consDefUpgr.zip] removed.
+[2014-03-28 20.56.36] Migrated iCDB content backup file [cdbback\2014-03-28 20.54.36-836.zip] removed.
+[2014-03-28 20.56.36] Successfully migrated iCDB upgrade backup file [2014-03-28 20.54.36-836] to Project Backup format [2014-03-28 20.54.36 - consDefUpgr.zip]
+[2014-03-28 21.12.11] Successfully created [AutoSave] backup [2014-03-28 21.12.10 - auto.zip] requested by [LUTIN2:Alexis].
+[2014-03-28 21.12.11] Removing excessive [AutoSave] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 09.09.35 - auto.zip].
+[2014-03-28 21.12.11] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 09.09.35 - auto.zip] removed.
+[2014-03-29 13.05.57] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-29 13.05.57] Migrating iCDB upgrade backup file [2014-03-29 13.05.23-2932].
+[2014-03-29 13.05.57] Successfully created [Constraints Definition Upgrade] backup [2014-03-29 13.05.23 - consDefUpgr.zip] requested by [LUTIN2:Alexis].
+[2014-03-29 13.05.57] Removing excessive [Constraints Definition Upgrade] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 20.54.36 - consDefUpgr.zip].
+[2014-03-29 13.05.57] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 20.54.36 - consDefUpgr.zip] removed.
+[2014-03-29 13.05.57] Migrated iCDB content backup file [cdbback\2014-03-29 13.05.23-2932.zip] removed.
+[2014-03-29 13.05.57] Successfully migrated iCDB upgrade backup file [2014-03-29 13.05.23-2932] to Project Backup format [2014-03-29 13.05.23 - consDefUpgr.zip]
+[2014-03-29 13.05.59] Successfully created [AutoSave] backup [2014-03-29 13.05.57 - auto.zip] requested by [BI-WIN7:ROSE].
+[2014-03-29 13.05.59] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 13.09.35 - auto.zip].
+[2014-03-29 13.05.59] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 13.09.35 - auto.zip] removed.
+[2014-03-29 17.05.57] Successfully created [AutoSave] backup [2014-03-29 17.05.57 - auto.zip] requested by [BI-WIN7:ROSE].
+[2014-03-29 17.05.57] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 17.09.35 - auto.zip].
+[2014-03-29 17.05.57] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 17.09.35 - auto.zip] removed.
+[2014-03-29 21.26.39] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-29 21.26.39] Migrating iCDB upgrade backup file [2014-03-29 21.25.20-1904].
+[2014-03-29 21.26.40] Successfully created [Constraints Definition Upgrade] backup [2014-03-29 21.25.20 - consDefUpgr.zip] requested by [BI-WIN7:ROSE].
+[2014-03-29 21.26.40] Removing excessive [Constraints Definition Upgrade] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 13.18.02 - consDefUpgr.zip].
+[2014-03-29 21.26.40] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 13.18.02 - consDefUpgr.zip] removed.
+[2014-03-29 21.26.40] Migrated iCDB content backup file [cdbback\2014-03-29 21.25.20-1904.zip] removed.
+[2014-03-29 21.26.40] Successfully migrated iCDB upgrade backup file [2014-03-29 21.25.20-1904] to Project Backup format [2014-03-29 21.25.20 - consDefUpgr.zip]
+[2014-03-29 21.26.40] Successfully created [AutoSave] backup [2014-03-29 21.26.40 - auto.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-30 22.24.40] Successfully created [AutoSave] backup [2014-03-30 22.24.39 - auto.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-30 22.24.40] Removing excessive [AutoSave] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 21.12.10 - auto.zip].
+[2014-03-30 22.24.40] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-28 21.12.10 - auto.zip] removed.
+[2014-03-31 08.40.27] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-03-31 08.40.27] Migrating iCDB upgrade backup file [2014-03-31 08.36.53-3044].
+[2014-03-31 08.40.27] Successfully created [Constraints Definition Upgrade] backup [2014-03-31 08.36.53 - consDefUpgr.zip] requested by [AOPUNI:Gu3nol].
+[2014-03-31 08.40.27] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 13.05.57 - auto.zip].
+[2014-03-31 08.40.27] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 13.05.57 - auto.zip] removed.
+[2014-03-31 08.40.27] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 13.18.30 - auto.zip].
+[2014-03-31 08.40.27] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 13.18.30 - auto.zip] removed.
+[2014-03-31 08.40.27] Removing excessive [Constraints Definition Upgrade] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 13.05.23 - consDefUpgr.zip].
+[2014-03-31 08.40.27] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 13.05.23 - consDefUpgr.zip] removed.
+[2014-03-31 08.40.27] Removing excessive [Constraints Definition Upgrade] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 21.25.20 - consDefUpgr.zip].
+[2014-03-31 08.40.27] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 21.25.20 - consDefUpgr.zip] removed.
+[2014-03-31 08.40.27] Migrated iCDB content backup file [cdbback\2014-03-31 08.36.53-3044.zip] removed.
+[2014-03-31 08.40.27] Successfully migrated iCDB upgrade backup file [2014-03-31 08.36.53-3044] to Project Backup format [2014-03-31 08.36.53 - consDefUpgr.zip]
+[2014-03-31 08.40.32] Successfully created [AutoSave] backup [2014-03-31 08.40.27 - auto.zip] requested by [BI-WIN7:ROSE].
+[2014-03-31 08.40.32] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 17.05.57 - auto.zip].
+[2014-03-31 08.40.32] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 17.05.57 - auto.zip] removed.
+[2014-03-31 14.18.53] Successfully created [AutoSave] backup [2014-03-31 14.18.52 - auto.zip] requested by [BI-WIN7:ROSE].
+[2014-03-31 14.18.53] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 21.26.40 - auto.zip].
+[2014-03-31 14.18.53] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-29 21.26.40 - auto.zip] removed.
+[2014-04-01 14.28.48] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-04-01 14.28.48] Migrating iCDB upgrade backup file [2014-04-01 14.27.59-188468].
+[2014-04-01 14.28.48] Successfully created [Constraints Definition Upgrade] backup [2014-04-01 14.27.59 - consDefUpgr.zip] requested by [AOPUNI:Gu3nol].
+[2014-04-01 14.28.48] Removing excessive [Constraints Definition Upgrade] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-31 08.36.53 - consDefUpgr.zip].
+[2014-04-01 14.28.48] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-31 08.36.53 - consDefUpgr.zip] removed.
+[2014-04-01 14.28.48] Migrated iCDB content backup file [cdbback\2014-04-01 14.27.59-188468.zip] removed.
+[2014-04-01 14.28.48] Successfully migrated iCDB upgrade backup file [2014-04-01 14.27.59-188468] to Project Backup format [2014-04-01 14.27.59 - consDefUpgr.zip]
+[2014-04-01 15.33.54] Successfully created [AutoSave] backup [2014-04-01 15.33.53 - auto.zip] requested by [BI-WIN7:Alexis].
+[2014-04-01 15.33.54] Removing excessive [AutoSave] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-30 22.24.39 - auto.zip].
+[2014-04-01 15.33.54] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-30 22.24.39 - auto.zip] removed.
+[2014-04-01 19.33.56] Successfully created [AutoSave] backup [2014-04-01 19.33.53 - auto.zip] requested by [BI-WIN7:Alexis].
+[2014-04-01 19.33.56] Removing excessive [AutoSave] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-31 08.40.27 - auto.zip].
+[2014-04-01 19.33.56] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-31 08.40.27 - auto.zip] removed.
+[2014-04-01 19.48.32] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-04-01 19.48.32] Migrating iCDB upgrade backup file [2014-04-01 19.47.55-2596].
+[2014-04-01 19.48.32] Successfully created [Constraints Definition Upgrade] backup [2014-04-01 19.47.55 - consDefUpgr.zip] requested by [BI-WIN7:Alexis].
+[2014-04-01 19.48.32] Removing excessive [AutoSave] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-31 14.18.52 - auto.zip].
+[2014-04-01 19.48.32] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-31 14.18.52 - auto.zip] removed.
+[2014-04-01 19.48.32] Removing excessive [Constraints Definition Upgrade] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-03-31 18.41.13 - consDefUpgr.zip].
+[2014-04-01 19.48.32] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-03-31 18.41.13 - consDefUpgr.zip] removed.
+[2014-04-01 19.48.32] Removing excessive [Constraints Definition Upgrade] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 14.27.59 - consDefUpgr.zip].
+[2014-04-01 19.48.32] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 14.27.59 - consDefUpgr.zip] removed.
+[2014-04-01 19.48.32] Migrated iCDB content backup file [cdbback\2014-04-01 19.47.55-2596.zip] removed.
+[2014-04-01 19.48.32] Successfully migrated iCDB upgrade backup file [2014-04-01 19.47.55-2596] to Project Backup format [2014-04-01 19.47.55 - consDefUpgr.zip]
+[2014-04-01 19.48.32] Migrating iCDB upgrade backup file [2014-03-31 18.41.13-1628].
+[2014-04-01 19.48.32] iCDB upgrade backup file [2014-03-31 18.41.13-1628] is excessive.
+[2014-04-01 19.48.32] Excessive iCDB upgrade backup file [2014-03-31 18.41.13-1628] removed.
+[2014-04-02 11.20.43] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-04-02 11.20.43] Migrating iCDB upgrade backup file [2014-04-02 11.17.03-3024].
+[2014-04-02 11.20.44] Successfully created [Constraints Definition Upgrade] backup [2014-04-02 11.17.03 - consDefUpgr.zip] requested by [OLIVIER-PC:Olivier].
+[2014-04-02 11.20.44] Removing excessive [Constraints Definition Upgrade] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 19.47.55 - consDefUpgr.zip].
+[2014-04-02 11.20.44] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 19.47.55 - consDefUpgr.zip] removed.
+[2014-04-02 11.20.44] Migrated iCDB content backup file [cdbback\2014-04-02 11.17.03-3024.zip] removed.
+[2014-04-02 11.20.44] Successfully migrated iCDB upgrade backup file [2014-04-02 11.17.03-3024] to Project Backup format [2014-04-02 11.17.03 - consDefUpgr.zip]
+[2014-04-02 11.20.45] Successfully created [AutoSave] backup [2014-04-02 11.20.44 - auto.zip] requested by [BI-WIN7:ROSE].
+[2014-04-02 11.20.45] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 15.33.53 - auto.zip].
+[2014-04-02 11.20.45] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 15.33.53 - auto.zip] removed.
+[2014-04-02 15.04.04] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-04-02 15.04.04] Migrating iCDB upgrade backup file [2014-04-02 15.03.46-12716].
+[2014-04-02 15.04.04] Successfully created [Constraints Definition Upgrade] backup [2014-04-02 15.03.46 - consDefUpgr.zip] requested by [BI-WIN7:ROSE].
+[2014-04-02 15.04.04] Removing excessive [AutoSave] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 15.33.53 - auto.zip].
+[2014-04-02 15.04.04] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 15.33.53 - auto.zip] removed.
+[2014-04-02 15.04.04] Removing excessive [Constraints Definition Upgrade] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 19.47.55 - consDefUpgr.zip].
+[2014-04-02 15.04.04] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 19.47.55 - consDefUpgr.zip] removed.
+[2014-04-02 15.04.04] Removing excessive [Constraints Definition Upgrade] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-02 11.17.03 - consDefUpgr.zip].
+[2014-04-02 15.04.04] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-02 11.17.03 - consDefUpgr.zip] removed.
+[2014-04-02 15.04.04] Migrated iCDB content backup file [cdbback\2014-04-02 15.03.46-12716.zip] removed.
+[2014-04-02 15.04.04] Successfully migrated iCDB upgrade backup file [2014-04-02 15.03.46-12716] to Project Backup format [2014-04-02 15.03.46 - consDefUpgr.zip]
+[2014-04-02 16.25.50] Successfully created [AutoSave] backup [2014-04-02 16.25.49 - auto.zip] requested by [BI-WIN7:Alexis].
+[2014-04-02 16.25.50] Removing excessive [AutoSave] backup file [U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 17.51.19 - auto.zip].
+[2014-04-02 16.25.50] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 17.51.19 - auto.zip] removed.
+[2014-04-02 18.09.01] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-04-02 18.09.01] Migrating iCDB upgrade backup file [2014-04-02 18.07.10-2196].
+[2014-04-02 18.09.01] Successfully created [Constraints Definition Upgrade] backup [2014-04-02 18.07.10 - consDefUpgr.zip] requested by [BI-WIN7:Alexis].
+[2014-04-02 18.09.01] Removing excessive [Constraints Definition Upgrade] backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-02 15.03.46 - consDefUpgr.zip].
+[2014-04-02 18.09.01] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-02 15.03.46 - consDefUpgr.zip] removed.
+[2014-04-02 18.09.01] Migrated iCDB content backup file [cdbback\2014-04-02 18.07.10-2196.zip] removed.
+[2014-04-02 18.09.01] Successfully migrated iCDB upgrade backup file [2014-04-02 18.07.10-2196] to Project Backup format [2014-04-02 18.07.10 - consDefUpgr.zip]
+[2014-04-26 20.30.45] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-04-26 20.30.45] Migrating iCDB upgrade backup file [2014-04-26 20.29.55-2828].
+[2014-04-26 20.30.46] Successfully created [Constraints Definition Upgrade] backup [2014-04-26 20.29.55 - consDefUpgr.zip] requested by [AOPUNI:Gu3nol].
+[2014-04-26 20.30.46] Removing excessive [Constraints Definition Upgrade] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-02 18.07.10 - consDefUpgr.zip].
+[2014-04-26 20.30.46] [Constraints Definition Upgrade] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-02 18.07.10 - consDefUpgr.zip] removed.
+[2014-04-26 20.30.46] Migrated iCDB content backup file [cdbback\2014-04-26 20.29.55-2828.zip] removed.
+[2014-04-26 20.30.46] Successfully migrated iCDB upgrade backup file [2014-04-26 20.29.55-2828] to Project Backup format [2014-04-26 20.29.55 - consDefUpgr.zip]
+[2014-04-26 20.30.51] Successfully created [AutoSave] backup [2014-04-26 20.30.46 - auto.zip] requested by [BI-WIN7:ROSE].
+[2014-04-26 20.30.51] Removing excessive [AutoSave] backup file [G:\PLUME\PCB\RECEPTEUR\RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 19.33.53 - auto.zip].
+[2014-04-26 20.30.51] [AutoSave] backup file [RECEPTEUR\Default\ProjectBackup\backups\2014-04-01 19.33.53 - auto.zip] removed.
+[2014-04-29 20.52.59] Migrating iCDB upgrade backups from directory [RECEPTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014-04-29 20.52.59] Migrating iCDB upgrade backup file [2014-04-29 20.52.31-2980].
+[2014-04-29 20.52.59] Successfully created [Constraints Definition Upgrade] backup [2014-04-29 20.52.31 - consDefUpgr.zip] requested by [BI-WIN7:ROSE].
+[2014-04-29 20.52.59] Migrated iCDB content backup file [cdbback\2014-04-29 20.52.31-2980.zip] removed.
+[2014-04-29 20.52.59] Successfully migrated iCDB upgrade backup file [2014-04-29 20.52.31-2980] to Project Backup format [2014-04-29 20.52.31 - consDefUpgr.zip]
+[2014-04-29 20.53.00] Successfully created [AutoSave] backup [2014-04-29 20.52.59 - auto.zip] requested by [AOPUNI:Gu3nol].

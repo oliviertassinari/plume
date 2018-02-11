@@ -1,0 +1,71 @@
+Creating Database - U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\vbreport\work\..\output\VBPCBP.mdc
+    Creating Table : TBoardInfo
+    Creating Table : TBoardOut
+    Creating Table : TComp
+    Creating Table : TCompManufOrigin
+    Creating Table : TCompOut
+    Creating Table : TCompPad
+    Creating Table : TCompPin
+    Creating Table : TContour
+    Creating Table : TDefClear
+    Creating Table : TDrawing
+    Creating Table : TFiducial
+    Creating Table : TMechanical
+    Creating Table : TMechManufOrigin
+    Creating Table : TMountinghole
+    Creating Table : TNet
+    Creating Table : TNetClass
+    Creating Table : TNetClassLayer
+    Creating Table : TNetClassViaAttr
+    Creating Table : TNetProperties
+    Creating Table : TPadStack
+    Creating Table : TPadStackHolesList
+    Creating Table : TPadStackHoles
+    Creating Table : TPadStackPads
+    Creating Table : TPartNumber
+    Creating Table : TPartNumberProperty
+    Creating Table : TPlaneDef
+    Creating Table : TPlaneShape
+    Creating Table : TShape
+    Creating Table : TShapeOutl
+    Creating Table : TShapeNestedCell
+    Creating Table : TShapePins
+    Creating Table : TTech
+    Creating Table : TTestPoint
+    Creating Table : TTrace
+    Creating Table : TUnplacedComp
+    Creating Table : TVia
+    Creating Table : TViaPad
+    Importing TBoardInfo Data
+    Importing TBoardOut Data
+    Importing TComp Data
+    Importing TCompManufOrigin Data
+    Importing TCompOut Data
+    Importing TCompPad Data
+    Importing TCompPin Data
+    Importing TDefClear Data
+    Importing TDrawing Data
+    Importing TFiducial Data
+    Importing TMountinghole Data
+    Importing TNet Data
+    Importing TNetClass Data
+    Importing TNetClassLayer Data
+    Importing TNetClassViaAttr Data
+    Importing TNetProperties Data
+    Importing TPadStack Data
+    Importing TPadStackHolesList Data
+    Importing TPadStackHoles Data
+    Importing TPadStackPads Data
+    Importing TPartNumber Data
+    Importing TPartNumberProperty Data
+    Importing TPlaneDef Data
+    Importing TPlaneShape Data
+    Importing TShape Data
+    Importing TShapeOutl Data
+    Importing TShapeNestedCell Data
+    Importing TShapePins Data
+    Importing TTech Data
+    Importing TTrace Data
+    Importing TUnplacedComp Data
+    Importing TVia Data
+    Importing TViaPad Data

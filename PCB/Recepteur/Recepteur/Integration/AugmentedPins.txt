@@ -1,0 +1,27 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part 80-0050                          |
+       U3                              |    2| <unconnected pin>
+ Part 80-0049                          |
+       U4                              |    6| <unconnected pin>
+ Part 80-0018                          |
+       J5                              |    5| GND
+       J5                              |    6| GND
+       J5                              |    7| GND
+       J5                              |    4| GND
+ Part 70-0081                          |
+       J3                              |    7| <unconnected pin>
+       J2                              |    7| <unconnected pin>
+ Part 40-0253                          |
+       U16                             |    2| <unconnected pin>
+       U16                             |    4| <unconnected pin>
+       U16                             |    5| <unconnected pin>
+       U16                             |   14| <unconnected pin>
+       U16                             |   16| <unconnected pin>
+       U16                             |   19| <unconnected pin>
+       U16                             |   21| <unconnected pin>
+       U16                             |   22| <unconnected pin>
+ Part 40-0223                          |
+       U5                              |    4| <unconnected pin>

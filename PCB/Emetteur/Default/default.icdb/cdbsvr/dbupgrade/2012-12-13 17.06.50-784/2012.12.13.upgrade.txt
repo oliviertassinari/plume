@@ -1,0 +1,33 @@
+[2012.12.13 17:06:51] [0000m.27s.604ms] [0] WELCOME
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] iCDB Client ver.1.094, xrkHMDMV+MGcQyomTkO/8A, build:525925 created 2012-10-30 14:46:11, sources stamp:xrkHMDMV+MGcQyomTkO/8A
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] Base flow version [7.9.4]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] GBS Install Id [26419], Flow Id [EE 7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] UPDATE Install Info, GBS Install Id [27817], UPDATE Name [Expedition Enterprise Flow - Update 4 for EE7.9.4]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] Machine [DAUDAU-PC]  User [Daudau]  PID [784]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] Current working dir [C:\Windows\system32]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] PATH [C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] SDD_HOME [C:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] SDD_PLATFORM [win32]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] WDIR [C:\;C:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2012.12.13 17:06:51] [0000m.27s.604ms] [1] Local iCDB working dir [C:\MentorGraphics\7.9.4EE\SDD_HOME\standard\iCDB] on file system [NTFS]
+[2012.12.13 17:06:51] [0000m.27s.621ms] [0] Creating database content backup before upgrade
+[2012.12.13 17:06:51] [0000m.27s.963ms] [0] Database content backed up to [E:\Electronique\telepact\Cube\Default\default.icdb\cdbback\2012-12-13 17.06.51-784.zip] of size [41 247 bytes (40.3 kB)] in [308ms 446us]
+[2012.12.13 17:06:51] [0000m.27s.980ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=f0e7-34da-bbe1-dbe9-bc9e-0c00-d9e0-c050-50cd-7d3d-0dfc-fbf5]
+[2012.12.13 17:06:51] [0000m.28s.066ms] [0] Loading snapshot [1:DCDV] version [2709]
+[2012.12.13 17:06:51] [0000m.28s.305ms] [0] Snapshot [1:DCDV] loaded in [211ms 946us]
+[2012.12.13 17:06:51] [0000m.28s.305ms] [0] Upgrading constraint definitions for snapshot [1:DCDV]
+[2012.12.13 17:06:51] [0000m.28s.562ms] [0] Constraint definitions for snapshot [1:DCDV] upgraded in [234ms 216us]
+[2012.12.13 17:06:52] [0000m.28s.579ms] [0] Saving snapshot [1:DCDV]
+[2012.12.13 17:06:52] [0000m.28s.579ms] [0] Snapshot [1:DCDV] saved in [71us]
+[2012.12.13 17:06:52] [0000m.28s.596ms] [0] Loading snapshot [2:DCDV_INST_PROP_TEMPORARY_STORAGE] version [2709]
+[2012.12.13 17:06:52] [0000m.28s.596ms] [0] Snapshot [2:DCDV_INST_PROP_TEMPORARY_STORAGE] loaded in [4ms 118us]
+[2012.12.13 17:06:52] [0000m.28s.596ms] [0] Upgrading constraint definitions for snapshot [2:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2012.12.13 17:06:52] [0000m.28s.647ms] [0] Constraint definitions for snapshot [2:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded in [52ms 170us]
+[2012.12.13 17:06:52] [0000m.28s.664ms] [0] Saving snapshot [2:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2012.12.13 17:06:52] [0000m.28s.664ms] [0] Snapshot [2:DCDV_INST_PROP_TEMPORARY_STORAGE] saved in [42us]
+[2012.12.13 17:06:52] [0000m.28s.664ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.10.24]
+[2012.12.13 17:06:52] [0000m.28s.681ms] [0] DONE
+[2012.12.13 17:06:52] [0000m.28s.681ms] [0] .

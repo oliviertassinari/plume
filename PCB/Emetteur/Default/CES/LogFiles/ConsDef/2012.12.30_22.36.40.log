@@ -1,0 +1,27 @@
+Sun Dec 30 22:36:40 2012
+
+Project path: E:\Electronique\telepact\Cube\Default\default.icdb
+
+Loaded cns info: C:\MentorGraphics\7.9.4EE\SDD_HOME\standard\ce_ee.cns=7.10.24;C:\Users\Daudau\Documents\WDIR\user.cns=8f7d-7e65-d7a4-6e01-bbc0-3d00-cc03-d050-75dc-ad2c-fb5d-b8fa
+Before global upgrade from version: 7.10.24 to version: 7.10.24
+
+BeforeGlobalUpgrade took 20ms, 0s
+
+Upgrade snapshot DCDV
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot DCDV_INST_PROP_TEMPORARY_STORAGE
+UpgradeSnapshot took 20ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 20ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot RefSync
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

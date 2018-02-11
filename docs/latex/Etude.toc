@@ -1,0 +1,16 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Physical background}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}The Good News}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}The Bad News}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Health and Safety Considerations}{3}{subsection.1.3}
+\contentsline {section}{\numberline {2}Physique}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Loi de Faraday}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Effet de peau}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Fil de cuivre}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Bobine}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}Calcul de la position}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Mod\IeC {\'e}lisation du probl\IeC {\`e}me et notations}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Calcul de la position}{5}{subsection.3.2}
+\contentsline {section}{\numberline {4}Dimensionnement des bobines}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}\IeC {\'E}metteur}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}R\IeC {\'e}cepteur - carr\IeC {\'e}}{7}{subsection.4.2}

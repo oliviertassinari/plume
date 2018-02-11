@@ -1,0 +1,282 @@
+[2014.03.31 09:23:08] [0000m.00s.503ms] [0] WELCOME
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] iCDB Server ver.1.094, vt40T8RtWJOG2cE2Nlvc5A, build:535943 created 2013-01-08 09:09:26, sources stamp:vt40T8RtWJOG2cE2Nlvc5A
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] Base flow version [7.9.4]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] Machine [AOPUNI]  User [Gu3nol]  PID [2856]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7600)]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] Current working dir [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] SDD_PLATFORM [win32]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] WDIR [C:\MentorGraphics\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [1] S: Config file name [ServerWG.cfg]
+[2014.03.31 09:23:08] [0000m.00s.503ms] [2] S: Loading config files
+[2014.03.31 09:23:08] [0000m.00s.521ms] [1] Config file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2014.03.31 09:23:08] [0000m.00s.521ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2014.03.31 09:23:08] [0000m.00s.521ms] [3] S: Config loaded
+[2014.03.31 09:23:08] [0000m.00s.683ms] [0] S: Project path [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2014.03.31 09:23:08] [0000m.00s.683ms] [0] S: Project global path [\\vboxsrv\Google_Drive\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb] on file system [UNKNOWN]
+[2014.03.31 09:23:08] [0000m.00s.683ms] [1] S: WARNING: No project file (.prj) path specified
+[2014.03.31 09:23:08] [0000m.00s.701ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.03.31 09:23:08] [0000m.00s.701ms] [0] S: Multi-user mode (config)
+[2014.03.31 09:23:08] [0000m.00s.701ms] [0] S: Event polling mode autodetection
+[2014.03.31 09:23:08] [0000m.00s.701ms] [0] S: Started up automatically by iCDB Client: AOPUNI:Gu3nol:960
+[2014.03.31 09:23:08] [0000m.00s.701ms] [0] S: Auto close mode
+[2014.03.31 09:23:08] [0000m.00s.701ms] [0] S: Database ID [5a05-4d22-971d-f08d-dc71-9332-d719-3350-13cd-5d3d-cc9c-e5f5]
+[2014.03.31 09:23:08] [0000m.00s.701ms] [0] PathTranslator: BEGIN dumping
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: Local -> global path prefix list
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: [C:\Users] -> [\\AOPUNI\Users]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\Google_Drive\]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: [F:\] -> [\\VBOXSVR\Mentor_lib\]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: Global -> local path prefix list
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: [\\vboxsrv\Google_Drive\] -> [E:\]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: [\\VBOXSVR\Mentor_lib\] -> [F:\]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: [\\AOPUNI\Users] -> [C:\Users]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] PathTranslator: END dumping
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] S: START
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] S: Server startup lock file created
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] S: Listening for client connections on port [10000]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] S: Server network ID [Aopuni:10.0.2.15,Aopuni:10000]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] S: Server GUID [cd38-d4de-ad81-03b9-cd71-9331-e719-3350-9b6d-5d3d-cc9c-e5f5]
+[2014.03.31 09:23:08] [0000m.00s.719ms] [0] S: Project GUID [5a05-4d22-971d-f08d-dc71-9332-d719-3350-13cd-5d3d-cc9c-e5f5]
+[2014.03.31 09:23:08] [0000m.00s.737ms] [0] S: Wrote data to server address file
+[2014.03.31 09:23:08] [0000m.00s.737ms] [0] S: Server startup lock file removed
+[2014.03.31 09:23:08] [0000m.00s.737ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2014.03.31 09:23:08] [0000m.00s.791ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.03.31 09:23:08] [0000m.00s.791ms] [0] S: Local disc access time: 34 us
+[2014.03.31 09:23:08] [0000m.00s.791ms] [0] S: File server access time: 708 us
+[2014.03.31 09:23:08] [0000m.00s.791ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2014.03.31 09:23:08] [0000m.00s.791ms] [0] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb\icdb.dat] size [132344 (129.2 kB)]
+[2014.03.31 09:23:08] [0000m.00s.791ms] [1] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb\icdb.dat] opened in read-write mode
+[2014.03.31 09:23:08] [0000m.00s.791ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.31 09:23:08] [0000m.00s.809ms] [0] Database GUARD OK: [132344]
+[2014.03.31 09:23:08] [0000m.00s.809ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.31 09:23:08] [0000m.00s.809ms] [0] Database GUARD OK: [132344]
+[2014.03.31 09:23:08] [0000m.00s.809ms] [0] SingleFile: [3a44-3e91-3cc2-2ac3] SFI version check [1009] [1009]
+[2014.03.31 09:23:08] [0000m.00s.898ms] [0] SingleFile: [3a44-3e91-3cc2-2ac3] Database SFI header has been read in [80ms 77us]
+[2014.03.31 09:23:08] [0000m.00s.898ms] [0] iCDB Server PI: Server & plugin session [1360]
+[2014.03.31 09:23:08] [0000m.00s.898ms] [0] iCDB Server PI: Opening database [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb]
+[2014.03.31 09:23:08] [0000m.00s.916ms] [0] iCDB Server PI: Database [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb] opened
+[2014.03.31 09:23:08] [0000m.00s.934ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.03.31 09:23:08] [0000m.00s.934ms] [0] iCDB Database: Checking constraint definitions version
+[2014.03.31 09:23:08] [0000m.00s.988ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=2b03-8c01-a6d9-c84c-6e6c-913b-e6c9-1350-9dad-5d3d-cc9c-e5f5] up to date
+[2014.03.31 09:23:08] [0000m.01s.006ms] [0] iCDB Server PI: Initializing plugins
+[2014.03.31 09:23:08] [0000m.01s.006ms] [0] iCDB Server PI: Plugins initialized
+[2014.03.31 09:23:08] [0000m.01s.006ms] [0] S: iCDB database loaded
+[2014.03.31 09:23:08] [0000m.01s.006ms] [0] S: Starting threads
+[2014.03.31 09:23:08] [0000m.01s.006ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.03.31 09:23:08] [0000m.01s.006ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2014.03.31 09:23:08] [0000m.01s.006ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.03.31 09:23:08] [0000m.01s.024ms] [0] IT: Session [1361] for host [Aopuni] user [Gu3nol] with process ID [960] created
+[2014.03.31 09:23:08] [0000m.01s.024ms] [1] SC[1361]: Registered sub-client [DCDV] with ID [1] for session ID [1361] host [Aopuni] user [Gu3nol] process ID [960]
+[2014.03.31 09:23:09] [0000m.01s.132ms] [1] CMT: There are [1] clients now: 1361
+[2014.03.31 09:23:09] [0000m.01s.582ms] [0] IT: Session [1362] for host [Aopuni] user [Gu3nol] with process ID [592] created
+[2014.03.31 09:23:09] [0000m.01s.582ms] [1] SC[1362]: Registered sub-client [ICDBC] with ID [1] for session ID [1362] host [Aopuni] user [Gu3nol] process ID [592]
+[2014.03.31 09:23:09] [0000m.01s.618ms] [1] SC[1362]: Registered sub-client [ConsReuseSubClient] with ID [2] for session ID [1362] host [Aopuni] user [Gu3nol] process ID [592]
+[2014.03.31 09:23:09] [0000m.01s.636ms] [1] CMT: There are [2] clients now: 1361, 1362
+[2014.03.31 09:23:10] [0000m.03s.110ms] [1] SC[1362]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [1362] host [Aopuni] user [Gu3nol] process ID [592]
+[2014.03.31 09:23:10] [0000m.03s.110ms] [1] SC[1362]: UnRegistered sub-client [ConsReuseSubClient] with ID [2] for session ID [1362] host [Aopuni] user [Gu3nol] process ID [592]
+[2014.03.31 09:23:11] [0000m.03s.164ms] [1] CMT: Removed client [1362]
+[2014.03.31 09:23:11] [0000m.03s.164ms] [1] CMT: There are [1] clients now: 1361
+[2014.03.31 09:23:11] [0000m.04s.009ms] [0] IT: Session [1363] for host [Aopuni] user [Gu3nol] with process ID [1148] created
+[2014.03.31 09:23:11] [0000m.04s.009ms] [1] SC[1363]: Registered sub-client [Packager_122984] with ID [1] for session ID [1363] host [Aopuni] user [Gu3nol] process ID [1148]
+[2014.03.31 09:23:11] [0000m.04s.045ms] [1] CMT: There are [2] clients now: 1361, 1363
+[2014.03.31 09:23:12] [0000m.04s.872ms] [1] SC[1363]: UnRegistered sub-client [Packager_122984] with ID [1] for session ID [1363] host [Aopuni] user [Gu3nol] process ID [1148]
+[2014.03.31 09:23:12] [0000m.04s.926ms] [1] CMT: Removed client [1363]
+[2014.03.31 09:23:12] [0000m.04s.926ms] [1] CMT: There are [1] clients now: 1361
+[2014.03.31 09:23:25] [0000m.17s.187ms] [0] IT: Session [1364] for host [Aopuni] user [Gu3nol] with process ID [3060] created
+[2014.03.31 09:23:25] [0000m.17s.187ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[Aopuni] # ClientUserName[Gu3nol] # ClientProcessID[3060] # SessionID[1364]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Emetteur.prj], global path [\\vboxsrv\Google_Drive\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Emetteur.prj]
+[2014.03.31 09:23:25] [0000m.17s.252ms] [1] CMT: There are [2] clients now: 1361, 1364
+[2014.03.31 09:23:25] [0000m.17s.268ms] [0] PrjBackupMgr: Migrating iCDB upgrade backups from directory [EMETTEUR\Default\default.icdb\cdbback] to Project Backup format.
+[2014.03.31 09:23:25] [0000m.17s.268ms] [0] PrjBackupMgr: Migrating iCDB upgrade backup file [2014-03-31 09.22.55-2632].
+[2014.03.31 09:23:25] [0000m.17s.446ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Default\ProjectBackup\backups\2014-03-31 09.22.55 - consDefUpgr.zip] with GUID [3039-07c4-a711-7644-de71-9332-f719-3350-547d-5d3d-cc9c-e5f5]
+[2014.03.31 09:23:25] [0000m.17s.446ms] [1] PrjBackupMgr: Migrated iCDB content backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Default\default.icdb\cdbback\2014-03-31 09.22.55-2632.zip] removed
+[2014.03.31 09:23:25] [0000m.17s.446ms] [0] PrjBackupMgr: Successfully migrated iCDB upgrade backup file [2014-03-31 09.22.55-2632] to Project Backup format [2014-03-31 09.22.55 - consDefUpgr.zip]
+[2014.03.31 09:23:25] [0000m.17s.446ms] [1] SC[1364]: Registered sub-client [Expedition PCB_135218] with ID [1] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:23:25] [0000m.17s.624ms] [1] SC[1364]: Registered sub-client [EEVM] with ID [2] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:23:25] [0000m.17s.738ms] [1] SC[1364]: UnRegistered sub-client [EEVM] with ID [2] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:23:28] [0000m.20s.539ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Default\ProjectBackup\backups\2014-03-31 09.23.25 - auto.zip] with GUID [4530-8d3b-18db-879d-de71-9332-f719-3350-d99d-5d3d-cc9c-e5f5]
+[2014.03.31 09:23:28] [0000m.20s.547ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[5bcc-8c3e-2c1a-b69a-12aa-6336-2aa6-3350-32c4-6040-30df-6d98] CreationTime[Saturday, March 29, 2014 11:10:25] Type[Autosave] Creator[iCDB Server (2014-03-29 11.55.51-3248)] ApplicationName[iCDB Server (2014-03-29 11.55.51-3248)] UserName[Olivier] MachineName[OLIVIER-PC] Description[Autosave] FullFlowName[Expedition Enterprise Flow] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 30120] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Default\ProjectBackup\backups\2014-03-29 12.10.25 - auto.zip] BackupFileSize[692329] Persistent[FALSE]
+[2014.03.31 09:23:28] [0000m.20s.553ms] [0] PrjBackupMgr: Project Backup file [E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Default\ProjectBackup\backups\2014-03-29 12.10.25 - auto.zip] with GUID [5bcc-8c3e-2c1a-b69a-12aa-6336-2aa6-3350-32c4-6040-30df-6d98] removed
+[2014.03.31 09:23:28] [0000m.20s.557ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[4530-8d3b-18db-879d-de71-9332-f719-3350-d99d-5d3d-cc9c-e5f5] CreationTime[Monday, March 31, 2014 07:23:25] Type[Autosave] Creator[iCDB Server (2014-03-31 09.23.08-2856)] ApplicationName[iCDB Server (2014-03-31 09.23.08-2856)] UserName[Gu3nol] MachineName[AOPUNI] Description[Autosave] FullFlowName[Expedition Enterprise Flow] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 30120] GBSBuildId[535943] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[E:\COURS\2A-TELECOMPARISTECH\ROSE\PLUME\PCB\EMETTEUR\Default\ProjectBackup\backups\2014-03-31 09.23.25 - auto.zip] BackupFileSize[763254] Persistent[FALSE]
+[2014.03.31 09:23:28] [0000m.21s.091ms] [1] SC[1364]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:23:31] [0000m.23s.282ms] [1] SC[1364]: Registered sub-client [JobPrefsDBPI_141531] with ID [4] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:23:31] [0000m.23s.300ms] [1] SC[1364]: UnRegistered sub-client [JobPrefsDBPI_141531] with ID [4] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:23:44] [0000m.36s.479ms] [0] DFAMT: File server access time: 1058 us
+[2014.03.31 09:33:36] [0010m.28s.586ms] [0] IT: Session [1365] for host [Aopuni] user [Gu3nol] with process ID [2972] created
+[2014.03.31 09:33:36] [0010m.28s.588ms] [1] SC[1365]: Registered sub-client [ICDBC] with ID [1] for session ID [1365] host [Aopuni] user [Gu3nol] process ID [2972]
+[2014.03.31 09:33:36] [0010m.28s.609ms] [1] SC[1365]: Registered sub-client [ConsReuseSubClient] with ID [2] for session ID [1365] host [Aopuni] user [Gu3nol] process ID [2972]
+[2014.03.31 09:33:36] [0010m.28s.627ms] [1] CMT: There are [3] clients now: 1361, 1364, 1365
+[2014.03.31 09:33:38] [0010m.30s.492ms] [1] SC[1365]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [1365] host [Aopuni] user [Gu3nol] process ID [2972]
+[2014.03.31 09:33:38] [0010m.30s.495ms] [1] SC[1365]: UnRegistered sub-client [ConsReuseSubClient] with ID [2] for session ID [1365] host [Aopuni] user [Gu3nol] process ID [2972]
+[2014.03.31 09:33:38] [0010m.30s.578ms] [1] CMT: Removed client [1365]
+[2014.03.31 09:33:38] [0010m.30s.578ms] [1] CMT: There are [2] clients now: 1361, 1364
+[2014.03.31 09:33:38] [0010m.31s.079ms] [0] IT: Session [1366] for host [Aopuni] user [Gu3nol] with process ID [2620] created
+[2014.03.31 09:33:38] [0010m.31s.081ms] [1] SC[1366]: Registered sub-client [Packager_759859] with ID [1] for session ID [1366] host [Aopuni] user [Gu3nol] process ID [2620]
+[2014.03.31 09:33:38] [0010m.31s.083ms] [1] CMT: There are [3] clients now: 1361, 1364, 1366
+[2014.03.31 09:33:39] [0010m.31s.411ms] [1] SC[1366]: UnRegistered sub-client [Packager_759859] with ID [1] for session ID [1366] host [Aopuni] user [Gu3nol] process ID [2620]
+[2014.03.31 09:33:39] [0010m.31s.418ms] [1] CMT: Removed client [1366]
+[2014.03.31 09:33:39] [0010m.31s.419ms] [1] CMT: There are [2] clients now: 1361, 1364
+[2014.03.31 09:33:46] [0010m.39s.083ms] [1] SC[1364]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:46] [0010m.39s.114ms] [1] SC[1364]: Registered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:46] [0010m.39s.117ms] [1] SC[1364]: UnRegistered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:47] [0010m.39s.716ms] [1] SC[1364]: Registered sub-client [JobPrefsDBPI_770046] with ID [6] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:47] [0010m.39s.747ms] [1] SC[1364]: UnRegistered sub-client [JobPrefsDBPI_770046] with ID [6] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:49] [0010m.41s.244ms] [1] SC[1364]: Registered sub-client [JobPrefsDBPI_771718] with ID [7] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:49] [0010m.41s.272ms] [1] SC[1364]: UnRegistered sub-client [JobPrefsDBPI_771718] with ID [7] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:49] [0010m.41s.570ms] [0] IT: Session [1367] for host [Aopuni] user [Gu3nol] with process ID [1344] created
+[2014.03.31 09:33:49] [0010m.41s.572ms] [1] SC[1367]: Registered sub-client [Packager_772000] with ID [1] for session ID [1367] host [Aopuni] user [Gu3nol] process ID [1344]
+[2014.03.31 09:33:49] [0010m.41s.606ms] [1] CMT: There are [3] clients now: 1361, 1364, 1367
+[2014.03.31 09:33:50] [0010m.42s.179ms] [1] SC[1367]: UnRegistered sub-client [Packager_772000] with ID [1] for session ID [1367] host [Aopuni] user [Gu3nol] process ID [1344]
+[2014.03.31 09:33:50] [0010m.42s.253ms] [1] CMT: Removed client [1367]
+[2014.03.31 09:33:50] [0010m.42s.253ms] [1] CMT: There are [2] clients now: 1361, 1364
+[2014.03.31 09:33:51] [0010m.43s.164ms] [0] IT: Session [1368] for host [Aopuni] user [Gu3nol] with process ID [2468] created
+[2014.03.31 09:33:51] [0010m.43s.166ms] [1] SC[1368]: Registered sub-client [Expedition_773750] with ID [1] for session ID [1368] host [Aopuni] user [Gu3nol] process ID [2468]
+[2014.03.31 09:33:51] [0010m.43s.176ms] [1] CMT: There are [3] clients now: 1361, 1364, 1368
+[2014.03.31 09:33:51] [0010m.43s.233ms] [1] SC[1368]: UnRegistered sub-client [Expedition_773750] with ID [1] for session ID [1368] host [Aopuni] user [Gu3nol] process ID [2468]
+[2014.03.31 09:33:51] [0010m.43s.271ms] [1] CMT: Removed client [1368]
+[2014.03.31 09:33:51] [0010m.43s.271ms] [1] CMT: There are [2] clients now: 1361, 1364
+[2014.03.31 09:33:52] [0010m.44s.262ms] [0] IT: Session [1369] for host [Aopuni] user [Gu3nol] with process ID [2468] created
+[2014.03.31 09:33:52] [0010m.44s.263ms] [1] SC[1369]: Registered sub-client [JobPrefsDBPI_774937] with ID [1] for session ID [1369] host [Aopuni] user [Gu3nol] process ID [2468]
+[2014.03.31 09:33:52] [0010m.44s.288ms] [1] CMT: There are [3] clients now: 1361, 1364, 1369
+[2014.03.31 09:33:52] [0010m.44s.304ms] [1] SC[1369]: UnRegistered sub-client [JobPrefsDBPI_774937] with ID [1] for session ID [1369] host [Aopuni] user [Gu3nol] process ID [2468]
+[2014.03.31 09:33:52] [0010m.44s.381ms] [1] CMT: Removed client [1369]
+[2014.03.31 09:33:52] [0010m.44s.382ms] [1] CMT: There are [2] clients now: 1361, 1364
+[2014.03.31 09:33:52] [0010m.44s.896ms] [0] IT: Session [1370] for host [Aopuni] user [Gu3nol] with process ID [2468] created
+[2014.03.31 09:33:52] [0010m.44s.899ms] [1] SC[1370]: Registered sub-client [JobPrefsDBPI_775640] with ID [1] for session ID [1370] host [Aopuni] user [Gu3nol] process ID [2468]
+[2014.03.31 09:33:52] [0010m.44s.937ms] [1] CMT: There are [3] clients now: 1361, 1364, 1370
+[2014.03.31 09:33:53] [0010m.45s.312ms] [1] SC[1370]: UnRegistered sub-client [JobPrefsDBPI_775640] with ID [1] for session ID [1370] host [Aopuni] user [Gu3nol] process ID [2468]
+[2014.03.31 09:33:53] [0010m.45s.399ms] [1] CMT: Removed client [1370]
+[2014.03.31 09:33:53] [0010m.45s.400ms] [1] CMT: There are [2] clients now: 1361, 1364
+[2014.03.31 09:33:53] [0010m.45s.944ms] [0] IT: Session [1371] for host [Aopuni] user [Gu3nol] with process ID [2168] created
+[2014.03.31 09:33:53] [0010m.45s.945ms] [1] SC[1371]: Registered sub-client [JobPrefsDBPI_776734] with ID [1] for session ID [1371] host [Aopuni] user [Gu3nol] process ID [2168]
+[2014.03.31 09:33:53] [0010m.45s.954ms] [1] CMT: There are [3] clients now: 1361, 1364, 1371
+[2014.03.31 09:33:53] [0010m.46s.020ms] [1] SC[1371]: Registered sub-client [Expedition_776921] with ID [2] for session ID [1371] host [Aopuni] user [Gu3nol] process ID [2168]
+[2014.03.31 09:33:53] [0010m.46s.091ms] [1] SC[1371]: UnRegistered sub-client [JobPrefsDBPI_776734] with ID [1] for session ID [1371] host [Aopuni] user [Gu3nol] process ID [2168]
+[2014.03.31 09:33:54] [0010m.46s.191ms] [1] SC[1371]: UnRegistered sub-client [Expedition_776921] with ID [2] for session ID [1371] host [Aopuni] user [Gu3nol] process ID [2168]
+[2014.03.31 09:33:54] [0010m.46s.231ms] [1] CMT: Removed client [1371]
+[2014.03.31 09:33:54] [0010m.46s.232ms] [1] CMT: There are [2] clients now: 1361, 1364
+[2014.03.31 09:33:54] [0010m.46s.570ms] [1] SC[1364]: Registered sub-client [EEVM_EEVM_139028972] with ID [8] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:54] [0010m.46s.582ms] [1] SC[1364]: UnRegistered sub-client [EEVM_EEVM_139028972] with ID [8] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:54] [0010m.46s.591ms] [1] SC[1364]: Registered sub-client [EEVM_EEVM_139028972] with ID [9] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:54] [0010m.46s.593ms] [1] SC[1364]: UnRegistered sub-client [EEVM_EEVM_139028972] with ID [9] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:54] [0010m.46s.602ms] [1] SC[1364]: Registered sub-client [EEVM_EEVM_139028972] with ID [10] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:54] [0010m.46s.612ms] [1] SC[1364]: UnRegistered sub-client [EEVM_EEVM_139028972] with ID [10] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:54] [0010m.46s.844ms] [1] SC[1364]: UnRegistered sub-client [Expedition PCB_135218] with ID [1] for session ID [1364] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:54] [0010m.46s.890ms] [1] CMT: Removed client [1364]
+[2014.03.31 09:33:54] [0010m.46s.891ms] [1] CMT: There are [1] clients now: 1361
+[2014.03.31 09:33:55] [0010m.47s.269ms] [0] IT: Session [1372] for host [Aopuni] user [Gu3nol] with process ID [3060] created
+[2014.03.31 09:33:55] [0010m.47s.271ms] [1] SC[1372]: Registered sub-client [Expedition PCB_778187] with ID [1] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:55] [0010m.47s.298ms] [1] CMT: There are [2] clients now: 1361, 1372
+[2014.03.31 09:33:56] [0010m.48s.334ms] [1] SC[1372]: Registered sub-client [JobPrefsDBPI_779281] with ID [2] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:56] [0010m.48s.344ms] [1] SC[1372]: UnRegistered sub-client [JobPrefsDBPI_779281] with ID [2] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:59] [0010m.51s.249ms] [1] SC[1372]: Registered sub-client [JobPrefsDBPI_782171] with ID [3] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:59] [0010m.51s.260ms] [1] SC[1372]: UnRegistered sub-client [JobPrefsDBPI_782171] with ID [3] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:33:59] [0010m.51s.284ms] [1] SC[1372]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:08] [0013m.00s.293ms] [0] IT: Session [1373] for host [Aopuni] user [Gu3nol] with process ID [580] created
+[2014.03.31 09:36:08] [0013m.00s.294ms] [1] SC[1373]: Registered sub-client [ICDBC] with ID [1] for session ID [1373] host [Aopuni] user [Gu3nol] process ID [580]
+[2014.03.31 09:36:08] [0013m.00s.313ms] [1] CMT: There are [3] clients now: 1361, 1372, 1373
+[2014.03.31 09:36:08] [0013m.00s.322ms] [1] SC[1373]: Registered sub-client [ConsReuseSubClient] with ID [2] for session ID [1373] host [Aopuni] user [Gu3nol] process ID [580]
+[2014.03.31 09:36:10] [0013m.02s.599ms] [1] SC[1373]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [1373] host [Aopuni] user [Gu3nol] process ID [580]
+[2014.03.31 09:36:10] [0013m.02s.603ms] [1] SC[1373]: UnRegistered sub-client [ConsReuseSubClient] with ID [2] for session ID [1373] host [Aopuni] user [Gu3nol] process ID [580]
+[2014.03.31 09:36:10] [0013m.02s.633ms] [1] CMT: Removed client [1373]
+[2014.03.31 09:36:10] [0013m.02s.633ms] [1] CMT: There are [2] clients now: 1361, 1372
+[2014.03.31 09:36:11] [0013m.03s.437ms] [0] IT: Session [1374] for host [Aopuni] user [Gu3nol] with process ID [1792] created
+[2014.03.31 09:36:11] [0013m.03s.439ms] [1] CMT: There are [3] clients now: 1361, 1372, 1374
+[2014.03.31 09:36:11] [0013m.03s.439ms] [1] SC[1374]: Registered sub-client [Packager_903328] with ID [1] for session ID [1374] host [Aopuni] user [Gu3nol] process ID [1792]
+[2014.03.31 09:36:11] [0013m.03s.813ms] [1] SC[1374]: UnRegistered sub-client [Packager_903328] with ID [1] for session ID [1374] host [Aopuni] user [Gu3nol] process ID [1792]
+[2014.03.31 09:36:11] [0013m.03s.842ms] [1] CMT: Removed client [1374]
+[2014.03.31 09:36:11] [0013m.03s.842ms] [1] CMT: There are [2] clients now: 1361, 1372
+[2014.03.31 09:36:25] [0013m.17s.765ms] [1] SC[1372]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:25] [0013m.17s.788ms] [1] SC[1372]: Registered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:25] [0013m.17s.790ms] [1] SC[1372]: UnRegistered sub-client [EEVM_EEVM_1635240] with ID [5] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:26] [0013m.18s.488ms] [1] SC[1372]: Registered sub-client [JobPrefsDBPI_918437] with ID [6] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:26] [0013m.18s.519ms] [1] SC[1372]: UnRegistered sub-client [JobPrefsDBPI_918437] with ID [6] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:27] [0013m.20s.086ms] [1] SC[1372]: Registered sub-client [JobPrefsDBPI_920031] with ID [7] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:27] [0013m.20s.118ms] [1] SC[1372]: UnRegistered sub-client [JobPrefsDBPI_920031] with ID [7] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:28] [0013m.20s.498ms] [0] IT: Session [1375] for host [Aopuni] user [Gu3nol] with process ID [2632] created
+[2014.03.31 09:36:28] [0013m.20s.499ms] [1] SC[1375]: Registered sub-client [Packager_920390] with ID [1] for session ID [1375] host [Aopuni] user [Gu3nol] process ID [2632]
+[2014.03.31 09:36:28] [0013m.20s.557ms] [1] CMT: There are [3] clients now: 1361, 1372, 1375
+[2014.03.31 09:36:29] [0013m.21s.162ms] [1] SC[1375]: UnRegistered sub-client [Packager_920390] with ID [1] for session ID [1375] host [Aopuni] user [Gu3nol] process ID [2632]
+[2014.03.31 09:36:29] [0013m.21s.262ms] [1] CMT: Removed client [1375]
+[2014.03.31 09:36:29] [0013m.21s.263ms] [1] CMT: There are [2] clients now: 1361, 1372
+[2014.03.31 09:36:30] [0013m.22s.140ms] [0] IT: Session [1376] for host [Aopuni] user [Gu3nol] with process ID [1136] created
+[2014.03.31 09:36:30] [0013m.22s.142ms] [1] SC[1376]: Registered sub-client [Expedition_922015] with ID [1] for session ID [1376] host [Aopuni] user [Gu3nol] process ID [1136]
+[2014.03.31 09:36:30] [0013m.22s.169ms] [1] CMT: There are [3] clients now: 1361, 1372, 1376
+[2014.03.31 09:36:30] [0013m.22s.207ms] [1] SC[1376]: UnRegistered sub-client [Expedition_922015] with ID [1] for session ID [1376] host [Aopuni] user [Gu3nol] process ID [1136]
+[2014.03.31 09:36:30] [0013m.22s.270ms] [1] CMT: Removed client [1376]
+[2014.03.31 09:36:30] [0013m.22s.271ms] [1] CMT: There are [2] clients now: 1361, 1372
+[2014.03.31 09:36:31] [0013m.23s.332ms] [0] IT: Session [1377] for host [Aopuni] user [Gu3nol] with process ID [1136] created
+[2014.03.31 09:36:31] [0013m.23s.335ms] [1] SC[1377]: Registered sub-client [JobPrefsDBPI_923234] with ID [1] for session ID [1377] host [Aopuni] user [Gu3nol] process ID [1136]
+[2014.03.31 09:36:31] [0013m.23s.377ms] [1] SC[1377]: UnRegistered sub-client [JobPrefsDBPI_923234] with ID [1] for session ID [1377] host [Aopuni] user [Gu3nol] process ID [1136]
+[2014.03.31 09:36:31] [0013m.23s.378ms] [1] CMT: There are [3] clients now: 1361, 1372, 1377
+[2014.03.31 09:36:31] [0013m.23s.379ms] [1] CMT: Removed client [1377]
+[2014.03.31 09:36:31] [0013m.23s.380ms] [1] CMT: There are [2] clients now: 1361, 1372
+[2014.03.31 09:36:31] [0013m.24s.022ms] [0] IT: Session [1378] for host [Aopuni] user [Gu3nol] with process ID [1136] created
+[2014.03.31 09:36:31] [0013m.24s.025ms] [1] SC[1378]: Registered sub-client [JobPrefsDBPI_923921] with ID [1] for session ID [1378] host [Aopuni] user [Gu3nol] process ID [1136]
+[2014.03.31 09:36:31] [0013m.24s.085ms] [1] CMT: There are [3] clients now: 1361, 1372, 1378
+[2014.03.31 09:36:32] [0013m.24s.466ms] [1] SC[1378]: UnRegistered sub-client [JobPrefsDBPI_923921] with ID [1] for session ID [1378] host [Aopuni] user [Gu3nol] process ID [1136]
+[2014.03.31 09:36:32] [0013m.24s.487ms] [1] CMT: Removed client [1378]
+[2014.03.31 09:36:32] [0013m.24s.488ms] [1] CMT: There are [2] clients now: 1361, 1372
+[2014.03.31 09:36:32] [0013m.25s.102ms] [0] IT: Session [1379] for host [Aopuni] user [Gu3nol] with process ID [2608] created
+[2014.03.31 09:36:32] [0013m.25s.105ms] [1] SC[1379]: Registered sub-client [JobPrefsDBPI_924984] with ID [1] for session ID [1379] host [Aopuni] user [Gu3nol] process ID [2608]
+[2014.03.31 09:36:33] [0013m.25s.182ms] [1] SC[1379]: Registered sub-client [Expedition_925140] with ID [2] for session ID [1379] host [Aopuni] user [Gu3nol] process ID [2608]
+[2014.03.31 09:36:33] [0013m.25s.193ms] [1] CMT: There are [3] clients now: 1361, 1372, 1379
+[2014.03.31 09:36:33] [0013m.25s.256ms] [1] SC[1379]: UnRegistered sub-client [JobPrefsDBPI_924984] with ID [1] for session ID [1379] host [Aopuni] user [Gu3nol] process ID [2608]
+[2014.03.31 09:36:33] [0013m.25s.366ms] [1] SC[1379]: UnRegistered sub-client [Expedition_925140] with ID [2] for session ID [1379] host [Aopuni] user [Gu3nol] process ID [2608]
+[2014.03.31 09:36:33] [0013m.25s.395ms] [1] CMT: Removed client [1379]
+[2014.03.31 09:36:33] [0013m.25s.395ms] [1] CMT: There are [2] clients now: 1361, 1372
+[2014.03.31 09:36:33] [0013m.25s.853ms] [1] SC[1372]: Registered sub-client [EEVM_EEVM_296561948] with ID [8] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:33] [0013m.25s.865ms] [1] SC[1372]: UnRegistered sub-client [EEVM_EEVM_296561948] with ID [8] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:33] [0013m.25s.877ms] [1] SC[1372]: Registered sub-client [EEVM_EEVM_296561948] with ID [9] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:33] [0013m.25s.879ms] [1] SC[1372]: UnRegistered sub-client [EEVM_EEVM_296561948] with ID [9] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:33] [0013m.25s.890ms] [1] SC[1372]: Registered sub-client [EEVM_EEVM_296561948] with ID [10] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:33] [0013m.25s.900ms] [1] SC[1372]: UnRegistered sub-client [EEVM_EEVM_296561948] with ID [10] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:34] [0013m.26s.150ms] [1] SC[1372]: UnRegistered sub-client [Expedition PCB_778187] with ID [1] for session ID [1372] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:34] [0013m.26s.202ms] [1] CMT: Removed client [1372]
+[2014.03.31 09:36:34] [0013m.26s.203ms] [1] CMT: There are [1] clients now: 1361
+[2014.03.31 09:36:34] [0013m.26s.605ms] [0] IT: Session [1380] for host [Aopuni] user [Gu3nol] with process ID [3060] created
+[2014.03.31 09:36:34] [0013m.26s.607ms] [1] CMT: There are [2] clients now: 1361, 1380
+[2014.03.31 09:36:34] [0013m.26s.608ms] [1] SC[1380]: Registered sub-client [Expedition PCB_926500] with ID [1] for session ID [1380] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:35] [0013m.27s.607ms] [1] SC[1380]: Registered sub-client [JobPrefsDBPI_927562] with ID [2] for session ID [1380] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:35] [0013m.27s.616ms] [1] SC[1380]: UnRegistered sub-client [JobPrefsDBPI_927562] with ID [2] for session ID [1380] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:37] [0013m.29s.681ms] [1] SC[1380]: Registered sub-client [JobPrefsDBPI_929640] with ID [3] for session ID [1380] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:37] [0013m.29s.692ms] [1] SC[1380]: UnRegistered sub-client [JobPrefsDBPI_929640] with ID [3] for session ID [1380] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 09:36:37] [0013m.29s.716ms] [1] SC[1380]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1380] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 10:23:54] [0060m.46s.986ms] [1] SC[1380]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1380] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 10:23:55] [0060m.47s.299ms] [1] SC[1380]: UnRegistered sub-client [Expedition PCB_926500] with ID [1] for session ID [1380] host [Aopuni] user [Gu3nol] process ID [3060]
+[2014.03.31 10:23:55] [0060m.47s.352ms] [1] CMT: Removed client [1380]
+[2014.03.31 10:23:55] [0060m.47s.352ms] [1] CMT: There are [1] clients now: 1361
+[2014.03.31 10:23:56] [0060m.48s.920ms] [1] SC[1361]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1361] host [Aopuni] user [Gu3nol] process ID [960]
+[2014.03.31 10:23:56] [0060m.48s.950ms] [1] CMT: Removed client [1361]
+[2014.03.31 10:23:56] [0060m.48s.951ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.03.31 10:23:58] [0060m.50s.146ms] [0] CMT: Starting server auto-close
+[2014.03.31 10:23:58] [0060m.50s.167ms] [0] S: Closing server
+[2014.03.31 10:23:58] [0060m.50s.257ms] [0] iCDB Server PI: Closing plugins
+[2014.03.31 10:23:58] [0060m.50s.257ms] [0] iCDB Server PI: Plugins closed
+[2014.03.31 10:23:58] [0060m.50s.258ms] [0] iCDB Server PI: Unloading database
+[2014.03.31 10:23:58] [0060m.50s.259ms] [0] iCDB Server PI: Saving storage
+[2014.03.31 10:23:58] [0060m.50s.259ms] [0] iCDB Server PI: Closing database
+[2014.03.31 10:23:58] [0060m.50s.264ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[68%] data[86%]
+[2014.03.31 10:23:58] [0060m.50s.264ms] [1] iCDB Server PI: Stats: Database file size [283768 (277.1 kB)]
+[2014.03.31 10:23:58] [0060m.50s.267ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2014.03.31 10:23:58] [0060m.50s.274ms] [0] iCDB Server PI: Database closed
+[2014.03.31 10:23:58] [0060m.50s.274ms] [0] iCDB Server PI: Defragmenting database
+[2014.03.31 10:23:58] [0060m.50s.275ms] [0] iCDB Server PI: Creating database [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb] backup to file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb\cdbback\2014-03-31 10.23.58-2856-d.zip]
+[2014.03.31 10:23:59] [0060m.51s.430ms] [0] iCDB Server PI: Database backup: DONE
+[2014.03.31 10:23:59] [0060m.51s.438ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.03.31 10:23:59] [0060m.51s.438ms] [0] Database GUARD OK: [283768]
+[2014.03.31 10:23:59] [0060m.51s.439ms] [0] SingleFile: [3a44-3e91-3cc2-2ac3] SFI version check [1009] [1009]
+[2014.03.31 10:23:59] [0060m.51s.504ms] [0] SingleFile: [3a44-3e91-3cc2-2ac3] Database SFI header has been read in [75ms 225us]
+[2014.03.31 10:23:59] [0060m.51s.817ms] [1] iCDB Server PI: Stats: Database file sizes: before[283768 (277.1 kB)], after[127280 (124.3 kB)], gain[156488 (152.8 kB)]
+[2014.03.31 10:23:59] [0060m.51s.822ms] [0] Single file [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb\icdb.dat] closed with size [127280 (124.3 kB)]
+[2014.03.31 10:23:59] [0060m.51s.823ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2014.03.31 10:23:59] [0060m.51s.824ms] [1] BackupTransaction: Removing database backup [E:\Cours\2A-TelecomParisTech\ROSE\plume\PCB\Emetteur\Default\default.icdb\cdbback\2014-03-31 10.23.58-2856-d.zip]
+[2014.03.31 10:23:59] [0060m.51s.826ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [702698] ticks
+[2014.03.31 10:23:59] [0060m.51s.826ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [289464] microseconds
+[2014.03.31 10:23:59] [0060m.51s.827ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [955]
+[2014.03.31 10:23:59] [0060m.51s.828ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3299] commands per second
+[2014.03.31 10:23:59] [0060m.51s.918ms] [0] S: STOP

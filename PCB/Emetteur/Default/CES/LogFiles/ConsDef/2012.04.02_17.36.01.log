@@ -1,0 +1,27 @@
+Mon Apr 02 17:36:01 2012
+
+Project path: C:\Documents and Settings\Alexis\Mes documents\Enseignement\ELECINF344\2012\SaMoRa\PCB_base_station\Default\default.icdb
+
+Loaded cns info: C:\MentorGraphics\7.9.3EE\SDD_HOME\standard\ce_ee.cns=7.10.23
+Before global upgrade from version: 7.10.23 to version: 7.10.23
+
+BeforeGlobalUpgrade took 21ms, 0s
+
+Upgrade snapshot DCDV
+UpgradeSnapshot took 20ms, 0s
+
+Upgrade snapshot DCDV_INST_PROP_TEMPORARY_STORAGE
+UpgradeSnapshot took 30ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 20ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 10ms, 0s
+
+Upgrade snapshot RefSync
+UpgradeSnapshot took 10ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

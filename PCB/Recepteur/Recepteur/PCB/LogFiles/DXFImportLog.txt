@@ -1,0 +1,16 @@
+
+                                    DXFImport
+                                    ---------
+
+                        06:17 PM Tuesday, April 01, 2014
+           Job Name: U:\2014\PLUME\PCB\RECEPTEUR\RECEPTEUR\PCB\PCB.pcb
+
+    DXFile "U:\2014\Plume\logo\plume.dxf" loaded successfully.
+    
+    DXFile U:\2014\Plume\logo\plume.dxf created 01/01/1990 at 00:00:00
+    
+
+    DXF data has been imported onto a new layer. 
+    To make this data visible select the checkbox for the new user layer in Display Control.    
+    DXFile "U:\2014\Plume\logo\plume.dxf" imported successfully.
+    

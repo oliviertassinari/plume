@@ -1,0 +1,77 @@
+<!ELEMENT DCML (
+	Name, 
+	ScreenName, 
+	ShortDescription, 
+	Object 
+)>
+<!ATTLIST DCML Type CDATA #REQUIRED>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT ScreenName (#PCDATA)>
+<!ELEMENT ShortDescription (#PCDATA)>
+<!ELEMENT Object (
+	Name, 
+	ScreenName, 
+	ShortDescription, 
+	ParameterGroups?, 
+	Behaviors?, 
+	SubObjects?
+)>
+<!ATTLIST Object Type CDATA "null">
+<!ELEMENT ParameterGroups (ParameterGroup)*>
+<!ELEMENT ParameterGroup (
+	Name, 
+	ScreenName, 
+	ShortDescription, 
+	Parameters
+)>
+<!ELEMENT Parameters (Parameter)*>
+<!ELEMENT Parameter (
+	Name, 
+	ScreenName, 
+	ShortDescription, 
+	Value
+)>
+
+<!-- Update this Entity |OR| list to add support for new types. -->
+<!ENTITY % ValueTypes "#PCDATA|PaperDimension|RollPaperDimension|PictureDimension|Margins|Program|Color|DataFile|List">
+<!-- Definition for Hosts -->
+
+<!ELEMENT PaperDimension ( PaperLength, PaperWidth, PaperUnits )>
+<!ELEMENT PictureDimension ( PictureLength, PictureWidth, PictureUnits )>
+<!ELEMENT Margins ( MarginTop, MarginLeft, MarginBottom, MarginRight, MarginUnits )>
+<!ELEMENT Program ( Executable, Options )>
+<!ELEMENT RollPaperDimension ( PaperWidth, PaperUnits )>
+<!ELEMENT PaperLength (#PCDATA)>
+<!ELEMENT PaperWidth (#PCDATA)>
+<!ELEMENT PaperUnits (#PCDATA)>
+<!ELEMENT PictureLength (#PCDATA)>
+<!ELEMENT PictureWidth (#PCDATA)>
+<!ELEMENT PictureUnits (#PCDATA)>
+<!ELEMENT Executable (#PCDATA)>
+<!ELEMENT Options (#PCDATA)>
+<!ELEMENT MarginTop (#PCDATA)>
+<!ELEMENT MarginLeft (#PCDATA)>
+<!ELEMENT MarginBottom (#PCDATA)>
+<!ELEMENT MarginRight (#PCDATA)>
+<!ELEMENT MarginUnits (#PCDATA)>
+<!ELEMENT Color ( Red, Green, Blue )>
+<!ELEMENT Red (#PCDATA)>
+<!ELEMENT Green (#PCDATA)>
+<!ELEMENT Blue  (#PCDATA)>
+<!ELEMENT DataFile ( FileType, FilePath, FileSelected )>
+<!ELEMENT FileType (#PCDATA)>
+<!ELEMENT FilePath (#PCDATA)>
+<!ELEMENT FileSelected  (#PCDATA)>
+<!ELEMENT List (ListItem)*>
+<!ELEMENT ListItem  (%ValueTypes;)*>
+<!ATTLIST List DataType CDATA "null">
+<!ATTLIST ListItem DataType CDATA "null">
+<!ELEMENT Value (%ValueTypes;)*>
+<!ATTLIST Value DataType CDATA #REQUIRED>
+<!ELEMENT Behaviors (Behavior)*>
+<!ELEMENT Behavior (
+	Name, 
+	ScreenName, 
+	ShortDescription
+)>
+<!ELEMENT SubObjects (Object)*>

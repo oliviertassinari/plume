@@ -1,0 +1,129 @@
+###############################################
+# On-Board Differential Microphone
+# ---------------------------------------------
+# PowerTune mode PTM_R4 is used for high
+# performance 16-bit audio. 
+#
+# For normal USB Audio, no hardware change
+# is required.
+#
+# If using an external interface, SW2.4 and
+# SW2.5 of the USB-ModEVM must be set to
+# HI and clocks can be connected to J14 of
+# the USB-ModEVM.
+#
+# IN3L/R is are routed differentially to the
+# LADC
+###############################################
+
+
+
+###############################################
+# Clock Settings
+# ---------------------------------------------
+# The codec receives: MCLK = 21.429 MHz,
+# BLCK = 2.6786 MHz, WCLK = 83.709 kHz
+###############################################
+#
+# Select Page 0
+w 30 00 00
+#
+# NADC = 2, MADC = 1 
+w 30 12 82
+r 30 12 82
+w 30 13 82
+r 30 13 82
+#
+###############################################
+
+
+
+###############################################
+# Signal Processing Settings
+###############################################
+#
+# Select Page 0
+w 30 00 00
+#
+# Set the ADC Mode to PRB_P1
+w 30 3d 01
+r 30 3d 01
+#
+# Set I2S dat length to 32 bits
+w 30 1b 30
+r 30 1b 30
+###############################################
+
+
+
+###############################################
+# Initialize Codec
+###############################################
+#
+# Select Page 1
+w 30 00 01
+#
+# Disable weak AVDD in presence of external
+# AVDD supply
+w 30 01 08
+r 30 01 08
+#
+# Enable Master Analog Power Control
+w 30 02 00
+r 30 02 00
+#
+# Select ADC PTM_R4
+w 30 3d 00
+r 30 3d 00
+##
+# Set the input powerup time to 3.1ms (for ADC)
+w 30 47 32
+r 30 47 32
+#
+# Set the REF charging time to 40ms
+w 30 7b 01
+r 30 7b 01
+#
+###############################################
+
+
+
+###############################################
+# Recording Setup
+###############################################
+#
+# Select Page 1
+w 30 00 01
+#
+# Powerup MIC BIAS
+w 30 33 40
+r 30 33 40
+#
+# Route IN3L to LEFT_P with 10K input impedance
+w 30 34 04
+r 30 34 04
+#
+# Route IN3R to LEFT_M with 10K input impedance
+w 30 36 04
+r 30 36 04
+#
+# Unmute Left MICPGA
+w 30 3b 5f
+r 30 3b 5f
+#
+# Unmute Right MICPGA
+w 30 3c 5f
+r 30 3c 5f
+#
+# Select Page 0
+w 30 00 00
+#
+# Power up LADC/RADC
+w 30 51 c0
+r 30 51 c0
+#
+# Unmute LADC/RADC
+w 30 52 00
+r 30 52 00
+#
+###############################################

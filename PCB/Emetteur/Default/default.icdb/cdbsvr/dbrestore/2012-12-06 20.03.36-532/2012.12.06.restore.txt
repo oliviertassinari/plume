@@ -1,0 +1,33 @@
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] WELCOME
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] iCDB Project Backup ver.1.094, xrkHMDMV+MGcQyomTkO/8A, build:525925 created 2012-10-30 14:46:11, sources stamp:xrkHMDMV+MGcQyomTkO/8A
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] Base flow version [7.9.4]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] GBS Install Id [26419], Flow Id [EE 7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] UPDATE Install Info, GBS Install Id [27817], UPDATE Name [Expedition Enterprise Flow - Update 4 for EE7.9.4]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] Machine [MURUROA]  User [Gu3nol]  PID [532]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] Current working dir [C:\Windows\system32]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] PATH [C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] SDD_HOME [C:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] SDD_PLATFORM [win32]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] WDIR [C:\MentorGraphics;C:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [1] Local iCDB working dir [C:\MentorGraphics\iCDB] on file system [NTFS]
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] iCDB database restored from backup: E:\Electronique\telepact\Cube\Default\ProjectBackup\backups\2012-04-04 19.02.52 - auto.zip
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] Creation time: 2012-04-04 19.02.52
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] Type: Autosave
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] Backup file size: 346 622 bytes (338.5 kB)
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] Backup GUID: d8c4-05e3-a7e6-ea83-cbe7-c7f0-ce7c-7f40-ae45-a392-ef9c-69d8
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] Creator: iCDB Server (2012-04-04 19.02.52-2624)
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] Application name: iCDB Server (2012-04-04 19.02.52-2624)
+[2012.12.06 20:03:36] [0000m.30s.796ms] [0] User name: Alexis
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] Machine name: LUTIN2
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] Description: Autosave
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] Full flow name: Expedition Enterprise Flow
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] Flow ID: EE7.9.3; EE 7.9.3
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] GBS install ID: 23291; 23295
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] GBS build ID: 488395
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] iCDB version: 2704
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] iCDB database file size: 73 520 bytes (71.8 kB)
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] DONE
+[2012.12.06 20:03:36] [0000m.30s.812ms] [0] .
